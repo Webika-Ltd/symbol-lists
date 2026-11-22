@@ -1,0 +1,329 @@
+{
+  "slug": "food-drink",
+  "title": "Food & Drink",
+  "url": "https://free-symbols.com/collections/food-drink",
+  "symbols": [
+    {
+      "symbol": "🍕",
+      "name": "Pizza",
+      "unicode": "U+1F355",
+      "html": "&#127829;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/pizza"
+    },
+    {
+      "symbol": "🍔",
+      "name": "Hamburger",
+      "unicode": "U+1F354",
+      "html": "&#127828;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/hamburger"
+    },
+    {
+      "symbol": "🍟",
+      "name": "French Fries",
+      "unicode": "U+1F35F",
+      "html": "&#127839;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/french-fries"
+    },
+    {
+      "symbol": "🌮",
+      "name": "Taco",
+      "unicode": "U+1F32E",
+      "html": "&#127790;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/taco"
+    },
+    {
+      "symbol": "🌯",
+      "name": "Burrito",
+      "unicode": "U+1F32F",
+      "html": "&#127791;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/burrito"
+    },
+    {
+      "symbol": "🍜",
+      "name": "Steaming Bowl",
+      "unicode": "U+1F35C",
+      "html": "&#127836;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/asian-food/steaming-bowl"
+    },
+    {
+      "symbol": "🍣",
+      "name": "Sushi",
+      "unicode": "U+1F363",
+      "html": "&#127843;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/asian-food/sushi"
+    },
+    {
+      "symbol": "🍱",
+      "name": "Bento Box",
+      "unicode": "U+1F371",
+      "html": "&#127857;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/asian-food/bento-box"
+    },
+    {
+      "symbol": "🍛",
+      "name": "Curry Rice",
+      "unicode": "U+1F35B",
+      "html": "&#127835;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/asian-food/curry-rice"
+    },
+    {
+      "symbol": "🍲",
+      "name": "Pot Of Food",
+      "unicode": "U+1F372",
+      "html": "&#127858;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/pot-of-food"
+    },
+    {
+      "symbol": "🥗",
+      "name": "Green Salad",
+      "unicode": "U+1F957",
+      "html": "&#129367;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/green-salad"
+    },
+    {
+      "symbol": "🥩",
+      "name": "Cut Of Meat",
+      "unicode": "U+1F969",
+      "html": "&#129385;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/cut-of-meat"
+    },
+    {
+      "symbol": "🍗",
+      "name": "Poultry Leg",
+      "unicode": "U+1F357",
+      "html": "&#127831;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/poultry-leg"
+    },
+    {
+      "symbol": "🥚",
+      "name": "Egg",
+      "unicode": "U+1F95A",
+      "html": "&#129370;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/egg"
+    },
+    {
+      "symbol": "🧇",
+      "name": "Waffle",
+      "unicode": "U+1F9C7",
+      "html": "&#129479;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/waffle"
+    },
+    {
+      "symbol": "🥞",
+      "name": "Pancakes",
+      "unicode": "U+1F95E",
+      "html": "&#129374;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/pancakes"
+    },
+    {
+      "symbol": "🧈",
+      "name": "Butter",
+      "unicode": "U+1F9C8",
+      "html": "&#129480;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/butter"
+    },
+    {
+      "symbol": "🍞",
+      "name": "Bread",
+      "unicode": "U+1F35E",
+      "html": "&#127838;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/bread"
+    },
+    {
+      "symbol": "🥐",
+      "name": "Croissant",
+      "unicode": "U+1F950",
+      "html": "&#129360;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/croissant"
+    },
+    {
+      "symbol": "🧀",
+      "name": "Cheese Wedge",
+      "unicode": "U+1F9C0",
+      "html": "&#129472;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/cooked-food/cheese-wedge"
+    },
+    {
+      "symbol": "🍎",
+      "name": "Red Apple",
+      "unicode": "U+1F34E",
+      "html": "&#127822;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/red-apple"
+    },
+    {
+      "symbol": "🍊",
+      "name": "Tangerine",
+      "unicode": "U+1F34A",
+      "html": "&#127818;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/tangerine"
+    },
+    {
+      "symbol": "🍋",
+      "name": "Lemon",
+      "unicode": "U+1F34B",
+      "html": "&#127819;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/lemon"
+    },
+    {
+      "symbol": "🍇",
+      "name": "Grapes",
+      "unicode": "U+1F347",
+      "html": "&#127815;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/grapes"
+    },
+    {
+      "symbol": "🍓",
+      "name": "Strawberry",
+      "unicode": "U+1F353",
+      "html": "&#127827;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/strawberry"
+    },
+    {
+      "symbol": "🫐",
+      "name": "Blueberries",
+      "unicode": "U+1FAD0",
+      "html": "&#129744;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/blueberries"
+    },
+    {
+      "symbol": "🍌",
+      "name": "Banana",
+      "unicode": "U+1F34C",
+      "html": "&#127820;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/banana"
+    },
+    {
+      "symbol": "🍑",
+      "name": "Peach",
+      "unicode": "U+1F351",
+      "html": "&#127825;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/peach"
+    },
+    {
+      "symbol": "🥝",
+      "name": "Kiwi Fruit",
+      "unicode": "U+1F95D",
+      "html": "&#129373;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fruits-berries/kiwi-fruit"
+    },
+    {
+      "symbol": "🍰",
+      "name": "Shortcake",
+      "unicode": "U+1F370",
+      "html": "&#127856;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sweets-desserts/shortcake"
+    },
+    {
+      "symbol": "🎂",
+      "name": "Birthday Cake",
+      "unicode": "U+1F382",
+      "html": "&#127874;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sweets-desserts/birthday-cake"
+    },
+    {
+      "symbol": "🍩",
+      "name": "Doughnut",
+      "unicode": "U+1F369",
+      "html": "&#127849;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sweets-desserts/doughnut"
+    },
+    {
+      "symbol": "🍪",
+      "name": "Cookie",
+      "unicode": "U+1F36A",
+      "html": "&#127850;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sweets-desserts/cookie"
+    },
+    {
+      "symbol": "☕",
+      "name": "Hot Beverage",
+      "unicode": "U+2615",
+      "html": "&#9749;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/drinks-dishware/hot-beverage"
+    },
+    {
+      "symbol": "🍵",
+      "name": "Teacup Without Handle",
+      "unicode": "U+1F375",
+      "html": "&#127861;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/drinks-dishware/teacup-without-handle"
+    },
+    {
+      "symbol": "🧃",
+      "name": "Beverage Box",
+      "unicode": "U+1F9C3",
+      "html": "&#129475;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/drinks-dishware/beverage-box"
+    },
+    {
+      "symbol": "🥤",
+      "name": "Cup With Straw",
+      "unicode": "U+1F964",
+      "html": "&#129380;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/drinks-dishware/cup-with-straw"
+    },
+    {
+      "symbol": "🍺",
+      "name": "Beer Mug",
+      "unicode": "U+1F37A",
+      "html": "&#127866;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/drinks-dishware/beer-mug"
+    },
+    {
+      "symbol": "🍷",
+      "name": "Wine Glass",
+      "unicode": "U+1F377",
+      "html": "&#127863;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/drinks-dishware/wine-glass"
+    },
+    {
+      "symbol": "🥂",
+      "name": "Clinking Glasses",
+      "unicode": "U+1F942",
+      "html": "&#129346;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/drinks-dishware/clinking-glasses"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

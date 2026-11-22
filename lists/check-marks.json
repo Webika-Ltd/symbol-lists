@@ -1,0 +1,193 @@
+{
+  "slug": "check-marks",
+  "title": "Check Mark Symbols",
+  "url": "https://free-symbols.com/collections/check-marks",
+  "symbols": [
+    {
+      "symbol": "✓",
+      "name": "Check Mark",
+      "unicode": "U+2713",
+      "html": "&#10003;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/check-mark"
+    },
+    {
+      "symbol": "✔",
+      "name": "Heavy Check Mark",
+      "unicode": "U+2714",
+      "html": "&#10004;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/heavy-check-mark"
+    },
+    {
+      "symbol": "☑",
+      "name": "Ballot Box With Check",
+      "unicode": "U+2611",
+      "html": "&#9745;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/ballot-box-with-check"
+    },
+    {
+      "symbol": "✅",
+      "name": "Check Mark Button",
+      "unicode": "U+2705",
+      "html": "&#9989;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/check-mark-button"
+    },
+    {
+      "symbol": "☑️",
+      "name": "Check Box With Check",
+      "unicode": "U+2611 U+FE0F",
+      "html": "&#9745;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/check-box-with-check"
+    },
+    {
+      "symbol": "✔️",
+      "name": "Check Mark",
+      "unicode": "U+2714 U+FE0F",
+      "html": "&#10004;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/check-mark"
+    },
+    {
+      "symbol": "✗",
+      "name": "Ballot X",
+      "unicode": "U+2717",
+      "html": "&#10007;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/ballot-x"
+    },
+    {
+      "symbol": "✘",
+      "name": "Heavy Ballot X",
+      "unicode": "U+2718",
+      "html": "&#10008;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/heavy-ballot-x"
+    },
+    {
+      "symbol": "☒",
+      "name": "Ballot Box With X",
+      "unicode": "U+2612",
+      "html": "&#9746;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/ballot-box-with-x"
+    },
+    {
+      "symbol": "☐",
+      "name": "Ballot Box",
+      "unicode": "U+2610",
+      "html": "&#9744;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/ballot-box"
+    },
+    {
+      "symbol": "❌",
+      "name": "Cross Mark",
+      "unicode": "U+274C",
+      "html": "&#10060;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/cross-mark"
+    },
+    {
+      "symbol": "❎",
+      "name": "Cross Mark Button",
+      "unicode": "U+274E",
+      "html": "&#10062;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/cross-mark-button"
+    },
+    {
+      "symbol": "✖",
+      "name": "Heavy Multiplication X",
+      "unicode": "U+2716",
+      "html": "&#10006;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/heavy-multiplication-x"
+    },
+    {
+      "symbol": "✚",
+      "name": "Heavy Greek Cross",
+      "unicode": "U+271A",
+      "html": "&#10010;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/heavy-greek-cross"
+    },
+    {
+      "symbol": "✛",
+      "name": "Open Centre Cross",
+      "unicode": "U+271B",
+      "html": "&#10011;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/open-centre-cross"
+    },
+    {
+      "symbol": "✜",
+      "name": "Heavy Open Centre Cross",
+      "unicode": "U+271C",
+      "html": "&#10012;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/heavy-open-centre-cross"
+    },
+    {
+      "symbol": "✝",
+      "name": "Latin Cross",
+      "unicode": "U+271D",
+      "html": "&#10013;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/religion-spirituality/latin-cross"
+    },
+    {
+      "symbol": "⊠",
+      "name": "Squared Times",
+      "unicode": "U+22A0",
+      "html": "&#8864;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/squared-times"
+    },
+    {
+      "symbol": "⊡",
+      "name": "Squared Dot Operator",
+      "unicode": "U+22A1",
+      "html": "&#8865;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/squared-dot-operator"
+    },
+    {
+      "symbol": "⊞",
+      "name": "Squared Plus",
+      "unicode": "U+229E",
+      "html": "&#8862;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/squared-plus"
+    },
+    {
+      "symbol": "⊟",
+      "name": "Squared Minus",
+      "unicode": "U+229F",
+      "html": "&#8863;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/squared-minus"
+    },
+    {
+      "symbol": "☓",
+      "name": "Saltire",
+      "unicode": "U+2613",
+      "html": "&#9747;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/saltire"
+    },
+    {
+      "symbol": "✕",
+      "name": "Multiplication X",
+      "unicode": "U+2715",
+      "html": "&#10005;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/multiplication-x"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

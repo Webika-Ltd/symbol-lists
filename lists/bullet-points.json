@@ -1,0 +1,169 @@
+{
+  "slug": "bullet-points",
+  "title": "Bullet Point Symbols",
+  "url": "https://free-symbols.com/collections/bullet-points",
+  "symbols": [
+    {
+      "symbol": "•",
+      "name": "Bullet",
+      "unicode": "U+2022",
+      "html": "&#8226;",
+      "alt_code": "0149",
+      "url": "https://free-symbols.com/symbols/punctuation/bullet"
+    },
+    {
+      "symbol": "◦",
+      "name": "White Bullet",
+      "unicode": "U+25E6",
+      "html": "&#9702;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/white-bullet"
+    },
+    {
+      "symbol": "‣",
+      "name": "Triangular Bullet",
+      "unicode": "U+2023",
+      "html": "&#8227;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/triangular-bullet"
+    },
+    {
+      "symbol": "⁃",
+      "name": "Hyphen Bullet",
+      "unicode": "U+2043",
+      "html": "&#8259;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/hyphen-bullet"
+    },
+    {
+      "symbol": "∙",
+      "name": "Bullet Operator",
+      "unicode": "U+2219",
+      "html": "&#8729;",
+      "alt_code": "249",
+      "url": "https://free-symbols.com/symbols/math/bullet-operator"
+    },
+    {
+      "symbol": "⦁",
+      "name": "Z Notation Spot",
+      "unicode": "U+2981",
+      "html": "&#10625;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/z-notation-spot"
+    },
+    {
+      "symbol": "●",
+      "name": "Black Circle",
+      "unicode": "U+25CF",
+      "html": "&#9679;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/black-circle"
+    },
+    {
+      "symbol": "○",
+      "name": "White Circle",
+      "unicode": "U+25CB",
+      "html": "&#9675;",
+      "alt_code": "9",
+      "url": "https://free-symbols.com/symbols/geometric-shapes/white-circle"
+    },
+    {
+      "symbol": "▪",
+      "name": "Black Small Square",
+      "unicode": "U+25AA",
+      "html": "&#9642;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/black-small-square"
+    },
+    {
+      "symbol": "▫",
+      "name": "White Small Square",
+      "unicode": "U+25AB",
+      "html": "&#9643;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/white-small-square"
+    },
+    {
+      "symbol": "■",
+      "name": "Black Square",
+      "unicode": "U+25A0",
+      "html": "&#9632;",
+      "alt_code": "254",
+      "url": "https://free-symbols.com/symbols/geometric-shapes/black-square"
+    },
+    {
+      "symbol": "□",
+      "name": "White Square",
+      "unicode": "U+25A1",
+      "html": "&#9633;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/white-square"
+    },
+    {
+      "symbol": "◆",
+      "name": "Black Diamond",
+      "unicode": "U+25C6",
+      "html": "&#9670;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/black-diamond"
+    },
+    {
+      "symbol": "◇",
+      "name": "White Diamond",
+      "unicode": "U+25C7",
+      "html": "&#9671;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/white-diamond"
+    },
+    {
+      "symbol": "►",
+      "name": "Black Right-pointing Pointer",
+      "unicode": "U+25BA",
+      "html": "&#9658;",
+      "alt_code": "16",
+      "url": "https://free-symbols.com/symbols/map-symbols/black-right-pointing-pointer"
+    },
+    {
+      "symbol": "▸",
+      "name": "Black Right-pointing Small Triangle",
+      "unicode": "U+25B8",
+      "html": "&#9656;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/black-right-pointing-small-triangle"
+    },
+    {
+      "symbol": "⁌",
+      "name": "Black Leftwards Bullet",
+      "unicode": "U+204C",
+      "html": "&#8268;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/black-leftwards-bullet"
+    },
+    {
+      "symbol": "⁍",
+      "name": "Black Rightwards Bullet",
+      "unicode": "U+204D",
+      "html": "&#8269;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/black-rightwards-bullet"
+    },
+    {
+      "symbol": "☙",
+      "name": "Reversed Rotated Floral Heart Bullet",
+      "unicode": "U+2619",
+      "html": "&#9753;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/reversed-rotated-floral-heart-bullet"
+    },
+    {
+      "symbol": "❧",
+      "name": "Rotated Floral Heart Bullet",
+      "unicode": "U+2767",
+      "html": "&#10087;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/rotated-floral-heart-bullet"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,273 @@
+{
+  "slug": "zodiac-astrology",
+  "title": "Zodiac & Astrology",
+  "url": "https://free-symbols.com/collections/zodiac-astrology",
+  "symbols": [
+    {
+      "symbol": "♈",
+      "name": "Aries",
+      "unicode": "U+2648",
+      "html": "&#9800;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/aries"
+    },
+    {
+      "symbol": "♉",
+      "name": "Taurus",
+      "unicode": "U+2649",
+      "html": "&#9801;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/taurus"
+    },
+    {
+      "symbol": "♊",
+      "name": "Gemini",
+      "unicode": "U+264A",
+      "html": "&#9802;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/gemini"
+    },
+    {
+      "symbol": "♋",
+      "name": "Cancer",
+      "unicode": "U+264B",
+      "html": "&#9803;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/cancer"
+    },
+    {
+      "symbol": "♌",
+      "name": "Leo",
+      "unicode": "U+264C",
+      "html": "&#9804;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/leo"
+    },
+    {
+      "symbol": "♍",
+      "name": "Virgo",
+      "unicode": "U+264D",
+      "html": "&#9805;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/virgo"
+    },
+    {
+      "symbol": "♎",
+      "name": "Libra",
+      "unicode": "U+264E",
+      "html": "&#9806;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/libra"
+    },
+    {
+      "symbol": "♏",
+      "name": "Scorpio",
+      "unicode": "U+264F",
+      "html": "&#9807;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/scorpio"
+    },
+    {
+      "symbol": "♐",
+      "name": "Sagittarius",
+      "unicode": "U+2650",
+      "html": "&#9808;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/sagittarius"
+    },
+    {
+      "symbol": "♑",
+      "name": "Capricorn",
+      "unicode": "U+2651",
+      "html": "&#9809;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/capricorn"
+    },
+    {
+      "symbol": "♒",
+      "name": "Aquarius",
+      "unicode": "U+2652",
+      "html": "&#9810;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/aquarius"
+    },
+    {
+      "symbol": "♓",
+      "name": "Pisces",
+      "unicode": "U+2653",
+      "html": "&#9811;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/pisces"
+    },
+    {
+      "symbol": "⛎",
+      "name": "Ophiuchus",
+      "unicode": "U+26CE",
+      "html": "&#9934;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/zodiac-religion/ophiuchus"
+    },
+    {
+      "symbol": "☉",
+      "name": "Sun",
+      "unicode": "U+2609",
+      "html": "&#9737;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/sun-2609"
+    },
+    {
+      "symbol": "☽",
+      "name": "First Quarter Moon",
+      "unicode": "U+263D",
+      "html": "&#9789;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/first-quarter-moon"
+    },
+    {
+      "symbol": "☿",
+      "name": "Mercury",
+      "unicode": "U+263F",
+      "html": "&#9791;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/mercury"
+    },
+    {
+      "symbol": "♀",
+      "name": "Female Sign",
+      "unicode": "U+2640",
+      "html": "&#9792;",
+      "alt_code": "12",
+      "url": "https://free-symbols.com/esoteric/astrology/female-sign"
+    },
+    {
+      "symbol": "♂",
+      "name": "Male Sign",
+      "unicode": "U+2642",
+      "html": "&#9794;",
+      "alt_code": "11",
+      "url": "https://free-symbols.com/esoteric/astrology/male-sign"
+    },
+    {
+      "symbol": "♃",
+      "name": "Jupiter",
+      "unicode": "U+2643",
+      "html": "&#9795;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/jupiter"
+    },
+    {
+      "symbol": "♄",
+      "name": "Saturn",
+      "unicode": "U+2644",
+      "html": "&#9796;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/saturn"
+    },
+    {
+      "symbol": "♅",
+      "name": "Uranus",
+      "unicode": "U+2645",
+      "html": "&#9797;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/uranus"
+    },
+    {
+      "symbol": "♆",
+      "name": "Neptune",
+      "unicode": "U+2646",
+      "html": "&#9798;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/neptune"
+    },
+    {
+      "symbol": "♇",
+      "name": "Pluto",
+      "unicode": "U+2647",
+      "html": "&#9799;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/pluto"
+    },
+    {
+      "symbol": "⚷",
+      "name": "Chiron",
+      "unicode": "U+26B7",
+      "html": "&#9911;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/chiron"
+    },
+    {
+      "symbol": "⚸",
+      "name": "Black Moon Lilith",
+      "unicode": "U+26B8",
+      "html": "&#9912;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/black-moon-lilith"
+    },
+    {
+      "symbol": "⚹",
+      "name": "Sextile",
+      "unicode": "U+26B9",
+      "html": "&#9913;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/sextile"
+    },
+    {
+      "symbol": "⚺",
+      "name": "Semisextile",
+      "unicode": "U+26BA",
+      "html": "&#9914;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/semisextile"
+    },
+    {
+      "symbol": "⚻",
+      "name": "Quincunx",
+      "unicode": "U+26BB",
+      "html": "&#9915;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/quincunx"
+    },
+    {
+      "symbol": "⚼",
+      "name": "Sesquiquadrate",
+      "unicode": "U+26BC",
+      "html": "&#9916;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/sesquiquadrate"
+    },
+    {
+      "symbol": "☊",
+      "name": "Ascending Node",
+      "unicode": "U+260A",
+      "html": "&#9738;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/ascending-node"
+    },
+    {
+      "symbol": "☋",
+      "name": "Descending Node",
+      "unicode": "U+260B",
+      "html": "&#9739;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/descending-node"
+    },
+    {
+      "symbol": "☌",
+      "name": "Conjunction",
+      "unicode": "U+260C",
+      "html": "&#9740;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/conjunction"
+    },
+    {
+      "symbol": "☍",
+      "name": "Opposition",
+      "unicode": "U+260D",
+      "html": "&#9741;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/opposition"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

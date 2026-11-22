@@ -1,0 +1,337 @@
+{
+  "slug": "roman-numerals",
+  "title": "Roman Numerals",
+  "url": "https://free-symbols.com/collections/roman-numerals",
+  "symbols": [
+    {
+      "symbol": "Ⅰ",
+      "name": "Roman Numeral One",
+      "unicode": "U+2160",
+      "html": "&#8544;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-one"
+    },
+    {
+      "symbol": "Ⅱ",
+      "name": "Roman Numeral Two",
+      "unicode": "U+2161",
+      "html": "&#8545;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-two"
+    },
+    {
+      "symbol": "Ⅲ",
+      "name": "Roman Numeral Three",
+      "unicode": "U+2162",
+      "html": "&#8546;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-three"
+    },
+    {
+      "symbol": "Ⅳ",
+      "name": "Roman Numeral Four",
+      "unicode": "U+2163",
+      "html": "&#8547;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-four"
+    },
+    {
+      "symbol": "Ⅴ",
+      "name": "Roman Numeral Five",
+      "unicode": "U+2164",
+      "html": "&#8548;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-five"
+    },
+    {
+      "symbol": "Ⅵ",
+      "name": "Roman Numeral Six",
+      "unicode": "U+2165",
+      "html": "&#8549;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-six"
+    },
+    {
+      "symbol": "Ⅶ",
+      "name": "Roman Numeral Seven",
+      "unicode": "U+2166",
+      "html": "&#8550;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-seven"
+    },
+    {
+      "symbol": "Ⅷ",
+      "name": "Roman Numeral Eight",
+      "unicode": "U+2167",
+      "html": "&#8551;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-eight"
+    },
+    {
+      "symbol": "Ⅸ",
+      "name": "Roman Numeral Nine",
+      "unicode": "U+2168",
+      "html": "&#8552;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-nine"
+    },
+    {
+      "symbol": "Ⅹ",
+      "name": "Roman Numeral Ten",
+      "unicode": "U+2169",
+      "html": "&#8553;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-ten"
+    },
+    {
+      "symbol": "Ⅺ",
+      "name": "Roman Numeral Eleven",
+      "unicode": "U+216A",
+      "html": "&#8554;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-eleven"
+    },
+    {
+      "symbol": "Ⅻ",
+      "name": "Roman Numeral Twelve",
+      "unicode": "U+216B",
+      "html": "&#8555;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-twelve"
+    },
+    {
+      "symbol": "Ⅼ",
+      "name": "Roman Numeral Fifty",
+      "unicode": "U+216C",
+      "html": "&#8556;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-fifty"
+    },
+    {
+      "symbol": "Ⅽ",
+      "name": "Roman Numeral One Hundred",
+      "unicode": "U+216D",
+      "html": "&#8557;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-one-hundred"
+    },
+    {
+      "symbol": "Ⅾ",
+      "name": "Roman Numeral Five Hundred",
+      "unicode": "U+216E",
+      "html": "&#8558;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-five-hundred"
+    },
+    {
+      "symbol": "Ⅿ",
+      "name": "Roman Numeral One Thousand",
+      "unicode": "U+216F",
+      "html": "&#8559;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-one-thousand"
+    },
+    {
+      "symbol": "ⅰ",
+      "name": "Small Roman Numeral One",
+      "unicode": "U+2170",
+      "html": "&#8560;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-one"
+    },
+    {
+      "symbol": "ⅱ",
+      "name": "Small Roman Numeral Two",
+      "unicode": "U+2171",
+      "html": "&#8561;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-two"
+    },
+    {
+      "symbol": "ⅲ",
+      "name": "Small Roman Numeral Three",
+      "unicode": "U+2172",
+      "html": "&#8562;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-three"
+    },
+    {
+      "symbol": "ⅳ",
+      "name": "Small Roman Numeral Four",
+      "unicode": "U+2173",
+      "html": "&#8563;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-four"
+    },
+    {
+      "symbol": "ⅴ",
+      "name": "Small Roman Numeral Five",
+      "unicode": "U+2174",
+      "html": "&#8564;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-five"
+    },
+    {
+      "symbol": "ⅵ",
+      "name": "Small Roman Numeral Six",
+      "unicode": "U+2175",
+      "html": "&#8565;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-six"
+    },
+    {
+      "symbol": "ⅶ",
+      "name": "Small Roman Numeral Seven",
+      "unicode": "U+2176",
+      "html": "&#8566;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-seven"
+    },
+    {
+      "symbol": "ⅷ",
+      "name": "Small Roman Numeral Eight",
+      "unicode": "U+2177",
+      "html": "&#8567;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-eight"
+    },
+    {
+      "symbol": "ⅸ",
+      "name": "Small Roman Numeral Nine",
+      "unicode": "U+2178",
+      "html": "&#8568;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-nine"
+    },
+    {
+      "symbol": "ⅹ",
+      "name": "Small Roman Numeral Ten",
+      "unicode": "U+2179",
+      "html": "&#8569;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-ten"
+    },
+    {
+      "symbol": "ⅺ",
+      "name": "Small Roman Numeral Eleven",
+      "unicode": "U+217A",
+      "html": "&#8570;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-eleven"
+    },
+    {
+      "symbol": "ⅻ",
+      "name": "Small Roman Numeral Twelve",
+      "unicode": "U+217B",
+      "html": "&#8571;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-twelve"
+    },
+    {
+      "symbol": "ⅼ",
+      "name": "Small Roman Numeral Fifty",
+      "unicode": "U+217C",
+      "html": "&#8572;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-fifty"
+    },
+    {
+      "symbol": "ⅽ",
+      "name": "Small Roman Numeral One Hundred",
+      "unicode": "U+217D",
+      "html": "&#8573;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-one-hundred"
+    },
+    {
+      "symbol": "ⅾ",
+      "name": "Small Roman Numeral Five Hundred",
+      "unicode": "U+217E",
+      "html": "&#8574;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-five-hundred"
+    },
+    {
+      "symbol": "ⅿ",
+      "name": "Small Roman Numeral One Thousand",
+      "unicode": "U+217F",
+      "html": "&#8575;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/small-roman-numeral-one-thousand"
+    },
+    {
+      "symbol": "ↀ",
+      "name": "Roman Numeral One Thousand C D",
+      "unicode": "U+2180",
+      "html": "&#8576;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-one-thousand-c-d"
+    },
+    {
+      "symbol": "ↁ",
+      "name": "Roman Numeral Five Thousand",
+      "unicode": "U+2181",
+      "html": "&#8577;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-five-thousand"
+    },
+    {
+      "symbol": "ↂ",
+      "name": "Roman Numeral Ten Thousand",
+      "unicode": "U+2182",
+      "html": "&#8578;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-ten-thousand"
+    },
+    {
+      "symbol": "Ↄ",
+      "name": "Roman Numeral Reversed One Hundred",
+      "unicode": "U+2183",
+      "html": "&#8579;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-reversed-one-hundred"
+    },
+    {
+      "symbol": "ↄ",
+      "name": "Latin Small Letter Reversed C",
+      "unicode": "U+2184",
+      "html": "&#8580;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/latin-small-letter-reversed-c"
+    },
+    {
+      "symbol": "ↅ",
+      "name": "Roman Numeral Six Late Form",
+      "unicode": "U+2185",
+      "html": "&#8581;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-six-late-form"
+    },
+    {
+      "symbol": "ↆ",
+      "name": "Roman Numeral Fifty Early Form",
+      "unicode": "U+2186",
+      "html": "&#8582;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-fifty-early-form"
+    },
+    {
+      "symbol": "ↇ",
+      "name": "Roman Numeral Fifty Thousand",
+      "unicode": "U+2187",
+      "html": "&#8583;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-fifty-thousand"
+    },
+    {
+      "symbol": "ↈ",
+      "name": "Roman Numeral One Hundred Thousand",
+      "unicode": "U+2188",
+      "html": "&#8584;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/roman-numeral-one-hundred-thousand"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

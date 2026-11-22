@@ -1,0 +1,209 @@
+{
+  "slug": "halloween",
+  "title": "Halloween",
+  "url": "https://free-symbols.com/collections/halloween",
+  "symbols": [
+    {
+      "symbol": "🎃",
+      "name": "Jack-O-Lantern",
+      "unicode": "U+1F383",
+      "html": "&#127875;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/events-arts/jack-o-lantern"
+    },
+    {
+      "symbol": "👻",
+      "name": "Ghost",
+      "unicode": "U+1F47B",
+      "html": "&#128123;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/costume-faces/ghost"
+    },
+    {
+      "symbol": "💀",
+      "name": "Skull",
+      "unicode": "U+1F480",
+      "html": "&#128128;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/skull"
+    },
+    {
+      "symbol": "☠️",
+      "name": "Skull And Crossbones",
+      "unicode": "U+2620 U+FE0F",
+      "html": "&#9760;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/skull-and-crossbones"
+    },
+    {
+      "symbol": "🕷️",
+      "name": "Spider",
+      "unicode": "U+1F577 U+FE0F",
+      "html": "&#128375;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/marine-bugs-reptiles/spider"
+    },
+    {
+      "symbol": "🕸️",
+      "name": "Spider Web",
+      "unicode": "U+1F578 U+FE0F",
+      "html": "&#128376;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/marine-bugs-reptiles/spider-web"
+    },
+    {
+      "symbol": "🦇",
+      "name": "Bat",
+      "unicode": "U+1F987",
+      "html": "&#129415;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/mammals/bat"
+    },
+    {
+      "symbol": "🌙",
+      "name": "Crescent Moon",
+      "unicode": "U+1F319",
+      "html": "&#127769;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/crescent-moon"
+    },
+    {
+      "symbol": "⚰️",
+      "name": "Coffin",
+      "unicode": "U+26B0 U+FE0F",
+      "html": "&#9904;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/tools-science-household/coffin"
+    },
+    {
+      "symbol": "🩸",
+      "name": "Drop Of Blood",
+      "unicode": "U+1FA78",
+      "html": "&#129656;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/tools-science-household/drop-of-blood"
+    },
+    {
+      "symbol": "🔮",
+      "name": "Crystal Ball",
+      "unicode": "U+1F52E",
+      "html": "&#128302;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/crystal-ball"
+    },
+    {
+      "symbol": "🌕",
+      "name": "Full Moon",
+      "unicode": "U+1F315",
+      "html": "&#127765;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/full-moon"
+    },
+    {
+      "symbol": "🕯️",
+      "name": "Candle",
+      "unicode": "U+1F56F U+FE0F",
+      "html": "&#128367;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/technology/candle"
+    },
+    {
+      "symbol": "🧟",
+      "name": "Zombie",
+      "unicode": "U+1F9DF",
+      "html": "&#129503;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fantasy-fiction/zombie"
+    },
+    {
+      "symbol": "🧛",
+      "name": "Vampire",
+      "unicode": "U+1F9DB",
+      "html": "&#129499;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fantasy-fiction/vampire"
+    },
+    {
+      "symbol": "🧙",
+      "name": "Mage",
+      "unicode": "U+1F9D9",
+      "html": "&#129497;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/fantasy-fiction/mage"
+    },
+    {
+      "symbol": "🪄",
+      "name": "Magic Wand",
+      "unicode": "U+1FA84",
+      "html": "&#129668;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/magic-wand"
+    },
+    {
+      "symbol": "🐈‍⬛",
+      "name": "Black Cat",
+      "unicode": "U+1F408 U+200D U+2B1B",
+      "html": "&#128008;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/mammals/black-cat"
+    },
+    {
+      "symbol": "🌑",
+      "name": "New Moon",
+      "unicode": "U+1F311",
+      "html": "&#127761;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/new-moon"
+    },
+    {
+      "symbol": "🌚",
+      "name": "New Moon Face",
+      "unicode": "U+1F31A",
+      "html": "&#127770;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/new-moon-face"
+    },
+    {
+      "symbol": "⚡",
+      "name": "High Voltage",
+      "unicode": "U+26A1",
+      "html": "&#9889;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/high-voltage"
+    },
+    {
+      "symbol": "🌫️",
+      "name": "Fog",
+      "unicode": "U+1F32B U+FE0F",
+      "html": "&#127787;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/fog"
+    },
+    {
+      "symbol": "🍬",
+      "name": "Candy",
+      "unicode": "U+1F36C",
+      "html": "&#127852;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sweets-desserts/candy"
+    },
+    {
+      "symbol": "🍭",
+      "name": "Lollipop",
+      "unicode": "U+1F36D",
+      "html": "&#127853;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sweets-desserts/lollipop"
+    },
+    {
+      "symbol": "🪦",
+      "name": "Headstone",
+      "unicode": "U+1FAA6",
+      "html": "&#129702;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/tools-science-household/headstone"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

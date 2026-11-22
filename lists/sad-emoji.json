@@ -1,0 +1,113 @@
+{
+  "slug": "sad-emoji",
+  "title": "Sad Emoji",
+  "url": "https://free-symbols.com/collections/sad-emoji",
+  "symbols": [
+    {
+      "symbol": "😞",
+      "name": "Disappointed Face",
+      "unicode": "U+1F61E",
+      "html": "&#128542;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/disappointed-face"
+    },
+    {
+      "symbol": "😔",
+      "name": "Pensive Face",
+      "unicode": "U+1F614",
+      "html": "&#128532;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/neutral-faces/pensive-face"
+    },
+    {
+      "symbol": "😟",
+      "name": "Worried Face",
+      "unicode": "U+1F61F",
+      "html": "&#128543;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/worried-face"
+    },
+    {
+      "symbol": "🙁",
+      "name": "Slightly Frowning Face",
+      "unicode": "U+1F641",
+      "html": "&#128577;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/slightly-frowning-face"
+    },
+    {
+      "symbol": "☹️",
+      "name": "Frowning Face",
+      "unicode": "U+2639 U+FE0F",
+      "html": "&#9785;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/frowning-face"
+    },
+    {
+      "symbol": "😢",
+      "name": "Crying Face",
+      "unicode": "U+1F622",
+      "html": "&#128546;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/crying-face"
+    },
+    {
+      "symbol": "😭",
+      "name": "Loudly Crying Face",
+      "unicode": "U+1F62D",
+      "html": "&#128557;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/loudly-crying-face"
+    },
+    {
+      "symbol": "🥺",
+      "name": "Pleading Face",
+      "unicode": "U+1F97A",
+      "html": "&#129402;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/pleading-face"
+    },
+    {
+      "symbol": "😿",
+      "name": "Crying Cat",
+      "unicode": "U+1F63F",
+      "html": "&#128575;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/costume-faces/crying-cat"
+    },
+    {
+      "symbol": "💔",
+      "name": "Broken Heart",
+      "unicode": "U+1F494",
+      "html": "&#128148;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/broken-heart"
+    },
+    {
+      "symbol": "😕",
+      "name": "Confused Face",
+      "unicode": "U+1F615",
+      "html": "&#128533;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/confused-face"
+    },
+    {
+      "symbol": "😥",
+      "name": "Sad But Relieved Face",
+      "unicode": "U+1F625",
+      "html": "&#128549;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/sad-but-relieved-face"
+    },
+    {
+      "symbol": "🥀",
+      "name": "Wilted Flower",
+      "unicode": "U+1F940",
+      "html": "&#129344;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/plants-flowers/wilted-flower"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,249 @@
+{
+  "slug": "arrows",
+  "title": "Arrow Symbols",
+  "url": "https://free-symbols.com/collections/arrows",
+  "symbols": [
+    {
+      "symbol": "→",
+      "name": "Rightwards Arrow",
+      "unicode": "U+2192",
+      "html": "&#8594;",
+      "alt_code": "26",
+      "url": "https://free-symbols.com/symbols/arrows/rightwards-arrow"
+    },
+    {
+      "symbol": "←",
+      "name": "Leftwards Arrow",
+      "unicode": "U+2190",
+      "html": "&#8592;",
+      "alt_code": "27",
+      "url": "https://free-symbols.com/symbols/arrows/leftwards-arrow"
+    },
+    {
+      "symbol": "↑",
+      "name": "Upwards Arrow",
+      "unicode": "U+2191",
+      "html": "&#8593;",
+      "alt_code": "24",
+      "url": "https://free-symbols.com/symbols/arrows/upwards-arrow"
+    },
+    {
+      "symbol": "↓",
+      "name": "Downwards Arrow",
+      "unicode": "U+2193",
+      "html": "&#8595;",
+      "alt_code": "25",
+      "url": "https://free-symbols.com/symbols/arrows/downwards-arrow"
+    },
+    {
+      "symbol": "↔",
+      "name": "Left Right Arrow",
+      "unicode": "U+2194",
+      "html": "&#8596;",
+      "alt_code": "29",
+      "url": "https://free-symbols.com/symbols/arrows/left-right-arrow"
+    },
+    {
+      "symbol": "↕",
+      "name": "Up Down Arrow",
+      "unicode": "U+2195",
+      "html": "&#8597;",
+      "alt_code": "18",
+      "url": "https://free-symbols.com/symbols/arrows/up-down-arrow"
+    },
+    {
+      "symbol": "⇒",
+      "name": "Rightwards Double Arrow",
+      "unicode": "U+21D2",
+      "html": "&#8658;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/rightwards-double-arrow"
+    },
+    {
+      "symbol": "⇐",
+      "name": "Leftwards Double Arrow",
+      "unicode": "U+21D0",
+      "html": "&#8656;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/leftwards-double-arrow"
+    },
+    {
+      "symbol": "⇑",
+      "name": "Upwards Double Arrow",
+      "unicode": "U+21D1",
+      "html": "&#8657;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/upwards-double-arrow"
+    },
+    {
+      "symbol": "⇓",
+      "name": "Downwards Double Arrow",
+      "unicode": "U+21D3",
+      "html": "&#8659;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/downwards-double-arrow"
+    },
+    {
+      "symbol": "⇔",
+      "name": "Left Right Double Arrow",
+      "unicode": "U+21D4",
+      "html": "&#8660;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/left-right-double-arrow"
+    },
+    {
+      "symbol": "⇕",
+      "name": "Up Down Double Arrow",
+      "unicode": "U+21D5",
+      "html": "&#8661;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/up-down-double-arrow"
+    },
+    {
+      "symbol": "➡️",
+      "name": "Right Arrow",
+      "unicode": "U+27A1 U+FE0F",
+      "html": "&#10145;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-arrows/right-arrow"
+    },
+    {
+      "symbol": "⬅️",
+      "name": "Left Arrow",
+      "unicode": "U+2B05 U+FE0F",
+      "html": "&#11013;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-arrows/left-arrow"
+    },
+    {
+      "symbol": "⬆️",
+      "name": "Up Arrow",
+      "unicode": "U+2B06 U+FE0F",
+      "html": "&#11014;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-arrows/up-arrow"
+    },
+    {
+      "symbol": "⬇️",
+      "name": "Down Arrow",
+      "unicode": "U+2B07 U+FE0F",
+      "html": "&#11015;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-arrows/down-arrow"
+    },
+    {
+      "symbol": "↗",
+      "name": "North East Arrow",
+      "unicode": "U+2197",
+      "html": "&#8599;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/north-east-arrow"
+    },
+    {
+      "symbol": "↘",
+      "name": "South East Arrow",
+      "unicode": "U+2198",
+      "html": "&#8600;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/south-east-arrow"
+    },
+    {
+      "symbol": "↙",
+      "name": "South West Arrow",
+      "unicode": "U+2199",
+      "html": "&#8601;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/south-west-arrow"
+    },
+    {
+      "symbol": "↖",
+      "name": "North West Arrow",
+      "unicode": "U+2196",
+      "html": "&#8598;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/north-west-arrow"
+    },
+    {
+      "symbol": "↪",
+      "name": "Rightwards Arrow With Hook",
+      "unicode": "U+21AA",
+      "html": "&#8618;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/rightwards-arrow-with-hook"
+    },
+    {
+      "symbol": "↩",
+      "name": "Leftwards Arrow With Hook",
+      "unicode": "U+21A9",
+      "html": "&#8617;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/leftwards-arrow-with-hook"
+    },
+    {
+      "symbol": "⤴",
+      "name": "Arrow Pointing Rightwards Then Curving Upwards",
+      "unicode": "U+2934",
+      "html": "&#10548;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/arrow-pointing-rightwards-then-curving-upwards"
+    },
+    {
+      "symbol": "⤵",
+      "name": "Arrow Pointing Rightwards Then Curving Downwards",
+      "unicode": "U+2935",
+      "html": "&#10549;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/arrows/arrow-pointing-rightwards-then-curving-downwards"
+    },
+    {
+      "symbol": "🔄",
+      "name": "Counterclockwise Arrows Button",
+      "unicode": "U+1F504",
+      "html": "&#128260;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-arrows/counterclockwise-arrows-button"
+    },
+    {
+      "symbol": "🔃",
+      "name": "Clockwise Vertical Arrows",
+      "unicode": "U+1F503",
+      "html": "&#128259;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-arrows/clockwise-vertical-arrows"
+    },
+    {
+      "symbol": "▶",
+      "name": "Black Right-pointing Triangle",
+      "unicode": "U+25B6",
+      "html": "&#9654;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/black-right-pointing-triangle"
+    },
+    {
+      "symbol": "◀",
+      "name": "Black Left-pointing Triangle",
+      "unicode": "U+25C0",
+      "html": "&#9664;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/geometric-shapes/black-left-pointing-triangle"
+    },
+    {
+      "symbol": "▲",
+      "name": "Black Up-pointing Triangle",
+      "unicode": "U+25B2",
+      "html": "&#9650;",
+      "alt_code": "30",
+      "url": "https://free-symbols.com/symbols/map-symbols/black-up-pointing-triangle"
+    },
+    {
+      "symbol": "▼",
+      "name": "Black Down-pointing Triangle",
+      "unicode": "U+25BC",
+      "html": "&#9660;",
+      "alt_code": "31",
+      "url": "https://free-symbols.com/symbols/map-symbols/black-down-pointing-triangle"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

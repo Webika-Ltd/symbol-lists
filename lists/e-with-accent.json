@@ -1,0 +1,169 @@
+{
+  "slug": "e-with-accent",
+  "title": "E with Accent (é è ê ë)",
+  "url": "https://free-symbols.com/collections/e-with-accent",
+  "symbols": [
+    {
+      "symbol": "é",
+      "name": "Latin Small Letter E With Acute",
+      "unicode": "U+00E9",
+      "html": "&#233;",
+      "alt_code": "0233",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-acute"
+    },
+    {
+      "symbol": "è",
+      "name": "Latin Small Letter E With Grave",
+      "unicode": "U+00E8",
+      "html": "&#232;",
+      "alt_code": "0232",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-grave"
+    },
+    {
+      "symbol": "ê",
+      "name": "Latin Small Letter E With Circumflex",
+      "unicode": "U+00EA",
+      "html": "&#234;",
+      "alt_code": "0234",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-circumflex"
+    },
+    {
+      "symbol": "ë",
+      "name": "Latin Small Letter E With Diaeresis",
+      "unicode": "U+00EB",
+      "html": "&#235;",
+      "alt_code": "0235",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-diaeresis"
+    },
+    {
+      "symbol": "É",
+      "name": "Latin Capital Letter E With Acute",
+      "unicode": "U+00C9",
+      "html": "&#201;",
+      "alt_code": "0201",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-acute"
+    },
+    {
+      "symbol": "È",
+      "name": "Latin Capital Letter E With Grave",
+      "unicode": "U+00C8",
+      "html": "&#200;",
+      "alt_code": "0200",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-grave"
+    },
+    {
+      "symbol": "Ê",
+      "name": "Latin Capital Letter E With Circumflex",
+      "unicode": "U+00CA",
+      "html": "&#202;",
+      "alt_code": "0202",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-circumflex"
+    },
+    {
+      "symbol": "Ë",
+      "name": "Latin Capital Letter E With Diaeresis",
+      "unicode": "U+00CB",
+      "html": "&#203;",
+      "alt_code": "0203",
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-diaeresis"
+    },
+    {
+      "symbol": "ē",
+      "name": "Latin Small Letter E With Macron",
+      "unicode": "U+0113",
+      "html": "&#275;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-macron"
+    },
+    {
+      "symbol": "Ē",
+      "name": "Latin Capital Letter E With Macron",
+      "unicode": "U+0112",
+      "html": "&#274;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-macron"
+    },
+    {
+      "symbol": "ė",
+      "name": "Latin Small Letter E With Dot Above",
+      "unicode": "U+0117",
+      "html": "&#279;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-dot-above"
+    },
+    {
+      "symbol": "Ė",
+      "name": "Latin Capital Letter E With Dot Above",
+      "unicode": "U+0116",
+      "html": "&#278;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-dot-above"
+    },
+    {
+      "symbol": "ę",
+      "name": "Latin Small Letter E With Ogonek",
+      "unicode": "U+0119",
+      "html": "&#281;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-ogonek"
+    },
+    {
+      "symbol": "Ę",
+      "name": "Latin Capital Letter E With Ogonek",
+      "unicode": "U+0118",
+      "html": "&#280;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-ogonek"
+    },
+    {
+      "symbol": "ě",
+      "name": "Latin Small Letter E With Caron",
+      "unicode": "U+011B",
+      "html": "&#283;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-caron"
+    },
+    {
+      "symbol": "Ě",
+      "name": "Latin Capital Letter E With Caron",
+      "unicode": "U+011A",
+      "html": "&#282;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-caron"
+    },
+    {
+      "symbol": "ẽ",
+      "name": "Latin Small Letter E With Tilde",
+      "unicode": "U+1EBD",
+      "html": "&#7869;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-tilde"
+    },
+    {
+      "symbol": "Ẽ",
+      "name": "Latin Capital Letter E With Tilde",
+      "unicode": "U+1EBC",
+      "html": "&#7868;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-tilde"
+    },
+    {
+      "symbol": "ȩ",
+      "name": "Latin Small Letter E With Cedilla",
+      "unicode": "U+0229",
+      "html": "&#553;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-cedilla"
+    },
+    {
+      "symbol": "Ȩ",
+      "name": "Latin Capital Letter E With Cedilla",
+      "unicode": "U+0228",
+      "html": "&#552;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-cedilla"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

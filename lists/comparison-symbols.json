@@ -1,0 +1,177 @@
+{
+  "slug": "comparison-symbols",
+  "title": "Less Than, Greater Than & Equal Symbols",
+  "url": "https://free-symbols.com/collections/comparison-symbols",
+  "symbols": [
+    {
+      "symbol": "<",
+      "name": "Less-than Sign",
+      "unicode": "U+003C",
+      "html": "&#60;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/less-than-sign"
+    },
+    {
+      "symbol": ">",
+      "name": "Greater-than Sign",
+      "unicode": "U+003E",
+      "html": "&#62;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/greater-than-sign"
+    },
+    {
+      "symbol": "≤",
+      "name": "Less-than Or Equal To",
+      "unicode": "U+2264",
+      "html": "&#8804;",
+      "alt_code": "243",
+      "url": "https://free-symbols.com/symbols/math/less-than-or-equal-to"
+    },
+    {
+      "symbol": "≥",
+      "name": "Greater-than Or Equal To",
+      "unicode": "U+2265",
+      "html": "&#8805;",
+      "alt_code": "242",
+      "url": "https://free-symbols.com/symbols/math/greater-than-or-equal-to"
+    },
+    {
+      "symbol": "≠",
+      "name": "Not Equal To",
+      "unicode": "U+2260",
+      "html": "&#8800;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/not-equal-to"
+    },
+    {
+      "symbol": "=",
+      "name": "Equals Sign",
+      "unicode": "U+003D",
+      "html": "&#61;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/equals-sign"
+    },
+    {
+      "symbol": "≈",
+      "name": "Almost Equal To",
+      "unicode": "U+2248",
+      "html": "&#8776;",
+      "alt_code": "247",
+      "url": "https://free-symbols.com/symbols/math/almost-equal-to"
+    },
+    {
+      "symbol": "≡",
+      "name": "Identical To",
+      "unicode": "U+2261",
+      "html": "&#8801;",
+      "alt_code": "240",
+      "url": "https://free-symbols.com/symbols/math/identical-to"
+    },
+    {
+      "symbol": "≅",
+      "name": "Approximately Equal To",
+      "unicode": "U+2245",
+      "html": "&#8773;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/approximately-equal-to"
+    },
+    {
+      "symbol": "≪",
+      "name": "Much Less-than",
+      "unicode": "U+226A",
+      "html": "&#8810;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/much-less-than"
+    },
+    {
+      "symbol": "≫",
+      "name": "Much Greater-than",
+      "unicode": "U+226B",
+      "html": "&#8811;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/much-greater-than"
+    },
+    {
+      "symbol": "≦",
+      "name": "Less-than Over Equal To",
+      "unicode": "U+2266",
+      "html": "&#8806;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/less-than-over-equal-to"
+    },
+    {
+      "symbol": "≧",
+      "name": "Greater-than Over Equal To",
+      "unicode": "U+2267",
+      "html": "&#8807;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/greater-than-over-equal-to"
+    },
+    {
+      "symbol": "⩽",
+      "name": "Less-than Or Slanted Equal To",
+      "unicode": "U+2A7D",
+      "html": "&#10877;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/less-than-or-slanted-equal-to"
+    },
+    {
+      "symbol": "⩾",
+      "name": "Greater-than Or Slanted Equal To",
+      "unicode": "U+2A7E",
+      "html": "&#10878;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/greater-than-or-slanted-equal-to"
+    },
+    {
+      "symbol": "≮",
+      "name": "Not Less-than",
+      "unicode": "U+226E",
+      "html": "&#8814;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/not-less-than"
+    },
+    {
+      "symbol": "≯",
+      "name": "Not Greater-than",
+      "unicode": "U+226F",
+      "html": "&#8815;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/not-greater-than"
+    },
+    {
+      "symbol": "≰",
+      "name": "Neither Less-than Nor Equal To",
+      "unicode": "U+2270",
+      "html": "&#8816;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/neither-less-than-nor-equal-to"
+    },
+    {
+      "symbol": "≱",
+      "name": "Neither Greater-than Nor Equal To",
+      "unicode": "U+2271",
+      "html": "&#8817;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/neither-greater-than-nor-equal-to"
+    },
+    {
+      "symbol": "∼",
+      "name": "Tilde Operator",
+      "unicode": "U+223C",
+      "html": "&#8764;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/tilde-operator"
+    },
+    {
+      "symbol": "≃",
+      "name": "Asymptotically Equal To",
+      "unicode": "U+2243",
+      "html": "&#8771;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/asymptotically-equal-to"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

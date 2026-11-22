@@ -1,0 +1,121 @@
+{
+  "slug": "gender-symbols",
+  "title": "Gender Symbols",
+  "url": "https://free-symbols.com/collections/gender-symbols",
+  "symbols": [
+    {
+      "symbol": "♂",
+      "name": "Male Sign",
+      "unicode": "U+2642",
+      "html": "&#9794;",
+      "alt_code": "11",
+      "url": "https://free-symbols.com/esoteric/astrology/male-sign"
+    },
+    {
+      "symbol": "♀",
+      "name": "Female Sign",
+      "unicode": "U+2640",
+      "html": "&#9792;",
+      "alt_code": "12",
+      "url": "https://free-symbols.com/esoteric/astrology/female-sign"
+    },
+    {
+      "symbol": "⚥",
+      "name": "Male And Female Sign",
+      "unicode": "U+26A5",
+      "html": "&#9893;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/male-and-female-sign"
+    },
+    {
+      "symbol": "⚧",
+      "name": "Male With Stroke And Male And Female Sign",
+      "unicode": "U+26A7",
+      "html": "&#9895;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/male-with-stroke-and-male-and-female-sign"
+    },
+    {
+      "symbol": "⚢",
+      "name": "Doubled Female Sign",
+      "unicode": "U+26A2",
+      "html": "&#9890;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/doubled-female-sign"
+    },
+    {
+      "symbol": "⚣",
+      "name": "Doubled Male Sign",
+      "unicode": "U+26A3",
+      "html": "&#9891;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/doubled-male-sign"
+    },
+    {
+      "symbol": "⚤",
+      "name": "Interlocked Female And Male Sign",
+      "unicode": "U+26A4",
+      "html": "&#9892;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/interlocked-female-and-male-sign"
+    },
+    {
+      "symbol": "⚦",
+      "name": "Male With Stroke Sign",
+      "unicode": "U+26A6",
+      "html": "&#9894;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/male-with-stroke-sign"
+    },
+    {
+      "symbol": "⚨",
+      "name": "Vertical Male With Stroke Sign",
+      "unicode": "U+26A8",
+      "html": "&#9896;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/vertical-male-with-stroke-sign"
+    },
+    {
+      "symbol": "⚩",
+      "name": "Horizontal Male With Stroke Sign",
+      "unicode": "U+26A9",
+      "html": "&#9897;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/horizontal-male-with-stroke-sign"
+    },
+    {
+      "symbol": "⚧️",
+      "name": "Transgender Symbol",
+      "unicode": "U+26A7 U+FE0F",
+      "html": "&#9895;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/transgender-symbol"
+    },
+    {
+      "symbol": "🚹",
+      "name": "Men’S Room",
+      "unicode": "U+1F6B9",
+      "html": "&#128697;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/men-s-room"
+    },
+    {
+      "symbol": "🚺",
+      "name": "Women’S Room",
+      "unicode": "U+1F6BA",
+      "html": "&#128698;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/women-s-room"
+    },
+    {
+      "symbol": "🚻",
+      "name": "Restroom",
+      "unicode": "U+1F6BB",
+      "html": "&#128699;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/restroom"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

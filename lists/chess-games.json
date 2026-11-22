@@ -1,0 +1,241 @@
+{
+  "slug": "chess-games",
+  "title": "Chess Symbols & Game Pieces",
+  "url": "https://free-symbols.com/collections/chess-games",
+  "symbols": [
+    {
+      "symbol": "♔",
+      "name": "White Chess King",
+      "unicode": "U+2654",
+      "html": "&#9812;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/white-chess-king"
+    },
+    {
+      "symbol": "♕",
+      "name": "White Chess Queen",
+      "unicode": "U+2655",
+      "html": "&#9813;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/white-chess-queen"
+    },
+    {
+      "symbol": "♖",
+      "name": "White Chess Rook",
+      "unicode": "U+2656",
+      "html": "&#9814;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/white-chess-rook"
+    },
+    {
+      "symbol": "♗",
+      "name": "White Chess Bishop",
+      "unicode": "U+2657",
+      "html": "&#9815;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/white-chess-bishop"
+    },
+    {
+      "symbol": "♘",
+      "name": "White Chess Knight",
+      "unicode": "U+2658",
+      "html": "&#9816;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/white-chess-knight"
+    },
+    {
+      "symbol": "♙",
+      "name": "White Chess Pawn",
+      "unicode": "U+2659",
+      "html": "&#9817;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/white-chess-pawn"
+    },
+    {
+      "symbol": "♚",
+      "name": "Black Chess King",
+      "unicode": "U+265A",
+      "html": "&#9818;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/black-chess-king"
+    },
+    {
+      "symbol": "♛",
+      "name": "Black Chess Queen",
+      "unicode": "U+265B",
+      "html": "&#9819;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/black-chess-queen"
+    },
+    {
+      "symbol": "♜",
+      "name": "Black Chess Rook",
+      "unicode": "U+265C",
+      "html": "&#9820;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/black-chess-rook"
+    },
+    {
+      "symbol": "♝",
+      "name": "Black Chess Bishop",
+      "unicode": "U+265D",
+      "html": "&#9821;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/black-chess-bishop"
+    },
+    {
+      "symbol": "♞",
+      "name": "Black Chess Knight",
+      "unicode": "U+265E",
+      "html": "&#9822;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/black-chess-knight"
+    },
+    {
+      "symbol": "♟",
+      "name": "Black Chess Pawn",
+      "unicode": "U+265F",
+      "html": "&#9823;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/chess/black-chess-pawn"
+    },
+    {
+      "symbol": "♠",
+      "name": "Black Spade Suit",
+      "unicode": "U+2660",
+      "html": "&#9824;",
+      "alt_code": "6",
+      "url": "https://free-symbols.com/symbols/misc-symbols/black-spade-suit"
+    },
+    {
+      "symbol": "♣",
+      "name": "Black Club Suit",
+      "unicode": "U+2663",
+      "html": "&#9827;",
+      "alt_code": "5",
+      "url": "https://free-symbols.com/symbols/misc-symbols/black-club-suit"
+    },
+    {
+      "symbol": "♥",
+      "name": "Black Heart Suit",
+      "unicode": "U+2665",
+      "html": "&#9829;",
+      "alt_code": "3",
+      "url": "https://free-symbols.com/symbols/misc-symbols/black-heart-suit"
+    },
+    {
+      "symbol": "♦",
+      "name": "Black Diamond Suit",
+      "unicode": "U+2666",
+      "html": "&#9830;",
+      "alt_code": "4",
+      "url": "https://free-symbols.com/symbols/misc-symbols/black-diamond-suit"
+    },
+    {
+      "symbol": "🎲",
+      "name": "Game Die",
+      "unicode": "U+1F3B2",
+      "html": "&#127922;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/game-die"
+    },
+    {
+      "symbol": "🎯",
+      "name": "Bullseye",
+      "unicode": "U+1F3AF",
+      "html": "&#127919;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/bullseye"
+    },
+    {
+      "symbol": "🎮",
+      "name": "Video Game",
+      "unicode": "U+1F3AE",
+      "html": "&#127918;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/video-game"
+    },
+    {
+      "symbol": "🕹️",
+      "name": "Joystick",
+      "unicode": "U+1F579 U+FE0F",
+      "html": "&#128377;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/joystick"
+    },
+    {
+      "symbol": "🃏",
+      "name": "Joker",
+      "unicode": "U+1F0CF",
+      "html": "&#127183;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/joker"
+    },
+    {
+      "symbol": "🀄",
+      "name": "Mahjong Red Dragon",
+      "unicode": "U+1F004",
+      "html": "&#126980;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/mahjong-red-dragon"
+    },
+    {
+      "symbol": "🎰",
+      "name": "Slot Machine",
+      "unicode": "U+1F3B0",
+      "html": "&#127920;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/slot-machine"
+    },
+    {
+      "symbol": "🎳",
+      "name": "Bowling",
+      "unicode": "U+1F3B3",
+      "html": "&#127923;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sports-awards/bowling"
+    },
+    {
+      "symbol": "🎱",
+      "name": "Pool 8 Ball",
+      "unicode": "U+1F3B1",
+      "html": "&#127921;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/games/pool-8-ball"
+    },
+    {
+      "symbol": "🏆",
+      "name": "Trophy",
+      "unicode": "U+1F3C6",
+      "html": "&#127942;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sports-awards/trophy"
+    },
+    {
+      "symbol": "🥇",
+      "name": "1st Place Medal",
+      "unicode": "U+1F947",
+      "html": "&#129351;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sports-awards/1st-place-medal"
+    },
+    {
+      "symbol": "🥈",
+      "name": "2nd Place Medal",
+      "unicode": "U+1F948",
+      "html": "&#129352;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sports-awards/2nd-place-medal"
+    },
+    {
+      "symbol": "🥉",
+      "name": "3rd Place Medal",
+      "unicode": "U+1F949",
+      "html": "&#129353;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sports-awards/3rd-place-medal"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

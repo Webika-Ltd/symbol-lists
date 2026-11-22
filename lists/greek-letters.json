@@ -1,0 +1,401 @@
+{
+  "slug": "greek-letters",
+  "title": "Greek Letters",
+  "url": "https://free-symbols.com/collections/greek-letters",
+  "symbols": [
+    {
+      "symbol": "Α",
+      "name": "Greek Capital Letter Alpha",
+      "unicode": "U+0391",
+      "html": "&Alpha;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-alpha"
+    },
+    {
+      "symbol": "α",
+      "name": "Greek Small Letter Alpha",
+      "unicode": "U+03B1",
+      "html": "&alpha;",
+      "alt_code": "224",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-alpha"
+    },
+    {
+      "symbol": "Β",
+      "name": "Greek Capital Letter Beta",
+      "unicode": "U+0392",
+      "html": "&Beta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-beta"
+    },
+    {
+      "symbol": "β",
+      "name": "Greek Small Letter Beta",
+      "unicode": "U+03B2",
+      "html": "&beta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-beta"
+    },
+    {
+      "symbol": "Γ",
+      "name": "Greek Capital Letter Gamma",
+      "unicode": "U+0393",
+      "html": "&Gamma;",
+      "alt_code": "226",
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-gamma"
+    },
+    {
+      "symbol": "γ",
+      "name": "Greek Small Letter Gamma",
+      "unicode": "U+03B3",
+      "html": "&gamma;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-gamma"
+    },
+    {
+      "symbol": "Δ",
+      "name": "Greek Capital Letter Delta",
+      "unicode": "U+0394",
+      "html": "&Delta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-delta"
+    },
+    {
+      "symbol": "δ",
+      "name": "Greek Small Letter Delta",
+      "unicode": "U+03B4",
+      "html": "&delta;",
+      "alt_code": "235",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-delta"
+    },
+    {
+      "symbol": "Ε",
+      "name": "Greek Capital Letter Epsilon",
+      "unicode": "U+0395",
+      "html": "&Epsilon;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-epsilon"
+    },
+    {
+      "symbol": "ε",
+      "name": "Greek Small Letter Epsilon",
+      "unicode": "U+03B5",
+      "html": "&epsilon;",
+      "alt_code": "238",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-epsilon"
+    },
+    {
+      "symbol": "Ζ",
+      "name": "Greek Capital Letter Zeta",
+      "unicode": "U+0396",
+      "html": "&Zeta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-zeta"
+    },
+    {
+      "symbol": "ζ",
+      "name": "Greek Small Letter Zeta",
+      "unicode": "U+03B6",
+      "html": "&zeta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-zeta"
+    },
+    {
+      "symbol": "Η",
+      "name": "Greek Capital Letter Eta",
+      "unicode": "U+0397",
+      "html": "&Eta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-eta"
+    },
+    {
+      "symbol": "η",
+      "name": "Greek Small Letter Eta",
+      "unicode": "U+03B7",
+      "html": "&eta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-eta"
+    },
+    {
+      "symbol": "Θ",
+      "name": "Greek Capital Letter Theta",
+      "unicode": "U+0398",
+      "html": "&Theta;",
+      "alt_code": "233",
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-theta"
+    },
+    {
+      "symbol": "θ",
+      "name": "Greek Small Letter Theta",
+      "unicode": "U+03B8",
+      "html": "&theta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-theta"
+    },
+    {
+      "symbol": "Ι",
+      "name": "Greek Capital Letter Iota",
+      "unicode": "U+0399",
+      "html": "&Iota;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-iota"
+    },
+    {
+      "symbol": "ι",
+      "name": "Greek Small Letter Iota",
+      "unicode": "U+03B9",
+      "html": "&iota;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-iota"
+    },
+    {
+      "symbol": "Κ",
+      "name": "Greek Capital Letter Kappa",
+      "unicode": "U+039A",
+      "html": "&Kappa;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-kappa"
+    },
+    {
+      "symbol": "κ",
+      "name": "Greek Small Letter Kappa",
+      "unicode": "U+03BA",
+      "html": "&kappa;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-kappa"
+    },
+    {
+      "symbol": "Λ",
+      "name": "Greek Capital Letter Lamda",
+      "unicode": "U+039B",
+      "html": "&Lambda;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-lamda"
+    },
+    {
+      "symbol": "λ",
+      "name": "Greek Small Letter Lamda",
+      "unicode": "U+03BB",
+      "html": "&lambda;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-lamda"
+    },
+    {
+      "symbol": "Μ",
+      "name": "Greek Capital Letter Mu",
+      "unicode": "U+039C",
+      "html": "&Mu;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-mu"
+    },
+    {
+      "symbol": "μ",
+      "name": "Greek Small Letter Mu",
+      "unicode": "U+03BC",
+      "html": "&mu;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-mu"
+    },
+    {
+      "symbol": "Ν",
+      "name": "Greek Capital Letter Nu",
+      "unicode": "U+039D",
+      "html": "&Nu;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-nu"
+    },
+    {
+      "symbol": "ν",
+      "name": "Greek Small Letter Nu",
+      "unicode": "U+03BD",
+      "html": "&nu;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-nu"
+    },
+    {
+      "symbol": "Ξ",
+      "name": "Greek Capital Letter Xi",
+      "unicode": "U+039E",
+      "html": "&Xi;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-xi"
+    },
+    {
+      "symbol": "ξ",
+      "name": "Greek Small Letter Xi",
+      "unicode": "U+03BE",
+      "html": "&xi;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-xi"
+    },
+    {
+      "symbol": "Ο",
+      "name": "Greek Capital Letter Omicron",
+      "unicode": "U+039F",
+      "html": "&Omicron;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-omicron"
+    },
+    {
+      "symbol": "ο",
+      "name": "Greek Small Letter Omicron",
+      "unicode": "U+03BF",
+      "html": "&omicron;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-omicron"
+    },
+    {
+      "symbol": "Π",
+      "name": "Greek Capital Letter Pi",
+      "unicode": "U+03A0",
+      "html": "&Pi;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-pi"
+    },
+    {
+      "symbol": "π",
+      "name": "Greek Small Letter Pi",
+      "unicode": "U+03C0",
+      "html": "&pi;",
+      "alt_code": "227",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-pi"
+    },
+    {
+      "symbol": "Ρ",
+      "name": "Greek Capital Letter Rho",
+      "unicode": "U+03A1",
+      "html": "&Rho;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-rho"
+    },
+    {
+      "symbol": "ρ",
+      "name": "Greek Small Letter Rho",
+      "unicode": "U+03C1",
+      "html": "&rho;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-rho"
+    },
+    {
+      "symbol": "Σ",
+      "name": "Greek Capital Letter Sigma",
+      "unicode": "U+03A3",
+      "html": "&Sigma;",
+      "alt_code": "228",
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-sigma"
+    },
+    {
+      "symbol": "σ",
+      "name": "Greek Small Letter Sigma",
+      "unicode": "U+03C3",
+      "html": "&sigma;",
+      "alt_code": "229",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-sigma"
+    },
+    {
+      "symbol": "Τ",
+      "name": "Greek Capital Letter Tau",
+      "unicode": "U+03A4",
+      "html": "&Tau;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-tau"
+    },
+    {
+      "symbol": "τ",
+      "name": "Greek Small Letter Tau",
+      "unicode": "U+03C4",
+      "html": "&tau;",
+      "alt_code": "231",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-tau"
+    },
+    {
+      "symbol": "Υ",
+      "name": "Greek Capital Letter Upsilon",
+      "unicode": "U+03A5",
+      "html": "&Upsilon;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-upsilon"
+    },
+    {
+      "symbol": "υ",
+      "name": "Greek Small Letter Upsilon",
+      "unicode": "U+03C5",
+      "html": "&upsilon;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-upsilon"
+    },
+    {
+      "symbol": "Φ",
+      "name": "Greek Capital Letter Phi",
+      "unicode": "U+03A6",
+      "html": "&Phi;",
+      "alt_code": "232",
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-phi"
+    },
+    {
+      "symbol": "φ",
+      "name": "Greek Small Letter Phi",
+      "unicode": "U+03C6",
+      "html": "&phi;",
+      "alt_code": "237",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-phi"
+    },
+    {
+      "symbol": "Χ",
+      "name": "Greek Capital Letter Chi",
+      "unicode": "U+03A7",
+      "html": "&Chi;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-chi"
+    },
+    {
+      "symbol": "χ",
+      "name": "Greek Small Letter Chi",
+      "unicode": "U+03C7",
+      "html": "&chi;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-chi"
+    },
+    {
+      "symbol": "Ψ",
+      "name": "Greek Capital Letter Psi",
+      "unicode": "U+03A8",
+      "html": "&Psi;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-psi"
+    },
+    {
+      "symbol": "ψ",
+      "name": "Greek Small Letter Psi",
+      "unicode": "U+03C8",
+      "html": "&psi;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-psi"
+    },
+    {
+      "symbol": "Ω",
+      "name": "Greek Capital Letter Omega",
+      "unicode": "U+03A9",
+      "html": "&Omega;",
+      "alt_code": "234",
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-omega"
+    },
+    {
+      "symbol": "ω",
+      "name": "Greek Small Letter Omega",
+      "unicode": "U+03C9",
+      "html": "&omega;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-omega"
+    },
+    {
+      "symbol": "ς",
+      "name": "Greek Small Letter Final Sigma",
+      "unicode": "U+03C2",
+      "html": "&sigmaf;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-final-sigma"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "legal-symbols",
+  "title": "Trademark, Copyright & Registered Symbols",
+  "url": "https://free-symbols.com/collections/legal-symbols",
+  "symbols": [
+    {
+      "symbol": "™",
+      "name": "Trade Mark Sign",
+      "unicode": "U+2122",
+      "html": "&#8482;",
+      "alt_code": "0153",
+      "url": "https://free-symbols.com/symbols/punctuation/trade-mark-sign"
+    },
+    {
+      "symbol": "©",
+      "name": "Copyright Sign",
+      "unicode": "U+00A9",
+      "html": "&#169;",
+      "alt_code": "0169",
+      "url": "https://free-symbols.com/symbols/punctuation/copyright-sign"
+    },
+    {
+      "symbol": "®",
+      "name": "Registered Sign",
+      "unicode": "U+00AE",
+      "html": "&#174;",
+      "alt_code": "0174",
+      "url": "https://free-symbols.com/symbols/punctuation/registered-sign"
+    },
+    {
+      "symbol": "℠",
+      "name": "Service Mark",
+      "unicode": "U+2120",
+      "html": "&#8480;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/service-mark"
+    },
+    {
+      "symbol": "℗",
+      "name": "Sound Recording Copyright",
+      "unicode": "U+2117",
+      "html": "&#8471;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/punctuation/sound-recording-copyright"
+    },
+    {
+      "symbol": "™️",
+      "name": "Trade Mark",
+      "unicode": "U+2122 U+FE0F",
+      "html": "&#8482;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/trade-mark"
+    },
+    {
+      "symbol": "©️",
+      "name": "Copyright",
+      "unicode": "U+00A9 U+FE0F",
+      "html": "&#169;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/copyright"
+    },
+    {
+      "symbol": "®️",
+      "name": "Registered",
+      "unicode": "U+00AE U+FE0F",
+      "html": "&#174;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emoji-signs/registered"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "angry-emoji",
+  "title": "Angry Emoji",
+  "url": "https://free-symbols.com/collections/angry-emoji",
+  "symbols": [
+    {
+      "symbol": "😠",
+      "name": "Angry Face",
+      "unicode": "U+1F620",
+      "html": "&#128544;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/angry-face"
+    },
+    {
+      "symbol": "😡",
+      "name": "Enraged Face",
+      "unicode": "U+1F621",
+      "html": "&#128545;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/enraged-face"
+    },
+    {
+      "symbol": "🤬",
+      "name": "Face With Symbols On Mouth",
+      "unicode": "U+1F92C",
+      "html": "&#129324;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/face-with-symbols-on-mouth"
+    },
+    {
+      "symbol": "😤",
+      "name": "Face With Steam From Nose",
+      "unicode": "U+1F624",
+      "html": "&#128548;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/face-with-steam-from-nose"
+    },
+    {
+      "symbol": "👿",
+      "name": "Angry Face With Horns",
+      "unicode": "U+1F47F",
+      "html": "&#128127;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/negative-faces/angry-face-with-horns"
+    },
+    {
+      "symbol": "💢",
+      "name": "Anger Symbol",
+      "unicode": "U+1F4A2",
+      "html": "&#128162;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emotions/anger-symbol"
+    },
+    {
+      "symbol": "😾",
+      "name": "Pouting Cat",
+      "unicode": "U+1F63E",
+      "html": "&#128574;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/costume-faces/pouting-cat"
+    },
+    {
+      "symbol": "🗯️",
+      "name": "Right Anger Bubble",
+      "unicode": "U+1F5EF U+FE0F",
+      "html": "&#128495;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emotions/right-anger-bubble"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

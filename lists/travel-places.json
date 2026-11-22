@@ -1,0 +1,305 @@
+{
+  "slug": "travel-places",
+  "title": "Travel & Places",
+  "url": "https://free-symbols.com/collections/travel-places",
+  "symbols": [
+    {
+      "symbol": "✈️",
+      "name": "Airplane",
+      "unicode": "U+2708 U+FE0F",
+      "html": "&#9992;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/air-water-transport/airplane"
+    },
+    {
+      "symbol": "🚀",
+      "name": "Rocket",
+      "unicode": "U+1F680",
+      "html": "&#128640;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/air-water-transport/rocket"
+    },
+    {
+      "symbol": "🛸",
+      "name": "Flying Saucer",
+      "unicode": "U+1F6F8",
+      "html": "&#128760;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/air-water-transport/flying-saucer"
+    },
+    {
+      "symbol": "🚂",
+      "name": "Locomotive",
+      "unicode": "U+1F682",
+      "html": "&#128642;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/locomotive"
+    },
+    {
+      "symbol": "🚢",
+      "name": "Ship",
+      "unicode": "U+1F6A2",
+      "html": "&#128674;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/air-water-transport/ship"
+    },
+    {
+      "symbol": "🚗",
+      "name": "Automobile",
+      "unicode": "U+1F697",
+      "html": "&#128663;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/automobile"
+    },
+    {
+      "symbol": "🚕",
+      "name": "Taxi",
+      "unicode": "U+1F695",
+      "html": "&#128661;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/taxi"
+    },
+    {
+      "symbol": "🚌",
+      "name": "Bus",
+      "unicode": "U+1F68C",
+      "html": "&#128652;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/bus"
+    },
+    {
+      "symbol": "🚲",
+      "name": "Bicycle",
+      "unicode": "U+1F6B2",
+      "html": "&#128690;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/bicycle"
+    },
+    {
+      "symbol": "🛵",
+      "name": "Motor Scooter",
+      "unicode": "U+1F6F5",
+      "html": "&#128757;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/motor-scooter"
+    },
+    {
+      "symbol": "🏍️",
+      "name": "Motorcycle",
+      "unicode": "U+1F3CD U+FE0F",
+      "html": "&#127949;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/motorcycle"
+    },
+    {
+      "symbol": "⛵",
+      "name": "Sailboat",
+      "unicode": "U+26F5",
+      "html": "&#9973;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/air-water-transport/sailboat"
+    },
+    {
+      "symbol": "🚁",
+      "name": "Helicopter",
+      "unicode": "U+1F681",
+      "html": "&#128641;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/air-water-transport/helicopter"
+    },
+    {
+      "symbol": "🛺",
+      "name": "Auto Rickshaw",
+      "unicode": "U+1F6FA",
+      "html": "&#128762;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/ground-transport/auto-rickshaw"
+    },
+    {
+      "symbol": "🚠",
+      "name": "Mountain Cableway",
+      "unicode": "U+1F6A0",
+      "html": "&#128672;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/air-water-transport/mountain-cableway"
+    },
+    {
+      "symbol": "🗺️",
+      "name": "World Map",
+      "unicode": "U+1F5FA U+FE0F",
+      "html": "&#128506;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/world-map"
+    },
+    {
+      "symbol": "🗼",
+      "name": "Tokyo tower",
+      "unicode": "U+1F5FC",
+      "html": "&#128508;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/tokyo-tower"
+    },
+    {
+      "symbol": "🗽",
+      "name": "Statue of Liberty",
+      "unicode": "U+1F5FD",
+      "html": "&#128509;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/statue-of-liberty"
+    },
+    {
+      "symbol": "🏰",
+      "name": "Castle",
+      "unicode": "U+1F3F0",
+      "html": "&#127984;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/castle"
+    },
+    {
+      "symbol": "🏯",
+      "name": "Japanese castle",
+      "unicode": "U+1F3EF",
+      "html": "&#127983;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/japanese-castle"
+    },
+    {
+      "symbol": "⛩️",
+      "name": "Shinto Shrine",
+      "unicode": "U+26E9 U+FE0F",
+      "html": "&#9961;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/shinto-shrine"
+    },
+    {
+      "symbol": "🕌",
+      "name": "Mosque",
+      "unicode": "U+1F54C",
+      "html": "&#128332;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/mosque"
+    },
+    {
+      "symbol": "🕍",
+      "name": "Synagogue",
+      "unicode": "U+1F54D",
+      "html": "&#128333;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/synagogue"
+    },
+    {
+      "symbol": "⛪",
+      "name": "Church",
+      "unicode": "U+26EA",
+      "html": "&#9962;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/church"
+    },
+    {
+      "symbol": "🏝️",
+      "name": "Desert Island",
+      "unicode": "U+1F3DD U+FE0F",
+      "html": "&#127965;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/desert-island"
+    },
+    {
+      "symbol": "🏖️",
+      "name": "Beach With Umbrella",
+      "unicode": "U+1F3D6 U+FE0F",
+      "html": "&#127958;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/beach-with-umbrella"
+    },
+    {
+      "symbol": "🏔️",
+      "name": "Snow-Capped Mountain",
+      "unicode": "U+1F3D4 U+FE0F",
+      "html": "&#127956;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/snow-capped-mountain"
+    },
+    {
+      "symbol": "🌋",
+      "name": "Volcano",
+      "unicode": "U+1F30B",
+      "html": "&#127755;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/volcano"
+    },
+    {
+      "symbol": "🗻",
+      "name": "Mount Fuji",
+      "unicode": "U+1F5FB",
+      "html": "&#128507;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/mount-fuji"
+    },
+    {
+      "symbol": "🏕️",
+      "name": "Camping",
+      "unicode": "U+1F3D5 U+FE0F",
+      "html": "&#127957;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/camping"
+    },
+    {
+      "symbol": "🌁",
+      "name": "Foggy",
+      "unicode": "U+1F301",
+      "html": "&#127745;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/foggy"
+    },
+    {
+      "symbol": "🌉",
+      "name": "Bridge At Night",
+      "unicode": "U+1F309",
+      "html": "&#127753;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/bridge-at-night"
+    },
+    {
+      "symbol": "🎡",
+      "name": "Ferris Wheel",
+      "unicode": "U+1F3A1",
+      "html": "&#127905;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/ferris-wheel"
+    },
+    {
+      "symbol": "🎢",
+      "name": "Roller Coaster",
+      "unicode": "U+1F3A2",
+      "html": "&#127906;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/roller-coaster"
+    },
+    {
+      "symbol": "🎠",
+      "name": "Carousel Horse",
+      "unicode": "U+1F3A0",
+      "html": "&#127904;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/places-buildings/carousel-horse"
+    },
+    {
+      "symbol": "🌐",
+      "name": "Globe With Meridians",
+      "unicode": "U+1F310",
+      "html": "&#127760;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/globe-with-meridians"
+    },
+    {
+      "symbol": "🧭",
+      "name": "Compass",
+      "unicode": "U+1F9ED",
+      "html": "&#129517;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/maps-geography/compass"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

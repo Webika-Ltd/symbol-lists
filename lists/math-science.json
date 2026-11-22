@@ -1,0 +1,273 @@
+{
+  "slug": "math-science",
+  "title": "Math Symbols",
+  "url": "https://free-symbols.com/collections/math-science",
+  "symbols": [
+    {
+      "symbol": "π",
+      "name": "Greek Small Letter Pi",
+      "unicode": "U+03C0",
+      "html": "&pi;",
+      "alt_code": "227",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-pi"
+    },
+    {
+      "symbol": "√",
+      "name": "Square Root",
+      "unicode": "U+221A",
+      "html": "&#8730;",
+      "alt_code": "251",
+      "url": "https://free-symbols.com/symbols/math/square-root"
+    },
+    {
+      "symbol": "∞",
+      "name": "Infinity",
+      "unicode": "U+221E",
+      "html": "&#8734;",
+      "alt_code": "236",
+      "url": "https://free-symbols.com/symbols/math/infinity-symbol"
+    },
+    {
+      "symbol": "±",
+      "name": "Plus-minus Sign",
+      "unicode": "U+00B1",
+      "html": "&#177;",
+      "alt_code": "0177",
+      "url": "https://free-symbols.com/symbols/punctuation/plus-minus-sign"
+    },
+    {
+      "symbol": "÷",
+      "name": "Division Sign",
+      "unicode": "U+00F7",
+      "html": "&#247;",
+      "alt_code": "0247",
+      "url": "https://free-symbols.com/symbols/math/division-sign"
+    },
+    {
+      "symbol": "×",
+      "name": "Multiplication Sign",
+      "unicode": "U+00D7",
+      "html": "&#215;",
+      "alt_code": "0215",
+      "url": "https://free-symbols.com/symbols/math/multiplication-sign"
+    },
+    {
+      "symbol": "≠",
+      "name": "Not Equal To",
+      "unicode": "U+2260",
+      "html": "&#8800;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/not-equal-to"
+    },
+    {
+      "symbol": "≈",
+      "name": "Almost Equal To",
+      "unicode": "U+2248",
+      "html": "&#8776;",
+      "alt_code": "247",
+      "url": "https://free-symbols.com/symbols/math/almost-equal-to"
+    },
+    {
+      "symbol": "≤",
+      "name": "Less-than Or Equal To",
+      "unicode": "U+2264",
+      "html": "&#8804;",
+      "alt_code": "243",
+      "url": "https://free-symbols.com/symbols/math/less-than-or-equal-to"
+    },
+    {
+      "symbol": "≥",
+      "name": "Greater-than Or Equal To",
+      "unicode": "U+2265",
+      "html": "&#8805;",
+      "alt_code": "242",
+      "url": "https://free-symbols.com/symbols/math/greater-than-or-equal-to"
+    },
+    {
+      "symbol": "∑",
+      "name": "N-ary Summation",
+      "unicode": "U+2211",
+      "html": "&#8721;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/n-ary-summation"
+    },
+    {
+      "symbol": "Δ",
+      "name": "Greek Capital Letter Delta",
+      "unicode": "U+0394",
+      "html": "&Delta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-delta"
+    },
+    {
+      "symbol": "∫",
+      "name": "Integral",
+      "unicode": "U+222B",
+      "html": "&#8747;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/integral"
+    },
+    {
+      "symbol": "∂",
+      "name": "Partial Differential",
+      "unicode": "U+2202",
+      "html": "&#8706;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/partial-differential"
+    },
+    {
+      "symbol": "θ",
+      "name": "Greek Small Letter Theta",
+      "unicode": "U+03B8",
+      "html": "&theta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-theta"
+    },
+    {
+      "symbol": "α",
+      "name": "Greek Small Letter Alpha",
+      "unicode": "U+03B1",
+      "html": "&alpha;",
+      "alt_code": "224",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-alpha"
+    },
+    {
+      "symbol": "β",
+      "name": "Greek Small Letter Beta",
+      "unicode": "U+03B2",
+      "html": "&beta;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-beta"
+    },
+    {
+      "symbol": "μ",
+      "name": "Greek Small Letter Mu",
+      "unicode": "U+03BC",
+      "html": "&mu;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-mu"
+    },
+    {
+      "symbol": "σ",
+      "name": "Greek Small Letter Sigma",
+      "unicode": "U+03C3",
+      "html": "&sigma;",
+      "alt_code": "229",
+      "url": "https://free-symbols.com/letters/greek/greek-small-letter-sigma"
+    },
+    {
+      "symbol": "Ω",
+      "name": "Greek Capital Letter Omega",
+      "unicode": "U+03A9",
+      "html": "&Omega;",
+      "alt_code": "234",
+      "url": "https://free-symbols.com/letters/greek/greek-capital-letter-omega"
+    },
+    {
+      "symbol": "∏",
+      "name": "N-ary Product",
+      "unicode": "U+220F",
+      "html": "&#8719;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/n-ary-product"
+    },
+    {
+      "symbol": "∆",
+      "name": "Increment",
+      "unicode": "U+2206",
+      "html": "&#8710;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/increment"
+    },
+    {
+      "symbol": "⊕",
+      "name": "Circled Plus",
+      "unicode": "U+2295",
+      "html": "&#8853;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/esoteric/astrology/circled-plus"
+    },
+    {
+      "symbol": "⊗",
+      "name": "Circled Times",
+      "unicode": "U+2297",
+      "html": "&#8855;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/circled-times"
+    },
+    {
+      "symbol": "∈",
+      "name": "Element Of",
+      "unicode": "U+2208",
+      "html": "&#8712;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/element-of"
+    },
+    {
+      "symbol": "∉",
+      "name": "Not An Element Of",
+      "unicode": "U+2209",
+      "html": "&#8713;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/not-an-element-of"
+    },
+    {
+      "symbol": "⊂",
+      "name": "Subset Of",
+      "unicode": "U+2282",
+      "html": "&#8834;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/subset-of"
+    },
+    {
+      "symbol": "⊆",
+      "name": "Subset Of Or Equal To",
+      "unicode": "U+2286",
+      "html": "&#8838;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/subset-of-or-equal-to"
+    },
+    {
+      "symbol": "∀",
+      "name": "For All",
+      "unicode": "U+2200",
+      "html": "&#8704;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/for-all"
+    },
+    {
+      "symbol": "∃",
+      "name": "There Exists",
+      "unicode": "U+2203",
+      "html": "&#8707;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/there-exists"
+    },
+    {
+      "symbol": "¬",
+      "name": "Not Sign",
+      "unicode": "U+00AC",
+      "html": "&#172;",
+      "alt_code": "0172",
+      "url": "https://free-symbols.com/symbols/punctuation/not-sign"
+    },
+    {
+      "symbol": "∧",
+      "name": "Logical And",
+      "unicode": "U+2227",
+      "html": "&#8743;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/logical-and"
+    },
+    {
+      "symbol": "∨",
+      "name": "Logical Or",
+      "unicode": "U+2228",
+      "html": "&#8744;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/math/logical-or"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

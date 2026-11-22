@@ -1,0 +1,217 @@
+{
+  "slug": "music",
+  "title": "Music Symbols",
+  "url": "https://free-symbols.com/collections/music",
+  "symbols": [
+    {
+      "symbol": "🎵",
+      "name": "Musical Note",
+      "unicode": "U+1F3B5",
+      "html": "&#127925;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/musical-note"
+    },
+    {
+      "symbol": "🎶",
+      "name": "Musical Notes",
+      "unicode": "U+1F3B6",
+      "html": "&#127926;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/musical-notes"
+    },
+    {
+      "symbol": "🎼",
+      "name": "Musical Score",
+      "unicode": "U+1F3BC",
+      "html": "&#127932;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/musical-score"
+    },
+    {
+      "symbol": "🎤",
+      "name": "Microphone",
+      "unicode": "U+1F3A4",
+      "html": "&#127908;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/microphone"
+    },
+    {
+      "symbol": "🎧",
+      "name": "Headphone",
+      "unicode": "U+1F3A7",
+      "html": "&#127911;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/headphone"
+    },
+    {
+      "symbol": "🎸",
+      "name": "Guitar",
+      "unicode": "U+1F3B8",
+      "html": "&#127928;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/guitar"
+    },
+    {
+      "symbol": "🎹",
+      "name": "Musical Keyboard",
+      "unicode": "U+1F3B9",
+      "html": "&#127929;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/musical-keyboard"
+    },
+    {
+      "symbol": "🎺",
+      "name": "Trumpet",
+      "unicode": "U+1F3BA",
+      "html": "&#127930;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/trumpet"
+    },
+    {
+      "symbol": "🎻",
+      "name": "Violin",
+      "unicode": "U+1F3BB",
+      "html": "&#127931;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/violin"
+    },
+    {
+      "symbol": "🥁",
+      "name": "Drum",
+      "unicode": "U+1F941",
+      "html": "&#129345;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/drum"
+    },
+    {
+      "symbol": "🎷",
+      "name": "Saxophone",
+      "unicode": "U+1F3B7",
+      "html": "&#127927;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/saxophone"
+    },
+    {
+      "symbol": "🪗",
+      "name": "Accordion",
+      "unicode": "U+1FA97",
+      "html": "&#129687;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/accordion"
+    },
+    {
+      "symbol": "🪘",
+      "name": "Long Drum",
+      "unicode": "U+1FA98",
+      "html": "&#129688;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/long-drum"
+    },
+    {
+      "symbol": "🪕",
+      "name": "Banjo",
+      "unicode": "U+1FA95",
+      "html": "&#129685;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/banjo"
+    },
+    {
+      "symbol": "🎙️",
+      "name": "Studio Microphone",
+      "unicode": "U+1F399 U+FE0F",
+      "html": "&#127897;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/music-sound/studio-microphone"
+    },
+    {
+      "symbol": "♩",
+      "name": "Quarter Note",
+      "unicode": "U+2669",
+      "html": "&#9833;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/quarter-note"
+    },
+    {
+      "symbol": "♪",
+      "name": "Eighth Note",
+      "unicode": "U+266A",
+      "html": "&#9834;",
+      "alt_code": "13",
+      "url": "https://free-symbols.com/symbols/music/eighth-note"
+    },
+    {
+      "symbol": "♫",
+      "name": "Beamed Eighth Notes",
+      "unicode": "U+266B",
+      "html": "&#9835;",
+      "alt_code": "14",
+      "url": "https://free-symbols.com/symbols/music/beamed-eighth-notes"
+    },
+    {
+      "symbol": "♬",
+      "name": "Beamed Sixteenth Notes",
+      "unicode": "U+266C",
+      "html": "&#9836;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/beamed-sixteenth-notes"
+    },
+    {
+      "symbol": "♭",
+      "name": "Music Flat Sign",
+      "unicode": "U+266D",
+      "html": "&#9837;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/music-flat-sign"
+    },
+    {
+      "symbol": "♮",
+      "name": "Music Natural Sign",
+      "unicode": "U+266E",
+      "html": "&#9838;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/music-natural-sign"
+    },
+    {
+      "symbol": "♯",
+      "name": "Music Sharp Sign",
+      "unicode": "U+266F",
+      "html": "&#9839;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/music-sharp-sign"
+    },
+    {
+      "symbol": "𝄞",
+      "name": "Musical Symbol G Clef",
+      "unicode": "U+1D11E",
+      "html": "&#119070;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/musical-symbol-g-clef"
+    },
+    {
+      "symbol": "𝄢",
+      "name": "Musical Symbol F Clef",
+      "unicode": "U+1D122",
+      "html": "&#119074;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/musical-symbol-f-clef"
+    },
+    {
+      "symbol": "𝄠",
+      "name": "Musical Symbol G Clef Ottava Bassa",
+      "unicode": "U+1D120",
+      "html": "&#119072;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/musical-symbol-g-clef-ottava-bassa"
+    },
+    {
+      "symbol": "𝅝",
+      "name": "Musical Symbol Whole Note",
+      "unicode": "U+1D15D",
+      "html": "&#119133;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/music/musical-symbol-whole-note"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

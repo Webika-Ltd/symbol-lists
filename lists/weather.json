@@ -1,0 +1,233 @@
+{
+  "slug": "weather",
+  "title": "Weather",
+  "url": "https://free-symbols.com/collections/weather",
+  "symbols": [
+    {
+      "symbol": "☀️",
+      "name": "Sun",
+      "unicode": "U+2600 U+FE0F",
+      "html": "&#9728;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/sun"
+    },
+    {
+      "symbol": "🌤️",
+      "name": "Sun Behind Small Cloud",
+      "unicode": "U+1F324 U+FE0F",
+      "html": "&#127780;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-small-cloud"
+    },
+    {
+      "symbol": "⛅",
+      "name": "Sun Behind Cloud",
+      "unicode": "U+26C5",
+      "html": "&#9925;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-cloud"
+    },
+    {
+      "symbol": "🌥️",
+      "name": "Sun Behind Large Cloud",
+      "unicode": "U+1F325 U+FE0F",
+      "html": "&#127781;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-large-cloud"
+    },
+    {
+      "symbol": "☁️",
+      "name": "Cloud",
+      "unicode": "U+2601 U+FE0F",
+      "html": "&#9729;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/cloud"
+    },
+    {
+      "symbol": "🌦️",
+      "name": "Sun Behind Rain Cloud",
+      "unicode": "U+1F326 U+FE0F",
+      "html": "&#127782;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-rain-cloud"
+    },
+    {
+      "symbol": "🌧️",
+      "name": "Cloud With Rain",
+      "unicode": "U+1F327 U+FE0F",
+      "html": "&#127783;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-rain"
+    },
+    {
+      "symbol": "⛈️",
+      "name": "Cloud With Lightning And Rain",
+      "unicode": "U+26C8 U+FE0F",
+      "html": "&#9928;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-lightning-and-rain"
+    },
+    {
+      "symbol": "🌩️",
+      "name": "Cloud With Lightning",
+      "unicode": "U+1F329 U+FE0F",
+      "html": "&#127785;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-lightning"
+    },
+    {
+      "symbol": "🌨️",
+      "name": "Cloud With Snow",
+      "unicode": "U+1F328 U+FE0F",
+      "html": "&#127784;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-snow"
+    },
+    {
+      "symbol": "❄️",
+      "name": "Snowflake",
+      "unicode": "U+2744 U+FE0F",
+      "html": "&#10052;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/snowflake"
+    },
+    {
+      "symbol": "🌪️",
+      "name": "Tornado",
+      "unicode": "U+1F32A U+FE0F",
+      "html": "&#127786;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/tornado"
+    },
+    {
+      "symbol": "🌫️",
+      "name": "Fog",
+      "unicode": "U+1F32B U+FE0F",
+      "html": "&#127787;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/fog"
+    },
+    {
+      "symbol": "🌬️",
+      "name": "Wind Face",
+      "unicode": "U+1F32C U+FE0F",
+      "html": "&#127788;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/wind-face"
+    },
+    {
+      "symbol": "🌈",
+      "name": "Rainbow",
+      "unicode": "U+1F308",
+      "html": "&#127752;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/rainbow"
+    },
+    {
+      "symbol": "⛄",
+      "name": "Snowman Without Snow",
+      "unicode": "U+26C4",
+      "html": "&#9924;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/snowman-without-snow"
+    },
+    {
+      "symbol": "💧",
+      "name": "Droplet",
+      "unicode": "U+1F4A7",
+      "html": "&#128167;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/droplet"
+    },
+    {
+      "symbol": "🌊",
+      "name": "Water Wave",
+      "unicode": "U+1F30A",
+      "html": "&#127754;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/water-wave"
+    },
+    {
+      "symbol": "⚡",
+      "name": "High Voltage",
+      "unicode": "U+26A1",
+      "html": "&#9889;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/high-voltage"
+    },
+    {
+      "symbol": "🌡️",
+      "name": "Thermometer",
+      "unicode": "U+1F321 U+FE0F",
+      "html": "&#127777;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/thermometer"
+    },
+    {
+      "symbol": "☔",
+      "name": "Umbrella With Rain Drops",
+      "unicode": "U+2614",
+      "html": "&#9748;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/umbrella-with-rain-drops"
+    },
+    {
+      "symbol": "⛱️",
+      "name": "Umbrella On Ground",
+      "unicode": "U+26F1 U+FE0F",
+      "html": "&#9969;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/map-symbols/umbrella-on-ground"
+    },
+    {
+      "symbol": "🌙",
+      "name": "Crescent Moon",
+      "unicode": "U+1F319",
+      "html": "&#127769;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/crescent-moon"
+    },
+    {
+      "symbol": "⭐",
+      "name": "Star",
+      "unicode": "U+2B50",
+      "html": "&#11088;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/star"
+    },
+    {
+      "symbol": "🌟",
+      "name": "Glowing Star",
+      "unicode": "U+1F31F",
+      "html": "&#127775;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/glowing-star"
+    },
+    {
+      "symbol": "☃️",
+      "name": "Snowman",
+      "unicode": "U+2603 U+FE0F",
+      "html": "&#9731;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/snowman"
+    },
+    {
+      "symbol": "🔥",
+      "name": "Fire",
+      "unicode": "U+1F525",
+      "html": "&#128293;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/sky-weather-time/fire"
+    },
+    {
+      "symbol": "💨",
+      "name": "Dashing Away",
+      "unicode": "U+1F4A8",
+      "html": "&#128168;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/emotions/dashing-away"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

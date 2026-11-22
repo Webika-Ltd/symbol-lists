@@ -1,0 +1,97 @@
+{
+  "slug": "laughing-emoji",
+  "title": "Laughing Emoji",
+  "url": "https://free-symbols.com/collections/laughing-emoji",
+  "symbols": [
+    {
+      "symbol": "😂",
+      "name": "Face With Tears Of Joy",
+      "unicode": "U+1F602",
+      "html": "&#128514;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/face-with-tears-of-joy"
+    },
+    {
+      "symbol": "🤣",
+      "name": "Rolling On The Floor Laughing",
+      "unicode": "U+1F923",
+      "html": "&#129315;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/rolling-on-the-floor-laughing"
+    },
+    {
+      "symbol": "😆",
+      "name": "Grinning Squinting Face",
+      "unicode": "U+1F606",
+      "html": "&#128518;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/grinning-squinting-face"
+    },
+    {
+      "symbol": "😹",
+      "name": "Cat With Tears Of Joy",
+      "unicode": "U+1F639",
+      "html": "&#128569;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/costume-faces/cat-with-tears-of-joy"
+    },
+    {
+      "symbol": "😄",
+      "name": "Grinning Face With Smiling Eyes",
+      "unicode": "U+1F604",
+      "html": "&#128516;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/grinning-face-with-smiling-eyes"
+    },
+    {
+      "symbol": "😁",
+      "name": "Beaming Face With Smiling Eyes",
+      "unicode": "U+1F601",
+      "html": "&#128513;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/beaming-face-with-smiling-eyes"
+    },
+    {
+      "symbol": "😅",
+      "name": "Grinning Face With Sweat",
+      "unicode": "U+1F605",
+      "html": "&#128517;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/grinning-face-with-sweat"
+    },
+    {
+      "symbol": "😃",
+      "name": "Grinning Face With Big Eyes",
+      "unicode": "U+1F603",
+      "html": "&#128515;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/grinning-face-with-big-eyes"
+    },
+    {
+      "symbol": "😸",
+      "name": "Grinning Cat With Smiling Eyes",
+      "unicode": "U+1F638",
+      "html": "&#128568;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/costume-faces/grinning-cat-with-smiling-eyes"
+    },
+    {
+      "symbol": "🤭",
+      "name": "Face With Hand Over Mouth",
+      "unicode": "U+1F92D",
+      "html": "&#129325;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/neutral-faces/face-with-hand-over-mouth"
+    },
+    {
+      "symbol": "😝",
+      "name": "Squinting Face With Tongue",
+      "unicode": "U+1F61D",
+      "html": "&#128541;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/squinting-face-with-tongue"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

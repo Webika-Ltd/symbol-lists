@@ -1,0 +1,297 @@
+{
+  "slug": "currency",
+  "title": "Currency",
+  "url": "https://free-symbols.com/collections/currency",
+  "symbols": [
+    {
+      "symbol": "$",
+      "name": "Dollar Sign",
+      "unicode": "U+0024",
+      "html": "&#36;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/dollar-sign"
+    },
+    {
+      "symbol": "€",
+      "name": "Euro Sign",
+      "unicode": "U+20AC",
+      "html": "&#8364;",
+      "alt_code": "0128",
+      "url": "https://free-symbols.com/symbols/currency/euro-sign"
+    },
+    {
+      "symbol": "£",
+      "name": "Pound Sign",
+      "unicode": "U+00A3",
+      "html": "&#163;",
+      "alt_code": "0163",
+      "url": "https://free-symbols.com/symbols/currency/pound-sign"
+    },
+    {
+      "symbol": "¥",
+      "name": "Yen Sign",
+      "unicode": "U+00A5",
+      "html": "&#165;",
+      "alt_code": "0165",
+      "url": "https://free-symbols.com/symbols/currency/yen-sign"
+    },
+    {
+      "symbol": "¢",
+      "name": "Cent Sign",
+      "unicode": "U+00A2",
+      "html": "&#162;",
+      "alt_code": "0162",
+      "url": "https://free-symbols.com/symbols/currency/cent-sign"
+    },
+    {
+      "symbol": "₹",
+      "name": "Indian Rupee Sign",
+      "unicode": "U+20B9",
+      "html": "&#8377;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/indian-rupee-sign"
+    },
+    {
+      "symbol": "₩",
+      "name": "Won Sign",
+      "unicode": "U+20A9",
+      "html": "&#8361;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/won-sign"
+    },
+    {
+      "symbol": "₿",
+      "name": "Bitcoin Sign",
+      "unicode": "U+20BF",
+      "html": "&#8383;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/bitcoin-sign"
+    },
+    {
+      "symbol": "₽",
+      "name": "Ruble Sign",
+      "unicode": "U+20BD",
+      "html": "&#8381;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/ruble-sign"
+    },
+    {
+      "symbol": "₺",
+      "name": "Turkish Lira Sign",
+      "unicode": "U+20BA",
+      "html": "&#8378;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/turkish-lira-sign"
+    },
+    {
+      "symbol": "₪",
+      "name": "New Sheqel Sign",
+      "unicode": "U+20AA",
+      "html": "&#8362;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/new-sheqel-sign"
+    },
+    {
+      "symbol": "₫",
+      "name": "Dong Sign",
+      "unicode": "U+20AB",
+      "html": "&#8363;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/dong-sign"
+    },
+    {
+      "symbol": "₴",
+      "name": "Hryvnia Sign",
+      "unicode": "U+20B4",
+      "html": "&#8372;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/hryvnia-sign"
+    },
+    {
+      "symbol": "₦",
+      "name": "Naira Sign",
+      "unicode": "U+20A6",
+      "html": "&#8358;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/naira-sign"
+    },
+    {
+      "symbol": "₱",
+      "name": "Peso Sign",
+      "unicode": "U+20B1",
+      "html": "&#8369;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/peso-sign"
+    },
+    {
+      "symbol": "₡",
+      "name": "Colon Sign",
+      "unicode": "U+20A1",
+      "html": "&#8353;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/colon-sign"
+    },
+    {
+      "symbol": "₢",
+      "name": "Cruzeiro Sign",
+      "unicode": "U+20A2",
+      "html": "&#8354;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/cruzeiro-sign"
+    },
+    {
+      "symbol": "₣",
+      "name": "French Franc Sign",
+      "unicode": "U+20A3",
+      "html": "&#8355;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/french-franc-sign"
+    },
+    {
+      "symbol": "₤",
+      "name": "Lira Sign",
+      "unicode": "U+20A4",
+      "html": "&#8356;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/lira-sign"
+    },
+    {
+      "symbol": "₥",
+      "name": "Mill Sign",
+      "unicode": "U+20A5",
+      "html": "&#8357;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/mill-sign"
+    },
+    {
+      "symbol": "₧",
+      "name": "Peseta Sign",
+      "unicode": "U+20A7",
+      "html": "&#8359;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/peseta-sign"
+    },
+    {
+      "symbol": "₨",
+      "name": "Rupee Sign",
+      "unicode": "U+20A8",
+      "html": "&#8360;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/rupee-sign"
+    },
+    {
+      "symbol": "₭",
+      "name": "Kip Sign",
+      "unicode": "U+20AD",
+      "html": "&#8365;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/kip-sign"
+    },
+    {
+      "symbol": "₮",
+      "name": "Tugrik Sign",
+      "unicode": "U+20AE",
+      "html": "&#8366;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/tugrik-sign"
+    },
+    {
+      "symbol": "₯",
+      "name": "Drachma Sign",
+      "unicode": "U+20AF",
+      "html": "&#8367;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/drachma-sign"
+    },
+    {
+      "symbol": "₰",
+      "name": "German Penny Sign",
+      "unicode": "U+20B0",
+      "html": "&#8368;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/german-penny-sign"
+    },
+    {
+      "symbol": "₲",
+      "name": "Guarani Sign",
+      "unicode": "U+20B2",
+      "html": "&#8370;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/guarani-sign"
+    },
+    {
+      "symbol": "₳",
+      "name": "Austral Sign",
+      "unicode": "U+20B3",
+      "html": "&#8371;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/austral-sign"
+    },
+    {
+      "symbol": "₵",
+      "name": "Cedi Sign",
+      "unicode": "U+20B5",
+      "html": "&#8373;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/cedi-sign"
+    },
+    {
+      "symbol": "₶",
+      "name": "Livre Tournois Sign",
+      "unicode": "U+20B6",
+      "html": "&#8374;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/livre-tournois-sign"
+    },
+    {
+      "symbol": "₷",
+      "name": "Spesmilo Sign",
+      "unicode": "U+20B7",
+      "html": "&#8375;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/spesmilo-sign"
+    },
+    {
+      "symbol": "₸",
+      "name": "Tenge Sign",
+      "unicode": "U+20B8",
+      "html": "&#8376;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/currency/tenge-sign"
+    },
+    {
+      "symbol": "＄",
+      "name": "Fullwidth Dollar Sign",
+      "unicode": "U+FF04",
+      "html": "&#65284;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/fullwidth/fullwidth-dollar-sign"
+    },
+    {
+      "symbol": "￠",
+      "name": "Fullwidth Cent Sign",
+      "unicode": "U+FFE0",
+      "html": "&#65504;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/fullwidth/fullwidth-cent-sign"
+    },
+    {
+      "symbol": "￡",
+      "name": "Fullwidth Pound Sign",
+      "unicode": "U+FFE1",
+      "html": "&#65505;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/fullwidth/fullwidth-pound-sign"
+    },
+    {
+      "symbol": "￥",
+      "name": "Fullwidth Yen Sign",
+      "unicode": "U+FFE5",
+      "html": "&#65509;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/fullwidth/fullwidth-yen-sign"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "heart-symbols",
+  "title": "Heart Symbols",
+  "url": "https://free-symbols.com/collections/heart-symbols",
+  "symbols": [
+    {
+      "symbol": "♥",
+      "name": "Black Heart Suit",
+      "unicode": "U+2665",
+      "html": "&#9829;",
+      "alt_code": "3",
+      "url": "https://free-symbols.com/symbols/misc-symbols/black-heart-suit"
+    },
+    {
+      "symbol": "♡",
+      "name": "White Heart Suit",
+      "unicode": "U+2661",
+      "html": "&#9825;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/white-heart-suit"
+    },
+    {
+      "symbol": "❤️",
+      "name": "Red Heart",
+      "unicode": "U+2764 U+FE0F",
+      "html": "&#10084;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/red-heart"
+    },
+    {
+      "symbol": "❣️",
+      "name": "Heart Exclamation",
+      "unicode": "U+2763 U+FE0F",
+      "html": "&#10083;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/heart-exclamation"
+    },
+    {
+      "symbol": "❥",
+      "name": "Rotated Heavy Black Heart Bullet",
+      "unicode": "U+2765",
+      "html": "&#10085;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/rotated-heavy-black-heart-bullet"
+    },
+    {
+      "symbol": "❦",
+      "name": "Floral Heart",
+      "unicode": "U+2766",
+      "html": "&#10086;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/floral-heart"
+    },
+    {
+      "symbol": "❧",
+      "name": "Rotated Floral Heart Bullet",
+      "unicode": "U+2767",
+      "html": "&#10087;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/dingbats/rotated-floral-heart-bullet"
+    },
+    {
+      "symbol": "☙",
+      "name": "Reversed Rotated Floral Heart Bullet",
+      "unicode": "U+2619",
+      "html": "&#9753;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/symbols/misc-symbols/reversed-rotated-floral-heart-bullet"
+    },
+    {
+      "symbol": "ღ",
+      "name": "Georgian Letter Ghan",
+      "unicode": "U+10E6",
+      "html": "&#4326;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/letters/georgian/georgian-letter-ghan"
+    },
+    {
+      "symbol": "💕",
+      "name": "Two Hearts",
+      "unicode": "U+1F495",
+      "html": "&#128149;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/two-hearts"
+    },
+    {
+      "symbol": "💖",
+      "name": "Sparkling Heart",
+      "unicode": "U+1F496",
+      "html": "&#128150;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/sparkling-heart"
+    },
+    {
+      "symbol": "💗",
+      "name": "Growing Heart",
+      "unicode": "U+1F497",
+      "html": "&#128151;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/growing-heart"
+    },
+    {
+      "symbol": "💓",
+      "name": "Beating Heart",
+      "unicode": "U+1F493",
+      "html": "&#128147;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/beating-heart"
+    },
+    {
+      "symbol": "💞",
+      "name": "Revolving Hearts",
+      "unicode": "U+1F49E",
+      "html": "&#128158;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/revolving-hearts"
+    },
+    {
+      "symbol": "💘",
+      "name": "Heart With Arrow",
+      "unicode": "U+1F498",
+      "html": "&#128152;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/heart-with-arrow"
+    },
+    {
+      "symbol": "💝",
+      "name": "Heart With Ribbon",
+      "unicode": "U+1F49D",
+      "html": "&#128157;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/heart-with-ribbon"
+    },
+    {
+      "symbol": "💟",
+      "name": "Heart Decoration",
+      "unicode": "U+1F49F",
+      "html": "&#128159;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/heart-decoration"
+    },
+    {
+      "symbol": "💌",
+      "name": "Love Letter",
+      "unicode": "U+1F48C",
+      "html": "&#128140;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/love-letter"
+    },
+    {
+      "symbol": "🧡",
+      "name": "Orange Heart",
+      "unicode": "U+1F9E1",
+      "html": "&#129505;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/orange-heart"
+    },
+    {
+      "symbol": "💛",
+      "name": "Yellow Heart",
+      "unicode": "U+1F49B",
+      "html": "&#128155;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/yellow-heart"
+    },
+    {
+      "symbol": "💚",
+      "name": "Green Heart",
+      "unicode": "U+1F49A",
+      "html": "&#128154;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/green-heart"
+    },
+    {
+      "symbol": "💙",
+      "name": "Blue Heart",
+      "unicode": "U+1F499",
+      "html": "&#128153;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/blue-heart"
+    },
+    {
+      "symbol": "💜",
+      "name": "Purple Heart",
+      "unicode": "U+1F49C",
+      "html": "&#128156;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/purple-heart"
+    },
+    {
+      "symbol": "🖤",
+      "name": "Black Heart",
+      "unicode": "U+1F5A4",
+      "html": "&#128420;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/black-heart"
+    },
+    {
+      "symbol": "🤍",
+      "name": "White Heart",
+      "unicode": "U+1F90D",
+      "html": "&#129293;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/white-heart"
+    },
+    {
+      "symbol": "🤎",
+      "name": "Brown Heart",
+      "unicode": "U+1F90E",
+      "html": "&#129294;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/brown-heart"
+    },
+    {
+      "symbol": "🩷",
+      "name": "Pink Heart",
+      "unicode": "U+1FA77",
+      "html": "&#129655;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/pink-heart"
+    },
+    {
+      "symbol": "🩵",
+      "name": "Light Blue Heart",
+      "unicode": "U+1FA75",
+      "html": "&#129653;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/light-blue-heart"
+    },
+    {
+      "symbol": "🩶",
+      "name": "Grey Heart",
+      "unicode": "U+1FA76",
+      "html": "&#129654;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/grey-heart"
+    },
+    {
+      "symbol": "❤️‍🔥",
+      "name": "Heart On Fire",
+      "unicode": "U+2764 U+FE0F U+200D U+1F525",
+      "html": "&#10084;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/heart-on-fire"
+    },
+    {
+      "symbol": "❤️‍🩹",
+      "name": "Mending Heart",
+      "unicode": "U+2764 U+FE0F U+200D U+1FA79",
+      "html": "&#10084;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/mending-heart"
+    },
+    {
+      "symbol": "💔",
+      "name": "Broken Heart",
+      "unicode": "U+1F494",
+      "html": "&#128148;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hearts/broken-heart"
+    },
+    {
+      "symbol": "😍",
+      "name": "Smiling Face With Heart-Eyes",
+      "unicode": "U+1F60D",
+      "html": "&#128525;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/smiling-face-with-heart-eyes"
+    },
+    {
+      "symbol": "🥰",
+      "name": "Smiling Face With Hearts",
+      "unicode": "U+1F970",
+      "html": "&#129392;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/smiling-face-with-hearts"
+    },
+    {
+      "symbol": "😘",
+      "name": "Face Blowing A Kiss",
+      "unicode": "U+1F618",
+      "html": "&#128536;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/smiling-faces/face-blowing-a-kiss"
+    },
+    {
+      "symbol": "🫶",
+      "name": "Heart Hands",
+      "unicode": "U+1FAF6",
+      "html": "&#129782;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/hand-gestures/heart-hands"
+    },
+    {
+      "symbol": "💑",
+      "name": "Couple With Heart",
+      "unicode": "U+1F491",
+      "html": "&#128145;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/family/couple-with-heart"
+    },
+    {
+      "symbol": "💏",
+      "name": "Kiss",
+      "unicode": "U+1F48F",
+      "html": "&#128143;",
+      "alt_code": null,
+      "url": "https://free-symbols.com/emoji/family/kiss"
+    }
+  ],
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0"
+}

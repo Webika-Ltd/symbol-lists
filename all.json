@@ -1,0 +1,5628 @@
+{
+  "source": "https://free-symbols.com",
+  "license": "CC-BY-4.0",
+  "lists": [
+    {
+      "slug": "heart-symbols",
+      "title": "Heart Symbols",
+      "url": "https://free-symbols.com/collections/heart-symbols",
+      "symbols": [
+        {
+          "symbol": "♥",
+          "name": "Black Heart Suit",
+          "unicode": "U+2665",
+          "html": "&#9829;",
+          "alt_code": "3",
+          "url": "https://free-symbols.com/symbols/misc-symbols/black-heart-suit"
+        },
+        {
+          "symbol": "♡",
+          "name": "White Heart Suit",
+          "unicode": "U+2661",
+          "html": "&#9825;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/white-heart-suit"
+        },
+        {
+          "symbol": "❤️",
+          "name": "Red Heart",
+          "unicode": "U+2764 U+FE0F",
+          "html": "&#10084;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/red-heart"
+        },
+        {
+          "symbol": "❣️",
+          "name": "Heart Exclamation",
+          "unicode": "U+2763 U+FE0F",
+          "html": "&#10083;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/heart-exclamation"
+        },
+        {
+          "symbol": "❥",
+          "name": "Rotated Heavy Black Heart Bullet",
+          "unicode": "U+2765",
+          "html": "&#10085;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/rotated-heavy-black-heart-bullet"
+        },
+        {
+          "symbol": "❦",
+          "name": "Floral Heart",
+          "unicode": "U+2766",
+          "html": "&#10086;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/floral-heart"
+        },
+        {
+          "symbol": "❧",
+          "name": "Rotated Floral Heart Bullet",
+          "unicode": "U+2767",
+          "html": "&#10087;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/rotated-floral-heart-bullet"
+        },
+        {
+          "symbol": "☙",
+          "name": "Reversed Rotated Floral Heart Bullet",
+          "unicode": "U+2619",
+          "html": "&#9753;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/reversed-rotated-floral-heart-bullet"
+        },
+        {
+          "symbol": "ღ",
+          "name": "Georgian Letter Ghan",
+          "unicode": "U+10E6",
+          "html": "&#4326;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/georgian/georgian-letter-ghan"
+        },
+        {
+          "symbol": "💕",
+          "name": "Two Hearts",
+          "unicode": "U+1F495",
+          "html": "&#128149;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/two-hearts"
+        },
+        {
+          "symbol": "💖",
+          "name": "Sparkling Heart",
+          "unicode": "U+1F496",
+          "html": "&#128150;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/sparkling-heart"
+        },
+        {
+          "symbol": "💗",
+          "name": "Growing Heart",
+          "unicode": "U+1F497",
+          "html": "&#128151;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/growing-heart"
+        },
+        {
+          "symbol": "💓",
+          "name": "Beating Heart",
+          "unicode": "U+1F493",
+          "html": "&#128147;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/beating-heart"
+        },
+        {
+          "symbol": "💞",
+          "name": "Revolving Hearts",
+          "unicode": "U+1F49E",
+          "html": "&#128158;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/revolving-hearts"
+        },
+        {
+          "symbol": "💘",
+          "name": "Heart With Arrow",
+          "unicode": "U+1F498",
+          "html": "&#128152;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/heart-with-arrow"
+        },
+        {
+          "symbol": "💝",
+          "name": "Heart With Ribbon",
+          "unicode": "U+1F49D",
+          "html": "&#128157;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/heart-with-ribbon"
+        },
+        {
+          "symbol": "💟",
+          "name": "Heart Decoration",
+          "unicode": "U+1F49F",
+          "html": "&#128159;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/heart-decoration"
+        },
+        {
+          "symbol": "💌",
+          "name": "Love Letter",
+          "unicode": "U+1F48C",
+          "html": "&#128140;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/love-letter"
+        },
+        {
+          "symbol": "🧡",
+          "name": "Orange Heart",
+          "unicode": "U+1F9E1",
+          "html": "&#129505;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/orange-heart"
+        },
+        {
+          "symbol": "💛",
+          "name": "Yellow Heart",
+          "unicode": "U+1F49B",
+          "html": "&#128155;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/yellow-heart"
+        },
+        {
+          "symbol": "💚",
+          "name": "Green Heart",
+          "unicode": "U+1F49A",
+          "html": "&#128154;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/green-heart"
+        },
+        {
+          "symbol": "💙",
+          "name": "Blue Heart",
+          "unicode": "U+1F499",
+          "html": "&#128153;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/blue-heart"
+        },
+        {
+          "symbol": "💜",
+          "name": "Purple Heart",
+          "unicode": "U+1F49C",
+          "html": "&#128156;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/purple-heart"
+        },
+        {
+          "symbol": "🖤",
+          "name": "Black Heart",
+          "unicode": "U+1F5A4",
+          "html": "&#128420;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/black-heart"
+        },
+        {
+          "symbol": "🤍",
+          "name": "White Heart",
+          "unicode": "U+1F90D",
+          "html": "&#129293;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/white-heart"
+        },
+        {
+          "symbol": "🤎",
+          "name": "Brown Heart",
+          "unicode": "U+1F90E",
+          "html": "&#129294;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/brown-heart"
+        },
+        {
+          "symbol": "🩷",
+          "name": "Pink Heart",
+          "unicode": "U+1FA77",
+          "html": "&#129655;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/pink-heart"
+        },
+        {
+          "symbol": "🩵",
+          "name": "Light Blue Heart",
+          "unicode": "U+1FA75",
+          "html": "&#129653;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/light-blue-heart"
+        },
+        {
+          "symbol": "🩶",
+          "name": "Grey Heart",
+          "unicode": "U+1FA76",
+          "html": "&#129654;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/grey-heart"
+        },
+        {
+          "symbol": "❤️‍🔥",
+          "name": "Heart On Fire",
+          "unicode": "U+2764 U+FE0F U+200D U+1F525",
+          "html": "&#10084;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/heart-on-fire"
+        },
+        {
+          "symbol": "❤️‍🩹",
+          "name": "Mending Heart",
+          "unicode": "U+2764 U+FE0F U+200D U+1FA79",
+          "html": "&#10084;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/mending-heart"
+        },
+        {
+          "symbol": "💔",
+          "name": "Broken Heart",
+          "unicode": "U+1F494",
+          "html": "&#128148;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/broken-heart"
+        },
+        {
+          "symbol": "😍",
+          "name": "Smiling Face With Heart-Eyes",
+          "unicode": "U+1F60D",
+          "html": "&#128525;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/smiling-face-with-heart-eyes"
+        },
+        {
+          "symbol": "🥰",
+          "name": "Smiling Face With Hearts",
+          "unicode": "U+1F970",
+          "html": "&#129392;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/smiling-face-with-hearts"
+        },
+        {
+          "symbol": "😘",
+          "name": "Face Blowing A Kiss",
+          "unicode": "U+1F618",
+          "html": "&#128536;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/face-blowing-a-kiss"
+        },
+        {
+          "symbol": "🫶",
+          "name": "Heart Hands",
+          "unicode": "U+1FAF6",
+          "html": "&#129782;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hand-gestures/heart-hands"
+        },
+        {
+          "symbol": "💑",
+          "name": "Couple With Heart",
+          "unicode": "U+1F491",
+          "html": "&#128145;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/family/couple-with-heart"
+        },
+        {
+          "symbol": "💏",
+          "name": "Kiss",
+          "unicode": "U+1F48F",
+          "html": "&#128143;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/family/kiss"
+        }
+      ]
+    },
+    {
+      "slug": "halloween",
+      "title": "Halloween",
+      "url": "https://free-symbols.com/collections/halloween",
+      "symbols": [
+        {
+          "symbol": "🎃",
+          "name": "Jack-O-Lantern",
+          "unicode": "U+1F383",
+          "html": "&#127875;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/events-arts/jack-o-lantern"
+        },
+        {
+          "symbol": "👻",
+          "name": "Ghost",
+          "unicode": "U+1F47B",
+          "html": "&#128123;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/costume-faces/ghost"
+        },
+        {
+          "symbol": "💀",
+          "name": "Skull",
+          "unicode": "U+1F480",
+          "html": "&#128128;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/skull"
+        },
+        {
+          "symbol": "☠️",
+          "name": "Skull And Crossbones",
+          "unicode": "U+2620 U+FE0F",
+          "html": "&#9760;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/skull-and-crossbones"
+        },
+        {
+          "symbol": "🕷️",
+          "name": "Spider",
+          "unicode": "U+1F577 U+FE0F",
+          "html": "&#128375;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/marine-bugs-reptiles/spider"
+        },
+        {
+          "symbol": "🕸️",
+          "name": "Spider Web",
+          "unicode": "U+1F578 U+FE0F",
+          "html": "&#128376;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/marine-bugs-reptiles/spider-web"
+        },
+        {
+          "symbol": "🦇",
+          "name": "Bat",
+          "unicode": "U+1F987",
+          "html": "&#129415;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/mammals/bat"
+        },
+        {
+          "symbol": "🌙",
+          "name": "Crescent Moon",
+          "unicode": "U+1F319",
+          "html": "&#127769;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/crescent-moon"
+        },
+        {
+          "symbol": "⚰️",
+          "name": "Coffin",
+          "unicode": "U+26B0 U+FE0F",
+          "html": "&#9904;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/tools-science-household/coffin"
+        },
+        {
+          "symbol": "🩸",
+          "name": "Drop Of Blood",
+          "unicode": "U+1FA78",
+          "html": "&#129656;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/tools-science-household/drop-of-blood"
+        },
+        {
+          "symbol": "🔮",
+          "name": "Crystal Ball",
+          "unicode": "U+1F52E",
+          "html": "&#128302;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/crystal-ball"
+        },
+        {
+          "symbol": "🌕",
+          "name": "Full Moon",
+          "unicode": "U+1F315",
+          "html": "&#127765;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/full-moon"
+        },
+        {
+          "symbol": "🕯️",
+          "name": "Candle",
+          "unicode": "U+1F56F U+FE0F",
+          "html": "&#128367;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/technology/candle"
+        },
+        {
+          "symbol": "🧟",
+          "name": "Zombie",
+          "unicode": "U+1F9DF",
+          "html": "&#129503;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fantasy-fiction/zombie"
+        },
+        {
+          "symbol": "🧛",
+          "name": "Vampire",
+          "unicode": "U+1F9DB",
+          "html": "&#129499;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fantasy-fiction/vampire"
+        },
+        {
+          "symbol": "🧙",
+          "name": "Mage",
+          "unicode": "U+1F9D9",
+          "html": "&#129497;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fantasy-fiction/mage"
+        },
+        {
+          "symbol": "🪄",
+          "name": "Magic Wand",
+          "unicode": "U+1FA84",
+          "html": "&#129668;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/magic-wand"
+        },
+        {
+          "symbol": "🐈‍⬛",
+          "name": "Black Cat",
+          "unicode": "U+1F408 U+200D U+2B1B",
+          "html": "&#128008;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/mammals/black-cat"
+        },
+        {
+          "symbol": "🌑",
+          "name": "New Moon",
+          "unicode": "U+1F311",
+          "html": "&#127761;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/new-moon"
+        },
+        {
+          "symbol": "🌚",
+          "name": "New Moon Face",
+          "unicode": "U+1F31A",
+          "html": "&#127770;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/new-moon-face"
+        },
+        {
+          "symbol": "⚡",
+          "name": "High Voltage",
+          "unicode": "U+26A1",
+          "html": "&#9889;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/high-voltage"
+        },
+        {
+          "symbol": "🌫️",
+          "name": "Fog",
+          "unicode": "U+1F32B U+FE0F",
+          "html": "&#127787;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/fog"
+        },
+        {
+          "symbol": "🍬",
+          "name": "Candy",
+          "unicode": "U+1F36C",
+          "html": "&#127852;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sweets-desserts/candy"
+        },
+        {
+          "symbol": "🍭",
+          "name": "Lollipop",
+          "unicode": "U+1F36D",
+          "html": "&#127853;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sweets-desserts/lollipop"
+        },
+        {
+          "symbol": "🪦",
+          "name": "Headstone",
+          "unicode": "U+1FAA6",
+          "html": "&#129702;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/tools-science-household/headstone"
+        }
+      ]
+    },
+    {
+      "slug": "christmas",
+      "title": "Christmas",
+      "url": "https://free-symbols.com/collections/christmas",
+      "symbols": [
+        {
+          "symbol": "🎄",
+          "name": "Christmas tree",
+          "unicode": "U+1F384",
+          "html": "&#127876;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/events-arts/christmas-tree"
+        },
+        {
+          "symbol": "🎅",
+          "name": "Santa Claus",
+          "unicode": "U+1F385",
+          "html": "&#127877;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fantasy-fiction/santa-claus"
+        },
+        {
+          "symbol": "🤶",
+          "name": "Mrs. Claus",
+          "unicode": "U+1F936",
+          "html": "&#129334;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fantasy-fiction/mrs-claus"
+        },
+        {
+          "symbol": "🦌",
+          "name": "Deer",
+          "unicode": "U+1F98C",
+          "html": "&#129420;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/mammals/deer"
+        },
+        {
+          "symbol": "🛷",
+          "name": "Sled",
+          "unicode": "U+1F6F7",
+          "html": "&#128759;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sports-awards/sled"
+        },
+        {
+          "symbol": "🎁",
+          "name": "Wrapped Gift",
+          "unicode": "U+1F381",
+          "html": "&#127873;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/events-arts/wrapped-gift"
+        },
+        {
+          "symbol": "🎀",
+          "name": "Ribbon",
+          "unicode": "U+1F380",
+          "html": "&#127872;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/events-arts/ribbon"
+        },
+        {
+          "symbol": "⛄",
+          "name": "Snowman Without Snow",
+          "unicode": "U+26C4",
+          "html": "&#9924;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/snowman-without-snow"
+        },
+        {
+          "symbol": "❄️",
+          "name": "Snowflake",
+          "unicode": "U+2744 U+FE0F",
+          "html": "&#10052;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/snowflake"
+        },
+        {
+          "symbol": "🌨️",
+          "name": "Cloud With Snow",
+          "unicode": "U+1F328 U+FE0F",
+          "html": "&#127784;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-snow"
+        },
+        {
+          "symbol": "🔔",
+          "name": "Bell",
+          "unicode": "U+1F514",
+          "html": "&#128276;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/bell"
+        },
+        {
+          "symbol": "🕯️",
+          "name": "Candle",
+          "unicode": "U+1F56F U+FE0F",
+          "html": "&#128367;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/technology/candle"
+        },
+        {
+          "symbol": "⭐",
+          "name": "Star",
+          "unicode": "U+2B50",
+          "html": "&#11088;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/star"
+        },
+        {
+          "symbol": "🌟",
+          "name": "Glowing Star",
+          "unicode": "U+1F31F",
+          "html": "&#127775;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/glowing-star"
+        },
+        {
+          "symbol": "✨",
+          "name": "Sparkles",
+          "unicode": "U+2728",
+          "html": "&#10024;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/events-arts/sparkles"
+        },
+        {
+          "symbol": "🍪",
+          "name": "Cookie",
+          "unicode": "U+1F36A",
+          "html": "&#127850;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sweets-desserts/cookie"
+        },
+        {
+          "symbol": "🥛",
+          "name": "Glass Of Milk",
+          "unicode": "U+1F95B",
+          "html": "&#129371;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/glass-of-milk"
+        },
+        {
+          "symbol": "🎶",
+          "name": "Musical Notes",
+          "unicode": "U+1F3B6",
+          "html": "&#127926;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/musical-notes"
+        },
+        {
+          "symbol": "🎉",
+          "name": "Party Popper",
+          "unicode": "U+1F389",
+          "html": "&#127881;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/events-arts/party-popper"
+        },
+        {
+          "symbol": "🧦",
+          "name": "Socks",
+          "unicode": "U+1F9E6",
+          "html": "&#129510;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/clothing-accessories/socks"
+        },
+        {
+          "symbol": "🧤",
+          "name": "Gloves",
+          "unicode": "U+1F9E4",
+          "html": "&#129508;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/clothing-accessories/gloves"
+        },
+        {
+          "symbol": "🧣",
+          "name": "Scarf",
+          "unicode": "U+1F9E3",
+          "html": "&#129507;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/clothing-accessories/scarf"
+        },
+        {
+          "symbol": "🏔️",
+          "name": "Snow-Capped Mountain",
+          "unicode": "U+1F3D4 U+FE0F",
+          "html": "&#127956;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/snow-capped-mountain"
+        },
+        {
+          "symbol": "🌲",
+          "name": "Evergreen Tree",
+          "unicode": "U+1F332",
+          "html": "&#127794;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/evergreen-tree"
+        },
+        {
+          "symbol": "🪄",
+          "name": "Magic Wand",
+          "unicode": "U+1FA84",
+          "html": "&#129668;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/magic-wand"
+        }
+      ]
+    },
+    {
+      "slug": "math-science",
+      "title": "Math Symbols",
+      "url": "https://free-symbols.com/collections/math-science",
+      "symbols": [
+        {
+          "symbol": "π",
+          "name": "Greek Small Letter Pi",
+          "unicode": "U+03C0",
+          "html": "&pi;",
+          "alt_code": "227",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-pi"
+        },
+        {
+          "symbol": "√",
+          "name": "Square Root",
+          "unicode": "U+221A",
+          "html": "&#8730;",
+          "alt_code": "251",
+          "url": "https://free-symbols.com/symbols/math/square-root"
+        },
+        {
+          "symbol": "∞",
+          "name": "Infinity",
+          "unicode": "U+221E",
+          "html": "&#8734;",
+          "alt_code": "236",
+          "url": "https://free-symbols.com/symbols/math/infinity-symbol"
+        },
+        {
+          "symbol": "±",
+          "name": "Plus-minus Sign",
+          "unicode": "U+00B1",
+          "html": "&#177;",
+          "alt_code": "0177",
+          "url": "https://free-symbols.com/symbols/punctuation/plus-minus-sign"
+        },
+        {
+          "symbol": "÷",
+          "name": "Division Sign",
+          "unicode": "U+00F7",
+          "html": "&#247;",
+          "alt_code": "0247",
+          "url": "https://free-symbols.com/symbols/math/division-sign"
+        },
+        {
+          "symbol": "×",
+          "name": "Multiplication Sign",
+          "unicode": "U+00D7",
+          "html": "&#215;",
+          "alt_code": "0215",
+          "url": "https://free-symbols.com/symbols/math/multiplication-sign"
+        },
+        {
+          "symbol": "≠",
+          "name": "Not Equal To",
+          "unicode": "U+2260",
+          "html": "&#8800;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/not-equal-to"
+        },
+        {
+          "symbol": "≈",
+          "name": "Almost Equal To",
+          "unicode": "U+2248",
+          "html": "&#8776;",
+          "alt_code": "247",
+          "url": "https://free-symbols.com/symbols/math/almost-equal-to"
+        },
+        {
+          "symbol": "≤",
+          "name": "Less-than Or Equal To",
+          "unicode": "U+2264",
+          "html": "&#8804;",
+          "alt_code": "243",
+          "url": "https://free-symbols.com/symbols/math/less-than-or-equal-to"
+        },
+        {
+          "symbol": "≥",
+          "name": "Greater-than Or Equal To",
+          "unicode": "U+2265",
+          "html": "&#8805;",
+          "alt_code": "242",
+          "url": "https://free-symbols.com/symbols/math/greater-than-or-equal-to"
+        },
+        {
+          "symbol": "∑",
+          "name": "N-ary Summation",
+          "unicode": "U+2211",
+          "html": "&#8721;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/n-ary-summation"
+        },
+        {
+          "symbol": "Δ",
+          "name": "Greek Capital Letter Delta",
+          "unicode": "U+0394",
+          "html": "&Delta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-delta"
+        },
+        {
+          "symbol": "∫",
+          "name": "Integral",
+          "unicode": "U+222B",
+          "html": "&#8747;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/integral"
+        },
+        {
+          "symbol": "∂",
+          "name": "Partial Differential",
+          "unicode": "U+2202",
+          "html": "&#8706;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/partial-differential"
+        },
+        {
+          "symbol": "θ",
+          "name": "Greek Small Letter Theta",
+          "unicode": "U+03B8",
+          "html": "&theta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-theta"
+        },
+        {
+          "symbol": "α",
+          "name": "Greek Small Letter Alpha",
+          "unicode": "U+03B1",
+          "html": "&alpha;",
+          "alt_code": "224",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-alpha"
+        },
+        {
+          "symbol": "β",
+          "name": "Greek Small Letter Beta",
+          "unicode": "U+03B2",
+          "html": "&beta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-beta"
+        },
+        {
+          "symbol": "μ",
+          "name": "Greek Small Letter Mu",
+          "unicode": "U+03BC",
+          "html": "&mu;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-mu"
+        },
+        {
+          "symbol": "σ",
+          "name": "Greek Small Letter Sigma",
+          "unicode": "U+03C3",
+          "html": "&sigma;",
+          "alt_code": "229",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-sigma"
+        },
+        {
+          "symbol": "Ω",
+          "name": "Greek Capital Letter Omega",
+          "unicode": "U+03A9",
+          "html": "&Omega;",
+          "alt_code": "234",
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-omega"
+        },
+        {
+          "symbol": "∏",
+          "name": "N-ary Product",
+          "unicode": "U+220F",
+          "html": "&#8719;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/n-ary-product"
+        },
+        {
+          "symbol": "∆",
+          "name": "Increment",
+          "unicode": "U+2206",
+          "html": "&#8710;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/increment"
+        },
+        {
+          "symbol": "⊕",
+          "name": "Circled Plus",
+          "unicode": "U+2295",
+          "html": "&#8853;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/circled-plus"
+        },
+        {
+          "symbol": "⊗",
+          "name": "Circled Times",
+          "unicode": "U+2297",
+          "html": "&#8855;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/circled-times"
+        },
+        {
+          "symbol": "∈",
+          "name": "Element Of",
+          "unicode": "U+2208",
+          "html": "&#8712;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/element-of"
+        },
+        {
+          "symbol": "∉",
+          "name": "Not An Element Of",
+          "unicode": "U+2209",
+          "html": "&#8713;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/not-an-element-of"
+        },
+        {
+          "symbol": "⊂",
+          "name": "Subset Of",
+          "unicode": "U+2282",
+          "html": "&#8834;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/subset-of"
+        },
+        {
+          "symbol": "⊆",
+          "name": "Subset Of Or Equal To",
+          "unicode": "U+2286",
+          "html": "&#8838;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/subset-of-or-equal-to"
+        },
+        {
+          "symbol": "∀",
+          "name": "For All",
+          "unicode": "U+2200",
+          "html": "&#8704;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/for-all"
+        },
+        {
+          "symbol": "∃",
+          "name": "There Exists",
+          "unicode": "U+2203",
+          "html": "&#8707;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/there-exists"
+        },
+        {
+          "symbol": "¬",
+          "name": "Not Sign",
+          "unicode": "U+00AC",
+          "html": "&#172;",
+          "alt_code": "0172",
+          "url": "https://free-symbols.com/symbols/punctuation/not-sign"
+        },
+        {
+          "symbol": "∧",
+          "name": "Logical And",
+          "unicode": "U+2227",
+          "html": "&#8743;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/logical-and"
+        },
+        {
+          "symbol": "∨",
+          "name": "Logical Or",
+          "unicode": "U+2228",
+          "html": "&#8744;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/logical-or"
+        }
+      ]
+    },
+    {
+      "slug": "arrows",
+      "title": "Arrow Symbols",
+      "url": "https://free-symbols.com/collections/arrows",
+      "symbols": [
+        {
+          "symbol": "→",
+          "name": "Rightwards Arrow",
+          "unicode": "U+2192",
+          "html": "&#8594;",
+          "alt_code": "26",
+          "url": "https://free-symbols.com/symbols/arrows/rightwards-arrow"
+        },
+        {
+          "symbol": "←",
+          "name": "Leftwards Arrow",
+          "unicode": "U+2190",
+          "html": "&#8592;",
+          "alt_code": "27",
+          "url": "https://free-symbols.com/symbols/arrows/leftwards-arrow"
+        },
+        {
+          "symbol": "↑",
+          "name": "Upwards Arrow",
+          "unicode": "U+2191",
+          "html": "&#8593;",
+          "alt_code": "24",
+          "url": "https://free-symbols.com/symbols/arrows/upwards-arrow"
+        },
+        {
+          "symbol": "↓",
+          "name": "Downwards Arrow",
+          "unicode": "U+2193",
+          "html": "&#8595;",
+          "alt_code": "25",
+          "url": "https://free-symbols.com/symbols/arrows/downwards-arrow"
+        },
+        {
+          "symbol": "↔",
+          "name": "Left Right Arrow",
+          "unicode": "U+2194",
+          "html": "&#8596;",
+          "alt_code": "29",
+          "url": "https://free-symbols.com/symbols/arrows/left-right-arrow"
+        },
+        {
+          "symbol": "↕",
+          "name": "Up Down Arrow",
+          "unicode": "U+2195",
+          "html": "&#8597;",
+          "alt_code": "18",
+          "url": "https://free-symbols.com/symbols/arrows/up-down-arrow"
+        },
+        {
+          "symbol": "⇒",
+          "name": "Rightwards Double Arrow",
+          "unicode": "U+21D2",
+          "html": "&#8658;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/rightwards-double-arrow"
+        },
+        {
+          "symbol": "⇐",
+          "name": "Leftwards Double Arrow",
+          "unicode": "U+21D0",
+          "html": "&#8656;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/leftwards-double-arrow"
+        },
+        {
+          "symbol": "⇑",
+          "name": "Upwards Double Arrow",
+          "unicode": "U+21D1",
+          "html": "&#8657;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/upwards-double-arrow"
+        },
+        {
+          "symbol": "⇓",
+          "name": "Downwards Double Arrow",
+          "unicode": "U+21D3",
+          "html": "&#8659;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/downwards-double-arrow"
+        },
+        {
+          "symbol": "⇔",
+          "name": "Left Right Double Arrow",
+          "unicode": "U+21D4",
+          "html": "&#8660;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/left-right-double-arrow"
+        },
+        {
+          "symbol": "⇕",
+          "name": "Up Down Double Arrow",
+          "unicode": "U+21D5",
+          "html": "&#8661;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/up-down-double-arrow"
+        },
+        {
+          "symbol": "➡️",
+          "name": "Right Arrow",
+          "unicode": "U+27A1 U+FE0F",
+          "html": "&#10145;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-arrows/right-arrow"
+        },
+        {
+          "symbol": "⬅️",
+          "name": "Left Arrow",
+          "unicode": "U+2B05 U+FE0F",
+          "html": "&#11013;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-arrows/left-arrow"
+        },
+        {
+          "symbol": "⬆️",
+          "name": "Up Arrow",
+          "unicode": "U+2B06 U+FE0F",
+          "html": "&#11014;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-arrows/up-arrow"
+        },
+        {
+          "symbol": "⬇️",
+          "name": "Down Arrow",
+          "unicode": "U+2B07 U+FE0F",
+          "html": "&#11015;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-arrows/down-arrow"
+        },
+        {
+          "symbol": "↗",
+          "name": "North East Arrow",
+          "unicode": "U+2197",
+          "html": "&#8599;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/north-east-arrow"
+        },
+        {
+          "symbol": "↘",
+          "name": "South East Arrow",
+          "unicode": "U+2198",
+          "html": "&#8600;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/south-east-arrow"
+        },
+        {
+          "symbol": "↙",
+          "name": "South West Arrow",
+          "unicode": "U+2199",
+          "html": "&#8601;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/south-west-arrow"
+        },
+        {
+          "symbol": "↖",
+          "name": "North West Arrow",
+          "unicode": "U+2196",
+          "html": "&#8598;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/north-west-arrow"
+        },
+        {
+          "symbol": "↪",
+          "name": "Rightwards Arrow With Hook",
+          "unicode": "U+21AA",
+          "html": "&#8618;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/rightwards-arrow-with-hook"
+        },
+        {
+          "symbol": "↩",
+          "name": "Leftwards Arrow With Hook",
+          "unicode": "U+21A9",
+          "html": "&#8617;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/leftwards-arrow-with-hook"
+        },
+        {
+          "symbol": "⤴",
+          "name": "Arrow Pointing Rightwards Then Curving Upwards",
+          "unicode": "U+2934",
+          "html": "&#10548;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/arrow-pointing-rightwards-then-curving-upwards"
+        },
+        {
+          "symbol": "⤵",
+          "name": "Arrow Pointing Rightwards Then Curving Downwards",
+          "unicode": "U+2935",
+          "html": "&#10549;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/arrows/arrow-pointing-rightwards-then-curving-downwards"
+        },
+        {
+          "symbol": "🔄",
+          "name": "Counterclockwise Arrows Button",
+          "unicode": "U+1F504",
+          "html": "&#128260;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-arrows/counterclockwise-arrows-button"
+        },
+        {
+          "symbol": "🔃",
+          "name": "Clockwise Vertical Arrows",
+          "unicode": "U+1F503",
+          "html": "&#128259;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-arrows/clockwise-vertical-arrows"
+        },
+        {
+          "symbol": "▶",
+          "name": "Black Right-pointing Triangle",
+          "unicode": "U+25B6",
+          "html": "&#9654;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/black-right-pointing-triangle"
+        },
+        {
+          "symbol": "◀",
+          "name": "Black Left-pointing Triangle",
+          "unicode": "U+25C0",
+          "html": "&#9664;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/black-left-pointing-triangle"
+        },
+        {
+          "symbol": "▲",
+          "name": "Black Up-pointing Triangle",
+          "unicode": "U+25B2",
+          "html": "&#9650;",
+          "alt_code": "30",
+          "url": "https://free-symbols.com/symbols/map-symbols/black-up-pointing-triangle"
+        },
+        {
+          "symbol": "▼",
+          "name": "Black Down-pointing Triangle",
+          "unicode": "U+25BC",
+          "html": "&#9660;",
+          "alt_code": "31",
+          "url": "https://free-symbols.com/symbols/map-symbols/black-down-pointing-triangle"
+        }
+      ]
+    },
+    {
+      "slug": "currency",
+      "title": "Currency",
+      "url": "https://free-symbols.com/collections/currency",
+      "symbols": [
+        {
+          "symbol": "$",
+          "name": "Dollar Sign",
+          "unicode": "U+0024",
+          "html": "&#36;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/dollar-sign"
+        },
+        {
+          "symbol": "€",
+          "name": "Euro Sign",
+          "unicode": "U+20AC",
+          "html": "&#8364;",
+          "alt_code": "0128",
+          "url": "https://free-symbols.com/symbols/currency/euro-sign"
+        },
+        {
+          "symbol": "£",
+          "name": "Pound Sign",
+          "unicode": "U+00A3",
+          "html": "&#163;",
+          "alt_code": "0163",
+          "url": "https://free-symbols.com/symbols/currency/pound-sign"
+        },
+        {
+          "symbol": "¥",
+          "name": "Yen Sign",
+          "unicode": "U+00A5",
+          "html": "&#165;",
+          "alt_code": "0165",
+          "url": "https://free-symbols.com/symbols/currency/yen-sign"
+        },
+        {
+          "symbol": "¢",
+          "name": "Cent Sign",
+          "unicode": "U+00A2",
+          "html": "&#162;",
+          "alt_code": "0162",
+          "url": "https://free-symbols.com/symbols/currency/cent-sign"
+        },
+        {
+          "symbol": "₹",
+          "name": "Indian Rupee Sign",
+          "unicode": "U+20B9",
+          "html": "&#8377;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/indian-rupee-sign"
+        },
+        {
+          "symbol": "₩",
+          "name": "Won Sign",
+          "unicode": "U+20A9",
+          "html": "&#8361;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/won-sign"
+        },
+        {
+          "symbol": "₿",
+          "name": "Bitcoin Sign",
+          "unicode": "U+20BF",
+          "html": "&#8383;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/bitcoin-sign"
+        },
+        {
+          "symbol": "₽",
+          "name": "Ruble Sign",
+          "unicode": "U+20BD",
+          "html": "&#8381;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/ruble-sign"
+        },
+        {
+          "symbol": "₺",
+          "name": "Turkish Lira Sign",
+          "unicode": "U+20BA",
+          "html": "&#8378;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/turkish-lira-sign"
+        },
+        {
+          "symbol": "₪",
+          "name": "New Sheqel Sign",
+          "unicode": "U+20AA",
+          "html": "&#8362;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/new-sheqel-sign"
+        },
+        {
+          "symbol": "₫",
+          "name": "Dong Sign",
+          "unicode": "U+20AB",
+          "html": "&#8363;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/dong-sign"
+        },
+        {
+          "symbol": "₴",
+          "name": "Hryvnia Sign",
+          "unicode": "U+20B4",
+          "html": "&#8372;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/hryvnia-sign"
+        },
+        {
+          "symbol": "₦",
+          "name": "Naira Sign",
+          "unicode": "U+20A6",
+          "html": "&#8358;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/naira-sign"
+        },
+        {
+          "symbol": "₱",
+          "name": "Peso Sign",
+          "unicode": "U+20B1",
+          "html": "&#8369;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/peso-sign"
+        },
+        {
+          "symbol": "₡",
+          "name": "Colon Sign",
+          "unicode": "U+20A1",
+          "html": "&#8353;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/colon-sign"
+        },
+        {
+          "symbol": "₢",
+          "name": "Cruzeiro Sign",
+          "unicode": "U+20A2",
+          "html": "&#8354;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/cruzeiro-sign"
+        },
+        {
+          "symbol": "₣",
+          "name": "French Franc Sign",
+          "unicode": "U+20A3",
+          "html": "&#8355;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/french-franc-sign"
+        },
+        {
+          "symbol": "₤",
+          "name": "Lira Sign",
+          "unicode": "U+20A4",
+          "html": "&#8356;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/lira-sign"
+        },
+        {
+          "symbol": "₥",
+          "name": "Mill Sign",
+          "unicode": "U+20A5",
+          "html": "&#8357;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/mill-sign"
+        },
+        {
+          "symbol": "₧",
+          "name": "Peseta Sign",
+          "unicode": "U+20A7",
+          "html": "&#8359;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/peseta-sign"
+        },
+        {
+          "symbol": "₨",
+          "name": "Rupee Sign",
+          "unicode": "U+20A8",
+          "html": "&#8360;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/rupee-sign"
+        },
+        {
+          "symbol": "₭",
+          "name": "Kip Sign",
+          "unicode": "U+20AD",
+          "html": "&#8365;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/kip-sign"
+        },
+        {
+          "symbol": "₮",
+          "name": "Tugrik Sign",
+          "unicode": "U+20AE",
+          "html": "&#8366;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/tugrik-sign"
+        },
+        {
+          "symbol": "₯",
+          "name": "Drachma Sign",
+          "unicode": "U+20AF",
+          "html": "&#8367;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/drachma-sign"
+        },
+        {
+          "symbol": "₰",
+          "name": "German Penny Sign",
+          "unicode": "U+20B0",
+          "html": "&#8368;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/german-penny-sign"
+        },
+        {
+          "symbol": "₲",
+          "name": "Guarani Sign",
+          "unicode": "U+20B2",
+          "html": "&#8370;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/guarani-sign"
+        },
+        {
+          "symbol": "₳",
+          "name": "Austral Sign",
+          "unicode": "U+20B3",
+          "html": "&#8371;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/austral-sign"
+        },
+        {
+          "symbol": "₵",
+          "name": "Cedi Sign",
+          "unicode": "U+20B5",
+          "html": "&#8373;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/cedi-sign"
+        },
+        {
+          "symbol": "₶",
+          "name": "Livre Tournois Sign",
+          "unicode": "U+20B6",
+          "html": "&#8374;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/livre-tournois-sign"
+        },
+        {
+          "symbol": "₷",
+          "name": "Spesmilo Sign",
+          "unicode": "U+20B7",
+          "html": "&#8375;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/spesmilo-sign"
+        },
+        {
+          "symbol": "₸",
+          "name": "Tenge Sign",
+          "unicode": "U+20B8",
+          "html": "&#8376;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/currency/tenge-sign"
+        },
+        {
+          "symbol": "＄",
+          "name": "Fullwidth Dollar Sign",
+          "unicode": "U+FF04",
+          "html": "&#65284;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/fullwidth/fullwidth-dollar-sign"
+        },
+        {
+          "symbol": "￠",
+          "name": "Fullwidth Cent Sign",
+          "unicode": "U+FFE0",
+          "html": "&#65504;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/fullwidth/fullwidth-cent-sign"
+        },
+        {
+          "symbol": "￡",
+          "name": "Fullwidth Pound Sign",
+          "unicode": "U+FFE1",
+          "html": "&#65505;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/fullwidth/fullwidth-pound-sign"
+        },
+        {
+          "symbol": "￥",
+          "name": "Fullwidth Yen Sign",
+          "unicode": "U+FFE5",
+          "html": "&#65509;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/fullwidth/fullwidth-yen-sign"
+        }
+      ]
+    },
+    {
+      "slug": "zodiac-astrology",
+      "title": "Zodiac & Astrology",
+      "url": "https://free-symbols.com/collections/zodiac-astrology",
+      "symbols": [
+        {
+          "symbol": "♈",
+          "name": "Aries",
+          "unicode": "U+2648",
+          "html": "&#9800;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/aries"
+        },
+        {
+          "symbol": "♉",
+          "name": "Taurus",
+          "unicode": "U+2649",
+          "html": "&#9801;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/taurus"
+        },
+        {
+          "symbol": "♊",
+          "name": "Gemini",
+          "unicode": "U+264A",
+          "html": "&#9802;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/gemini"
+        },
+        {
+          "symbol": "♋",
+          "name": "Cancer",
+          "unicode": "U+264B",
+          "html": "&#9803;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/cancer"
+        },
+        {
+          "symbol": "♌",
+          "name": "Leo",
+          "unicode": "U+264C",
+          "html": "&#9804;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/leo"
+        },
+        {
+          "symbol": "♍",
+          "name": "Virgo",
+          "unicode": "U+264D",
+          "html": "&#9805;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/virgo"
+        },
+        {
+          "symbol": "♎",
+          "name": "Libra",
+          "unicode": "U+264E",
+          "html": "&#9806;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/libra"
+        },
+        {
+          "symbol": "♏",
+          "name": "Scorpio",
+          "unicode": "U+264F",
+          "html": "&#9807;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/scorpio"
+        },
+        {
+          "symbol": "♐",
+          "name": "Sagittarius",
+          "unicode": "U+2650",
+          "html": "&#9808;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/sagittarius"
+        },
+        {
+          "symbol": "♑",
+          "name": "Capricorn",
+          "unicode": "U+2651",
+          "html": "&#9809;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/capricorn"
+        },
+        {
+          "symbol": "♒",
+          "name": "Aquarius",
+          "unicode": "U+2652",
+          "html": "&#9810;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/aquarius"
+        },
+        {
+          "symbol": "♓",
+          "name": "Pisces",
+          "unicode": "U+2653",
+          "html": "&#9811;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/pisces"
+        },
+        {
+          "symbol": "⛎",
+          "name": "Ophiuchus",
+          "unicode": "U+26CE",
+          "html": "&#9934;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/zodiac-religion/ophiuchus"
+        },
+        {
+          "symbol": "☉",
+          "name": "Sun",
+          "unicode": "U+2609",
+          "html": "&#9737;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/sun-2609"
+        },
+        {
+          "symbol": "☽",
+          "name": "First Quarter Moon",
+          "unicode": "U+263D",
+          "html": "&#9789;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/first-quarter-moon"
+        },
+        {
+          "symbol": "☿",
+          "name": "Mercury",
+          "unicode": "U+263F",
+          "html": "&#9791;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/mercury"
+        },
+        {
+          "symbol": "♀",
+          "name": "Female Sign",
+          "unicode": "U+2640",
+          "html": "&#9792;",
+          "alt_code": "12",
+          "url": "https://free-symbols.com/esoteric/astrology/female-sign"
+        },
+        {
+          "symbol": "♂",
+          "name": "Male Sign",
+          "unicode": "U+2642",
+          "html": "&#9794;",
+          "alt_code": "11",
+          "url": "https://free-symbols.com/esoteric/astrology/male-sign"
+        },
+        {
+          "symbol": "♃",
+          "name": "Jupiter",
+          "unicode": "U+2643",
+          "html": "&#9795;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/jupiter"
+        },
+        {
+          "symbol": "♄",
+          "name": "Saturn",
+          "unicode": "U+2644",
+          "html": "&#9796;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/saturn"
+        },
+        {
+          "symbol": "♅",
+          "name": "Uranus",
+          "unicode": "U+2645",
+          "html": "&#9797;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/uranus"
+        },
+        {
+          "symbol": "♆",
+          "name": "Neptune",
+          "unicode": "U+2646",
+          "html": "&#9798;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/neptune"
+        },
+        {
+          "symbol": "♇",
+          "name": "Pluto",
+          "unicode": "U+2647",
+          "html": "&#9799;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/pluto"
+        },
+        {
+          "symbol": "⚷",
+          "name": "Chiron",
+          "unicode": "U+26B7",
+          "html": "&#9911;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/chiron"
+        },
+        {
+          "symbol": "⚸",
+          "name": "Black Moon Lilith",
+          "unicode": "U+26B8",
+          "html": "&#9912;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/black-moon-lilith"
+        },
+        {
+          "symbol": "⚹",
+          "name": "Sextile",
+          "unicode": "U+26B9",
+          "html": "&#9913;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/sextile"
+        },
+        {
+          "symbol": "⚺",
+          "name": "Semisextile",
+          "unicode": "U+26BA",
+          "html": "&#9914;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/semisextile"
+        },
+        {
+          "symbol": "⚻",
+          "name": "Quincunx",
+          "unicode": "U+26BB",
+          "html": "&#9915;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/quincunx"
+        },
+        {
+          "symbol": "⚼",
+          "name": "Sesquiquadrate",
+          "unicode": "U+26BC",
+          "html": "&#9916;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/sesquiquadrate"
+        },
+        {
+          "symbol": "☊",
+          "name": "Ascending Node",
+          "unicode": "U+260A",
+          "html": "&#9738;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/ascending-node"
+        },
+        {
+          "symbol": "☋",
+          "name": "Descending Node",
+          "unicode": "U+260B",
+          "html": "&#9739;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/descending-node"
+        },
+        {
+          "symbol": "☌",
+          "name": "Conjunction",
+          "unicode": "U+260C",
+          "html": "&#9740;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/conjunction"
+        },
+        {
+          "symbol": "☍",
+          "name": "Opposition",
+          "unicode": "U+260D",
+          "html": "&#9741;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/esoteric/astrology/opposition"
+        }
+      ]
+    },
+    {
+      "slug": "music",
+      "title": "Music Symbols",
+      "url": "https://free-symbols.com/collections/music",
+      "symbols": [
+        {
+          "symbol": "🎵",
+          "name": "Musical Note",
+          "unicode": "U+1F3B5",
+          "html": "&#127925;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/musical-note"
+        },
+        {
+          "symbol": "🎶",
+          "name": "Musical Notes",
+          "unicode": "U+1F3B6",
+          "html": "&#127926;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/musical-notes"
+        },
+        {
+          "symbol": "🎼",
+          "name": "Musical Score",
+          "unicode": "U+1F3BC",
+          "html": "&#127932;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/musical-score"
+        },
+        {
+          "symbol": "🎤",
+          "name": "Microphone",
+          "unicode": "U+1F3A4",
+          "html": "&#127908;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/microphone"
+        },
+        {
+          "symbol": "🎧",
+          "name": "Headphone",
+          "unicode": "U+1F3A7",
+          "html": "&#127911;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/headphone"
+        },
+        {
+          "symbol": "🎸",
+          "name": "Guitar",
+          "unicode": "U+1F3B8",
+          "html": "&#127928;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/guitar"
+        },
+        {
+          "symbol": "🎹",
+          "name": "Musical Keyboard",
+          "unicode": "U+1F3B9",
+          "html": "&#127929;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/musical-keyboard"
+        },
+        {
+          "symbol": "🎺",
+          "name": "Trumpet",
+          "unicode": "U+1F3BA",
+          "html": "&#127930;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/trumpet"
+        },
+        {
+          "symbol": "🎻",
+          "name": "Violin",
+          "unicode": "U+1F3BB",
+          "html": "&#127931;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/violin"
+        },
+        {
+          "symbol": "🥁",
+          "name": "Drum",
+          "unicode": "U+1F941",
+          "html": "&#129345;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/drum"
+        },
+        {
+          "symbol": "🎷",
+          "name": "Saxophone",
+          "unicode": "U+1F3B7",
+          "html": "&#127927;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/saxophone"
+        },
+        {
+          "symbol": "🪗",
+          "name": "Accordion",
+          "unicode": "U+1FA97",
+          "html": "&#129687;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/accordion"
+        },
+        {
+          "symbol": "🪘",
+          "name": "Long Drum",
+          "unicode": "U+1FA98",
+          "html": "&#129688;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/long-drum"
+        },
+        {
+          "symbol": "🪕",
+          "name": "Banjo",
+          "unicode": "U+1FA95",
+          "html": "&#129685;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/banjo"
+        },
+        {
+          "symbol": "🎙️",
+          "name": "Studio Microphone",
+          "unicode": "U+1F399 U+FE0F",
+          "html": "&#127897;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/music-sound/studio-microphone"
+        },
+        {
+          "symbol": "♩",
+          "name": "Quarter Note",
+          "unicode": "U+2669",
+          "html": "&#9833;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/quarter-note"
+        },
+        {
+          "symbol": "♪",
+          "name": "Eighth Note",
+          "unicode": "U+266A",
+          "html": "&#9834;",
+          "alt_code": "13",
+          "url": "https://free-symbols.com/symbols/music/eighth-note"
+        },
+        {
+          "symbol": "♫",
+          "name": "Beamed Eighth Notes",
+          "unicode": "U+266B",
+          "html": "&#9835;",
+          "alt_code": "14",
+          "url": "https://free-symbols.com/symbols/music/beamed-eighth-notes"
+        },
+        {
+          "symbol": "♬",
+          "name": "Beamed Sixteenth Notes",
+          "unicode": "U+266C",
+          "html": "&#9836;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/beamed-sixteenth-notes"
+        },
+        {
+          "symbol": "♭",
+          "name": "Music Flat Sign",
+          "unicode": "U+266D",
+          "html": "&#9837;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/music-flat-sign"
+        },
+        {
+          "symbol": "♮",
+          "name": "Music Natural Sign",
+          "unicode": "U+266E",
+          "html": "&#9838;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/music-natural-sign"
+        },
+        {
+          "symbol": "♯",
+          "name": "Music Sharp Sign",
+          "unicode": "U+266F",
+          "html": "&#9839;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/music-sharp-sign"
+        },
+        {
+          "symbol": "𝄞",
+          "name": "Musical Symbol G Clef",
+          "unicode": "U+1D11E",
+          "html": "&#119070;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/musical-symbol-g-clef"
+        },
+        {
+          "symbol": "𝄢",
+          "name": "Musical Symbol F Clef",
+          "unicode": "U+1D122",
+          "html": "&#119074;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/musical-symbol-f-clef"
+        },
+        {
+          "symbol": "𝄠",
+          "name": "Musical Symbol G Clef Ottava Bassa",
+          "unicode": "U+1D120",
+          "html": "&#119072;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/musical-symbol-g-clef-ottava-bassa"
+        },
+        {
+          "symbol": "𝅝",
+          "name": "Musical Symbol Whole Note",
+          "unicode": "U+1D15D",
+          "html": "&#119133;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/music/musical-symbol-whole-note"
+        }
+      ]
+    },
+    {
+      "slug": "nature-animals",
+      "title": "Nature & Animals",
+      "url": "https://free-symbols.com/collections/nature-animals",
+      "symbols": [
+        {
+          "symbol": "🌿",
+          "name": "Herb",
+          "unicode": "U+1F33F",
+          "html": "&#127807;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/herb"
+        },
+        {
+          "symbol": "🍃",
+          "name": "Leaf Fluttering In Wind",
+          "unicode": "U+1F343",
+          "html": "&#127811;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/leaf-fluttering-in-wind"
+        },
+        {
+          "symbol": "🍀",
+          "name": "Four Leaf Clover",
+          "unicode": "U+1F340",
+          "html": "&#127808;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/four-leaf-clover"
+        },
+        {
+          "symbol": "🌺",
+          "name": "Hibiscus",
+          "unicode": "U+1F33A",
+          "html": "&#127802;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/hibiscus"
+        },
+        {
+          "symbol": "🌸",
+          "name": "Cherry Blossom",
+          "unicode": "U+1F338",
+          "html": "&#127800;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/cherry-blossom"
+        },
+        {
+          "symbol": "🌼",
+          "name": "Blossom",
+          "unicode": "U+1F33C",
+          "html": "&#127804;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/blossom"
+        },
+        {
+          "symbol": "🌻",
+          "name": "Sunflower",
+          "unicode": "U+1F33B",
+          "html": "&#127803;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/sunflower"
+        },
+        {
+          "symbol": "🌹",
+          "name": "Rose",
+          "unicode": "U+1F339",
+          "html": "&#127801;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/rose"
+        },
+        {
+          "symbol": "🌷",
+          "name": "Tulip",
+          "unicode": "U+1F337",
+          "html": "&#127799;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/tulip"
+        },
+        {
+          "symbol": "🌱",
+          "name": "Seedling",
+          "unicode": "U+1F331",
+          "html": "&#127793;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/seedling"
+        },
+        {
+          "symbol": "🌲",
+          "name": "Evergreen Tree",
+          "unicode": "U+1F332",
+          "html": "&#127794;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/evergreen-tree"
+        },
+        {
+          "symbol": "🌳",
+          "name": "Deciduous Tree",
+          "unicode": "U+1F333",
+          "html": "&#127795;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/deciduous-tree"
+        },
+        {
+          "symbol": "🌴",
+          "name": "Palm Tree",
+          "unicode": "U+1F334",
+          "html": "&#127796;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/palm-tree"
+        },
+        {
+          "symbol": "🌵",
+          "name": "Cactus",
+          "unicode": "U+1F335",
+          "html": "&#127797;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/cactus"
+        },
+        {
+          "symbol": "🍁",
+          "name": "Maple Leaf",
+          "unicode": "U+1F341",
+          "html": "&#127809;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/maple-leaf"
+        },
+        {
+          "symbol": "🍂",
+          "name": "Fallen Leaf",
+          "unicode": "U+1F342",
+          "html": "&#127810;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/fallen-leaf"
+        },
+        {
+          "symbol": "🌾",
+          "name": "Sheaf Of Rice",
+          "unicode": "U+1F33E",
+          "html": "&#127806;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/sheaf-of-rice"
+        },
+        {
+          "symbol": "🐾",
+          "name": "Paw Prints",
+          "unicode": "U+1F43E",
+          "html": "&#128062;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/mammals/paw-prints"
+        },
+        {
+          "symbol": "🦋",
+          "name": "Butterfly",
+          "unicode": "U+1F98B",
+          "html": "&#129419;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/marine-bugs-reptiles/butterfly"
+        },
+        {
+          "symbol": "🐝",
+          "name": "Honeybee",
+          "unicode": "U+1F41D",
+          "html": "&#128029;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/marine-bugs-reptiles/honeybee"
+        },
+        {
+          "symbol": "🌙",
+          "name": "Crescent Moon",
+          "unicode": "U+1F319",
+          "html": "&#127769;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/crescent-moon"
+        },
+        {
+          "symbol": "☀️",
+          "name": "Sun",
+          "unicode": "U+2600 U+FE0F",
+          "html": "&#9728;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun"
+        },
+        {
+          "symbol": "🌊",
+          "name": "Water Wave",
+          "unicode": "U+1F30A",
+          "html": "&#127754;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/water-wave"
+        },
+        {
+          "symbol": "🔥",
+          "name": "Fire",
+          "unicode": "U+1F525",
+          "html": "&#128293;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/fire"
+        },
+        {
+          "symbol": "❄️",
+          "name": "Snowflake",
+          "unicode": "U+2744 U+FE0F",
+          "html": "&#10052;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/snowflake"
+        },
+        {
+          "symbol": "⛅",
+          "name": "Sun Behind Cloud",
+          "unicode": "U+26C5",
+          "html": "&#9925;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-cloud"
+        },
+        {
+          "symbol": "🌈",
+          "name": "Rainbow",
+          "unicode": "U+1F308",
+          "html": "&#127752;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/rainbow"
+        },
+        {
+          "symbol": "🌍",
+          "name": "globe showing Europe-Africa",
+          "unicode": "U+1F30D",
+          "html": "&#127757;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/globe-showing-europe-africa"
+        }
+      ]
+    },
+    {
+      "slug": "chess-games",
+      "title": "Chess Symbols & Game Pieces",
+      "url": "https://free-symbols.com/collections/chess-games",
+      "symbols": [
+        {
+          "symbol": "♔",
+          "name": "White Chess King",
+          "unicode": "U+2654",
+          "html": "&#9812;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/white-chess-king"
+        },
+        {
+          "symbol": "♕",
+          "name": "White Chess Queen",
+          "unicode": "U+2655",
+          "html": "&#9813;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/white-chess-queen"
+        },
+        {
+          "symbol": "♖",
+          "name": "White Chess Rook",
+          "unicode": "U+2656",
+          "html": "&#9814;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/white-chess-rook"
+        },
+        {
+          "symbol": "♗",
+          "name": "White Chess Bishop",
+          "unicode": "U+2657",
+          "html": "&#9815;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/white-chess-bishop"
+        },
+        {
+          "symbol": "♘",
+          "name": "White Chess Knight",
+          "unicode": "U+2658",
+          "html": "&#9816;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/white-chess-knight"
+        },
+        {
+          "symbol": "♙",
+          "name": "White Chess Pawn",
+          "unicode": "U+2659",
+          "html": "&#9817;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/white-chess-pawn"
+        },
+        {
+          "symbol": "♚",
+          "name": "Black Chess King",
+          "unicode": "U+265A",
+          "html": "&#9818;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/black-chess-king"
+        },
+        {
+          "symbol": "♛",
+          "name": "Black Chess Queen",
+          "unicode": "U+265B",
+          "html": "&#9819;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/black-chess-queen"
+        },
+        {
+          "symbol": "♜",
+          "name": "Black Chess Rook",
+          "unicode": "U+265C",
+          "html": "&#9820;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/black-chess-rook"
+        },
+        {
+          "symbol": "♝",
+          "name": "Black Chess Bishop",
+          "unicode": "U+265D",
+          "html": "&#9821;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/black-chess-bishop"
+        },
+        {
+          "symbol": "♞",
+          "name": "Black Chess Knight",
+          "unicode": "U+265E",
+          "html": "&#9822;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/black-chess-knight"
+        },
+        {
+          "symbol": "♟",
+          "name": "Black Chess Pawn",
+          "unicode": "U+265F",
+          "html": "&#9823;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/chess/black-chess-pawn"
+        },
+        {
+          "symbol": "♠",
+          "name": "Black Spade Suit",
+          "unicode": "U+2660",
+          "html": "&#9824;",
+          "alt_code": "6",
+          "url": "https://free-symbols.com/symbols/misc-symbols/black-spade-suit"
+        },
+        {
+          "symbol": "♣",
+          "name": "Black Club Suit",
+          "unicode": "U+2663",
+          "html": "&#9827;",
+          "alt_code": "5",
+          "url": "https://free-symbols.com/symbols/misc-symbols/black-club-suit"
+        },
+        {
+          "symbol": "♥",
+          "name": "Black Heart Suit",
+          "unicode": "U+2665",
+          "html": "&#9829;",
+          "alt_code": "3",
+          "url": "https://free-symbols.com/symbols/misc-symbols/black-heart-suit"
+        },
+        {
+          "symbol": "♦",
+          "name": "Black Diamond Suit",
+          "unicode": "U+2666",
+          "html": "&#9830;",
+          "alt_code": "4",
+          "url": "https://free-symbols.com/symbols/misc-symbols/black-diamond-suit"
+        },
+        {
+          "symbol": "🎲",
+          "name": "Game Die",
+          "unicode": "U+1F3B2",
+          "html": "&#127922;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/game-die"
+        },
+        {
+          "symbol": "🎯",
+          "name": "Bullseye",
+          "unicode": "U+1F3AF",
+          "html": "&#127919;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/bullseye"
+        },
+        {
+          "symbol": "🎮",
+          "name": "Video Game",
+          "unicode": "U+1F3AE",
+          "html": "&#127918;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/video-game"
+        },
+        {
+          "symbol": "🕹️",
+          "name": "Joystick",
+          "unicode": "U+1F579 U+FE0F",
+          "html": "&#128377;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/joystick"
+        },
+        {
+          "symbol": "🃏",
+          "name": "Joker",
+          "unicode": "U+1F0CF",
+          "html": "&#127183;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/joker"
+        },
+        {
+          "symbol": "🀄",
+          "name": "Mahjong Red Dragon",
+          "unicode": "U+1F004",
+          "html": "&#126980;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/mahjong-red-dragon"
+        },
+        {
+          "symbol": "🎰",
+          "name": "Slot Machine",
+          "unicode": "U+1F3B0",
+          "html": "&#127920;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/slot-machine"
+        },
+        {
+          "symbol": "🎳",
+          "name": "Bowling",
+          "unicode": "U+1F3B3",
+          "html": "&#127923;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sports-awards/bowling"
+        },
+        {
+          "symbol": "🎱",
+          "name": "Pool 8 Ball",
+          "unicode": "U+1F3B1",
+          "html": "&#127921;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/games/pool-8-ball"
+        },
+        {
+          "symbol": "🏆",
+          "name": "Trophy",
+          "unicode": "U+1F3C6",
+          "html": "&#127942;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sports-awards/trophy"
+        },
+        {
+          "symbol": "🥇",
+          "name": "1st Place Medal",
+          "unicode": "U+1F947",
+          "html": "&#129351;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sports-awards/1st-place-medal"
+        },
+        {
+          "symbol": "🥈",
+          "name": "2nd Place Medal",
+          "unicode": "U+1F948",
+          "html": "&#129352;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sports-awards/2nd-place-medal"
+        },
+        {
+          "symbol": "🥉",
+          "name": "3rd Place Medal",
+          "unicode": "U+1F949",
+          "html": "&#129353;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sports-awards/3rd-place-medal"
+        }
+      ]
+    },
+    {
+      "slug": "weather",
+      "title": "Weather",
+      "url": "https://free-symbols.com/collections/weather",
+      "symbols": [
+        {
+          "symbol": "☀️",
+          "name": "Sun",
+          "unicode": "U+2600 U+FE0F",
+          "html": "&#9728;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun"
+        },
+        {
+          "symbol": "🌤️",
+          "name": "Sun Behind Small Cloud",
+          "unicode": "U+1F324 U+FE0F",
+          "html": "&#127780;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-small-cloud"
+        },
+        {
+          "symbol": "⛅",
+          "name": "Sun Behind Cloud",
+          "unicode": "U+26C5",
+          "html": "&#9925;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-cloud"
+        },
+        {
+          "symbol": "🌥️",
+          "name": "Sun Behind Large Cloud",
+          "unicode": "U+1F325 U+FE0F",
+          "html": "&#127781;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-large-cloud"
+        },
+        {
+          "symbol": "☁️",
+          "name": "Cloud",
+          "unicode": "U+2601 U+FE0F",
+          "html": "&#9729;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/cloud"
+        },
+        {
+          "symbol": "🌦️",
+          "name": "Sun Behind Rain Cloud",
+          "unicode": "U+1F326 U+FE0F",
+          "html": "&#127782;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun-behind-rain-cloud"
+        },
+        {
+          "symbol": "🌧️",
+          "name": "Cloud With Rain",
+          "unicode": "U+1F327 U+FE0F",
+          "html": "&#127783;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-rain"
+        },
+        {
+          "symbol": "⛈️",
+          "name": "Cloud With Lightning And Rain",
+          "unicode": "U+26C8 U+FE0F",
+          "html": "&#9928;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-lightning-and-rain"
+        },
+        {
+          "symbol": "🌩️",
+          "name": "Cloud With Lightning",
+          "unicode": "U+1F329 U+FE0F",
+          "html": "&#127785;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-lightning"
+        },
+        {
+          "symbol": "🌨️",
+          "name": "Cloud With Snow",
+          "unicode": "U+1F328 U+FE0F",
+          "html": "&#127784;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/cloud-with-snow"
+        },
+        {
+          "symbol": "❄️",
+          "name": "Snowflake",
+          "unicode": "U+2744 U+FE0F",
+          "html": "&#10052;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/snowflake"
+        },
+        {
+          "symbol": "🌪️",
+          "name": "Tornado",
+          "unicode": "U+1F32A U+FE0F",
+          "html": "&#127786;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/tornado"
+        },
+        {
+          "symbol": "🌫️",
+          "name": "Fog",
+          "unicode": "U+1F32B U+FE0F",
+          "html": "&#127787;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/fog"
+        },
+        {
+          "symbol": "🌬️",
+          "name": "Wind Face",
+          "unicode": "U+1F32C U+FE0F",
+          "html": "&#127788;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/wind-face"
+        },
+        {
+          "symbol": "🌈",
+          "name": "Rainbow",
+          "unicode": "U+1F308",
+          "html": "&#127752;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/rainbow"
+        },
+        {
+          "symbol": "⛄",
+          "name": "Snowman Without Snow",
+          "unicode": "U+26C4",
+          "html": "&#9924;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/snowman-without-snow"
+        },
+        {
+          "symbol": "💧",
+          "name": "Droplet",
+          "unicode": "U+1F4A7",
+          "html": "&#128167;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/droplet"
+        },
+        {
+          "symbol": "🌊",
+          "name": "Water Wave",
+          "unicode": "U+1F30A",
+          "html": "&#127754;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/water-wave"
+        },
+        {
+          "symbol": "⚡",
+          "name": "High Voltage",
+          "unicode": "U+26A1",
+          "html": "&#9889;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/high-voltage"
+        },
+        {
+          "symbol": "🌡️",
+          "name": "Thermometer",
+          "unicode": "U+1F321 U+FE0F",
+          "html": "&#127777;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/thermometer"
+        },
+        {
+          "symbol": "☔",
+          "name": "Umbrella With Rain Drops",
+          "unicode": "U+2614",
+          "html": "&#9748;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/umbrella-with-rain-drops"
+        },
+        {
+          "symbol": "⛱️",
+          "name": "Umbrella On Ground",
+          "unicode": "U+26F1 U+FE0F",
+          "html": "&#9969;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/map-symbols/umbrella-on-ground"
+        },
+        {
+          "symbol": "🌙",
+          "name": "Crescent Moon",
+          "unicode": "U+1F319",
+          "html": "&#127769;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/crescent-moon"
+        },
+        {
+          "symbol": "⭐",
+          "name": "Star",
+          "unicode": "U+2B50",
+          "html": "&#11088;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/star"
+        },
+        {
+          "symbol": "🌟",
+          "name": "Glowing Star",
+          "unicode": "U+1F31F",
+          "html": "&#127775;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/glowing-star"
+        },
+        {
+          "symbol": "☃️",
+          "name": "Snowman",
+          "unicode": "U+2603 U+FE0F",
+          "html": "&#9731;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/snowman"
+        },
+        {
+          "symbol": "🔥",
+          "name": "Fire",
+          "unicode": "U+1F525",
+          "html": "&#128293;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/fire"
+        },
+        {
+          "symbol": "💨",
+          "name": "Dashing Away",
+          "unicode": "U+1F4A8",
+          "html": "&#128168;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emotions/dashing-away"
+        }
+      ]
+    },
+    {
+      "slug": "food-drink",
+      "title": "Food & Drink",
+      "url": "https://free-symbols.com/collections/food-drink",
+      "symbols": [
+        {
+          "symbol": "🍕",
+          "name": "Pizza",
+          "unicode": "U+1F355",
+          "html": "&#127829;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/pizza"
+        },
+        {
+          "symbol": "🍔",
+          "name": "Hamburger",
+          "unicode": "U+1F354",
+          "html": "&#127828;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/hamburger"
+        },
+        {
+          "symbol": "🍟",
+          "name": "French Fries",
+          "unicode": "U+1F35F",
+          "html": "&#127839;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/french-fries"
+        },
+        {
+          "symbol": "🌮",
+          "name": "Taco",
+          "unicode": "U+1F32E",
+          "html": "&#127790;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/taco"
+        },
+        {
+          "symbol": "🌯",
+          "name": "Burrito",
+          "unicode": "U+1F32F",
+          "html": "&#127791;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/burrito"
+        },
+        {
+          "symbol": "🍜",
+          "name": "Steaming Bowl",
+          "unicode": "U+1F35C",
+          "html": "&#127836;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/asian-food/steaming-bowl"
+        },
+        {
+          "symbol": "🍣",
+          "name": "Sushi",
+          "unicode": "U+1F363",
+          "html": "&#127843;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/asian-food/sushi"
+        },
+        {
+          "symbol": "🍱",
+          "name": "Bento Box",
+          "unicode": "U+1F371",
+          "html": "&#127857;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/asian-food/bento-box"
+        },
+        {
+          "symbol": "🍛",
+          "name": "Curry Rice",
+          "unicode": "U+1F35B",
+          "html": "&#127835;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/asian-food/curry-rice"
+        },
+        {
+          "symbol": "🍲",
+          "name": "Pot Of Food",
+          "unicode": "U+1F372",
+          "html": "&#127858;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/pot-of-food"
+        },
+        {
+          "symbol": "🥗",
+          "name": "Green Salad",
+          "unicode": "U+1F957",
+          "html": "&#129367;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/green-salad"
+        },
+        {
+          "symbol": "🥩",
+          "name": "Cut Of Meat",
+          "unicode": "U+1F969",
+          "html": "&#129385;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/cut-of-meat"
+        },
+        {
+          "symbol": "🍗",
+          "name": "Poultry Leg",
+          "unicode": "U+1F357",
+          "html": "&#127831;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/poultry-leg"
+        },
+        {
+          "symbol": "🥚",
+          "name": "Egg",
+          "unicode": "U+1F95A",
+          "html": "&#129370;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/egg"
+        },
+        {
+          "symbol": "🧇",
+          "name": "Waffle",
+          "unicode": "U+1F9C7",
+          "html": "&#129479;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/waffle"
+        },
+        {
+          "symbol": "🥞",
+          "name": "Pancakes",
+          "unicode": "U+1F95E",
+          "html": "&#129374;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/pancakes"
+        },
+        {
+          "symbol": "🧈",
+          "name": "Butter",
+          "unicode": "U+1F9C8",
+          "html": "&#129480;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/butter"
+        },
+        {
+          "symbol": "🍞",
+          "name": "Bread",
+          "unicode": "U+1F35E",
+          "html": "&#127838;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/bread"
+        },
+        {
+          "symbol": "🥐",
+          "name": "Croissant",
+          "unicode": "U+1F950",
+          "html": "&#129360;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/croissant"
+        },
+        {
+          "symbol": "🧀",
+          "name": "Cheese Wedge",
+          "unicode": "U+1F9C0",
+          "html": "&#129472;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/cooked-food/cheese-wedge"
+        },
+        {
+          "symbol": "🍎",
+          "name": "Red Apple",
+          "unicode": "U+1F34E",
+          "html": "&#127822;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/red-apple"
+        },
+        {
+          "symbol": "🍊",
+          "name": "Tangerine",
+          "unicode": "U+1F34A",
+          "html": "&#127818;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/tangerine"
+        },
+        {
+          "symbol": "🍋",
+          "name": "Lemon",
+          "unicode": "U+1F34B",
+          "html": "&#127819;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/lemon"
+        },
+        {
+          "symbol": "🍇",
+          "name": "Grapes",
+          "unicode": "U+1F347",
+          "html": "&#127815;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/grapes"
+        },
+        {
+          "symbol": "🍓",
+          "name": "Strawberry",
+          "unicode": "U+1F353",
+          "html": "&#127827;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/strawberry"
+        },
+        {
+          "symbol": "🫐",
+          "name": "Blueberries",
+          "unicode": "U+1FAD0",
+          "html": "&#129744;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/blueberries"
+        },
+        {
+          "symbol": "🍌",
+          "name": "Banana",
+          "unicode": "U+1F34C",
+          "html": "&#127820;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/banana"
+        },
+        {
+          "symbol": "🍑",
+          "name": "Peach",
+          "unicode": "U+1F351",
+          "html": "&#127825;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/peach"
+        },
+        {
+          "symbol": "🥝",
+          "name": "Kiwi Fruit",
+          "unicode": "U+1F95D",
+          "html": "&#129373;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/fruits-berries/kiwi-fruit"
+        },
+        {
+          "symbol": "🍰",
+          "name": "Shortcake",
+          "unicode": "U+1F370",
+          "html": "&#127856;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sweets-desserts/shortcake"
+        },
+        {
+          "symbol": "🎂",
+          "name": "Birthday Cake",
+          "unicode": "U+1F382",
+          "html": "&#127874;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sweets-desserts/birthday-cake"
+        },
+        {
+          "symbol": "🍩",
+          "name": "Doughnut",
+          "unicode": "U+1F369",
+          "html": "&#127849;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sweets-desserts/doughnut"
+        },
+        {
+          "symbol": "🍪",
+          "name": "Cookie",
+          "unicode": "U+1F36A",
+          "html": "&#127850;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sweets-desserts/cookie"
+        },
+        {
+          "symbol": "☕",
+          "name": "Hot Beverage",
+          "unicode": "U+2615",
+          "html": "&#9749;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/hot-beverage"
+        },
+        {
+          "symbol": "🍵",
+          "name": "Teacup Without Handle",
+          "unicode": "U+1F375",
+          "html": "&#127861;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/teacup-without-handle"
+        },
+        {
+          "symbol": "🧃",
+          "name": "Beverage Box",
+          "unicode": "U+1F9C3",
+          "html": "&#129475;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/beverage-box"
+        },
+        {
+          "symbol": "🥤",
+          "name": "Cup With Straw",
+          "unicode": "U+1F964",
+          "html": "&#129380;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/cup-with-straw"
+        },
+        {
+          "symbol": "🍺",
+          "name": "Beer Mug",
+          "unicode": "U+1F37A",
+          "html": "&#127866;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/beer-mug"
+        },
+        {
+          "symbol": "🍷",
+          "name": "Wine Glass",
+          "unicode": "U+1F377",
+          "html": "&#127863;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/wine-glass"
+        },
+        {
+          "symbol": "🥂",
+          "name": "Clinking Glasses",
+          "unicode": "U+1F942",
+          "html": "&#129346;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/drinks-dishware/clinking-glasses"
+        }
+      ]
+    },
+    {
+      "slug": "travel-places",
+      "title": "Travel & Places",
+      "url": "https://free-symbols.com/collections/travel-places",
+      "symbols": [
+        {
+          "symbol": "✈️",
+          "name": "Airplane",
+          "unicode": "U+2708 U+FE0F",
+          "html": "&#9992;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/air-water-transport/airplane"
+        },
+        {
+          "symbol": "🚀",
+          "name": "Rocket",
+          "unicode": "U+1F680",
+          "html": "&#128640;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/air-water-transport/rocket"
+        },
+        {
+          "symbol": "🛸",
+          "name": "Flying Saucer",
+          "unicode": "U+1F6F8",
+          "html": "&#128760;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/air-water-transport/flying-saucer"
+        },
+        {
+          "symbol": "🚂",
+          "name": "Locomotive",
+          "unicode": "U+1F682",
+          "html": "&#128642;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/locomotive"
+        },
+        {
+          "symbol": "🚢",
+          "name": "Ship",
+          "unicode": "U+1F6A2",
+          "html": "&#128674;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/air-water-transport/ship"
+        },
+        {
+          "symbol": "🚗",
+          "name": "Automobile",
+          "unicode": "U+1F697",
+          "html": "&#128663;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/automobile"
+        },
+        {
+          "symbol": "🚕",
+          "name": "Taxi",
+          "unicode": "U+1F695",
+          "html": "&#128661;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/taxi"
+        },
+        {
+          "symbol": "🚌",
+          "name": "Bus",
+          "unicode": "U+1F68C",
+          "html": "&#128652;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/bus"
+        },
+        {
+          "symbol": "🚲",
+          "name": "Bicycle",
+          "unicode": "U+1F6B2",
+          "html": "&#128690;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/bicycle"
+        },
+        {
+          "symbol": "🛵",
+          "name": "Motor Scooter",
+          "unicode": "U+1F6F5",
+          "html": "&#128757;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/motor-scooter"
+        },
+        {
+          "symbol": "🏍️",
+          "name": "Motorcycle",
+          "unicode": "U+1F3CD U+FE0F",
+          "html": "&#127949;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/motorcycle"
+        },
+        {
+          "symbol": "⛵",
+          "name": "Sailboat",
+          "unicode": "U+26F5",
+          "html": "&#9973;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/air-water-transport/sailboat"
+        },
+        {
+          "symbol": "🚁",
+          "name": "Helicopter",
+          "unicode": "U+1F681",
+          "html": "&#128641;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/air-water-transport/helicopter"
+        },
+        {
+          "symbol": "🛺",
+          "name": "Auto Rickshaw",
+          "unicode": "U+1F6FA",
+          "html": "&#128762;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/ground-transport/auto-rickshaw"
+        },
+        {
+          "symbol": "🚠",
+          "name": "Mountain Cableway",
+          "unicode": "U+1F6A0",
+          "html": "&#128672;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/air-water-transport/mountain-cableway"
+        },
+        {
+          "symbol": "🗺️",
+          "name": "World Map",
+          "unicode": "U+1F5FA U+FE0F",
+          "html": "&#128506;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/world-map"
+        },
+        {
+          "symbol": "🗼",
+          "name": "Tokyo tower",
+          "unicode": "U+1F5FC",
+          "html": "&#128508;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/tokyo-tower"
+        },
+        {
+          "symbol": "🗽",
+          "name": "Statue of Liberty",
+          "unicode": "U+1F5FD",
+          "html": "&#128509;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/statue-of-liberty"
+        },
+        {
+          "symbol": "🏰",
+          "name": "Castle",
+          "unicode": "U+1F3F0",
+          "html": "&#127984;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/castle"
+        },
+        {
+          "symbol": "🏯",
+          "name": "Japanese castle",
+          "unicode": "U+1F3EF",
+          "html": "&#127983;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/japanese-castle"
+        },
+        {
+          "symbol": "⛩️",
+          "name": "Shinto Shrine",
+          "unicode": "U+26E9 U+FE0F",
+          "html": "&#9961;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/shinto-shrine"
+        },
+        {
+          "symbol": "🕌",
+          "name": "Mosque",
+          "unicode": "U+1F54C",
+          "html": "&#128332;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/mosque"
+        },
+        {
+          "symbol": "🕍",
+          "name": "Synagogue",
+          "unicode": "U+1F54D",
+          "html": "&#128333;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/synagogue"
+        },
+        {
+          "symbol": "⛪",
+          "name": "Church",
+          "unicode": "U+26EA",
+          "html": "&#9962;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/church"
+        },
+        {
+          "symbol": "🏝️",
+          "name": "Desert Island",
+          "unicode": "U+1F3DD U+FE0F",
+          "html": "&#127965;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/desert-island"
+        },
+        {
+          "symbol": "🏖️",
+          "name": "Beach With Umbrella",
+          "unicode": "U+1F3D6 U+FE0F",
+          "html": "&#127958;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/beach-with-umbrella"
+        },
+        {
+          "symbol": "🏔️",
+          "name": "Snow-Capped Mountain",
+          "unicode": "U+1F3D4 U+FE0F",
+          "html": "&#127956;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/snow-capped-mountain"
+        },
+        {
+          "symbol": "🌋",
+          "name": "Volcano",
+          "unicode": "U+1F30B",
+          "html": "&#127755;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/volcano"
+        },
+        {
+          "symbol": "🗻",
+          "name": "Mount Fuji",
+          "unicode": "U+1F5FB",
+          "html": "&#128507;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/mount-fuji"
+        },
+        {
+          "symbol": "🏕️",
+          "name": "Camping",
+          "unicode": "U+1F3D5 U+FE0F",
+          "html": "&#127957;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/camping"
+        },
+        {
+          "symbol": "🌁",
+          "name": "Foggy",
+          "unicode": "U+1F301",
+          "html": "&#127745;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/foggy"
+        },
+        {
+          "symbol": "🌉",
+          "name": "Bridge At Night",
+          "unicode": "U+1F309",
+          "html": "&#127753;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/bridge-at-night"
+        },
+        {
+          "symbol": "🎡",
+          "name": "Ferris Wheel",
+          "unicode": "U+1F3A1",
+          "html": "&#127905;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/ferris-wheel"
+        },
+        {
+          "symbol": "🎢",
+          "name": "Roller Coaster",
+          "unicode": "U+1F3A2",
+          "html": "&#127906;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/roller-coaster"
+        },
+        {
+          "symbol": "🎠",
+          "name": "Carousel Horse",
+          "unicode": "U+1F3A0",
+          "html": "&#127904;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/carousel-horse"
+        },
+        {
+          "symbol": "🌐",
+          "name": "Globe With Meridians",
+          "unicode": "U+1F310",
+          "html": "&#127760;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/globe-with-meridians"
+        },
+        {
+          "symbol": "🧭",
+          "name": "Compass",
+          "unicode": "U+1F9ED",
+          "html": "&#129517;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/maps-geography/compass"
+        }
+      ]
+    },
+    {
+      "slug": "check-marks",
+      "title": "Check Mark Symbols",
+      "url": "https://free-symbols.com/collections/check-marks",
+      "symbols": [
+        {
+          "symbol": "✓",
+          "name": "Check Mark",
+          "unicode": "U+2713",
+          "html": "&#10003;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/check-mark"
+        },
+        {
+          "symbol": "✔",
+          "name": "Heavy Check Mark",
+          "unicode": "U+2714",
+          "html": "&#10004;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/heavy-check-mark"
+        },
+        {
+          "symbol": "☑",
+          "name": "Ballot Box With Check",
+          "unicode": "U+2611",
+          "html": "&#9745;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/ballot-box-with-check"
+        },
+        {
+          "symbol": "✅",
+          "name": "Check Mark Button",
+          "unicode": "U+2705",
+          "html": "&#9989;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/check-mark-button"
+        },
+        {
+          "symbol": "☑️",
+          "name": "Check Box With Check",
+          "unicode": "U+2611 U+FE0F",
+          "html": "&#9745;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/check-box-with-check"
+        },
+        {
+          "symbol": "✔️",
+          "name": "Check Mark",
+          "unicode": "U+2714 U+FE0F",
+          "html": "&#10004;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/check-mark"
+        },
+        {
+          "symbol": "✗",
+          "name": "Ballot X",
+          "unicode": "U+2717",
+          "html": "&#10007;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/ballot-x"
+        },
+        {
+          "symbol": "✘",
+          "name": "Heavy Ballot X",
+          "unicode": "U+2718",
+          "html": "&#10008;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/heavy-ballot-x"
+        },
+        {
+          "symbol": "☒",
+          "name": "Ballot Box With X",
+          "unicode": "U+2612",
+          "html": "&#9746;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/ballot-box-with-x"
+        },
+        {
+          "symbol": "☐",
+          "name": "Ballot Box",
+          "unicode": "U+2610",
+          "html": "&#9744;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/ballot-box"
+        },
+        {
+          "symbol": "❌",
+          "name": "Cross Mark",
+          "unicode": "U+274C",
+          "html": "&#10060;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/cross-mark"
+        },
+        {
+          "symbol": "❎",
+          "name": "Cross Mark Button",
+          "unicode": "U+274E",
+          "html": "&#10062;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/cross-mark-button"
+        },
+        {
+          "symbol": "✖",
+          "name": "Heavy Multiplication X",
+          "unicode": "U+2716",
+          "html": "&#10006;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/heavy-multiplication-x"
+        },
+        {
+          "symbol": "✚",
+          "name": "Heavy Greek Cross",
+          "unicode": "U+271A",
+          "html": "&#10010;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/heavy-greek-cross"
+        },
+        {
+          "symbol": "✛",
+          "name": "Open Centre Cross",
+          "unicode": "U+271B",
+          "html": "&#10011;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/open-centre-cross"
+        },
+        {
+          "symbol": "✜",
+          "name": "Heavy Open Centre Cross",
+          "unicode": "U+271C",
+          "html": "&#10012;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/heavy-open-centre-cross"
+        },
+        {
+          "symbol": "✝",
+          "name": "Latin Cross",
+          "unicode": "U+271D",
+          "html": "&#10013;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/religion-spirituality/latin-cross"
+        },
+        {
+          "symbol": "⊠",
+          "name": "Squared Times",
+          "unicode": "U+22A0",
+          "html": "&#8864;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/squared-times"
+        },
+        {
+          "symbol": "⊡",
+          "name": "Squared Dot Operator",
+          "unicode": "U+22A1",
+          "html": "&#8865;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/squared-dot-operator"
+        },
+        {
+          "symbol": "⊞",
+          "name": "Squared Plus",
+          "unicode": "U+229E",
+          "html": "&#8862;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/squared-plus"
+        },
+        {
+          "symbol": "⊟",
+          "name": "Squared Minus",
+          "unicode": "U+229F",
+          "html": "&#8863;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/squared-minus"
+        },
+        {
+          "symbol": "☓",
+          "name": "Saltire",
+          "unicode": "U+2613",
+          "html": "&#9747;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/saltire"
+        },
+        {
+          "symbol": "✕",
+          "name": "Multiplication X",
+          "unicode": "U+2715",
+          "html": "&#10005;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/multiplication-x"
+        }
+      ]
+    },
+    {
+      "slug": "stars-sparkles",
+      "title": "Star Symbols",
+      "url": "https://free-symbols.com/collections/stars-sparkles",
+      "symbols": [
+        {
+          "symbol": "★",
+          "name": "Black Star",
+          "unicode": "U+2605",
+          "html": "&#9733;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/black-star"
+        },
+        {
+          "symbol": "☆",
+          "name": "White Star",
+          "unicode": "U+2606",
+          "html": "&#9734;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/white-star"
+        },
+        {
+          "symbol": "✩",
+          "name": "Stress Outlined White Star",
+          "unicode": "U+2729",
+          "html": "&#10025;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/stress-outlined-white-star"
+        },
+        {
+          "symbol": "✪",
+          "name": "Circled White Star",
+          "unicode": "U+272A",
+          "html": "&#10026;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/circled-white-star"
+        },
+        {
+          "symbol": "✫",
+          "name": "Open Centre Black Star",
+          "unicode": "U+272B",
+          "html": "&#10027;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/open-centre-black-star"
+        },
+        {
+          "symbol": "✬",
+          "name": "Black Centre White Star",
+          "unicode": "U+272C",
+          "html": "&#10028;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/black-centre-white-star"
+        },
+        {
+          "symbol": "✭",
+          "name": "Outlined Black Star",
+          "unicode": "U+272D",
+          "html": "&#10029;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/outlined-black-star"
+        },
+        {
+          "symbol": "✮",
+          "name": "Heavy Outlined Black Star",
+          "unicode": "U+272E",
+          "html": "&#10030;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/heavy-outlined-black-star"
+        },
+        {
+          "symbol": "✯",
+          "name": "Pinwheel Star",
+          "unicode": "U+272F",
+          "html": "&#10031;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/pinwheel-star"
+        },
+        {
+          "symbol": "✰",
+          "name": "Shadowed White Star",
+          "unicode": "U+2730",
+          "html": "&#10032;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/shadowed-white-star"
+        },
+        {
+          "symbol": "✵",
+          "name": "Eight Pointed Pinwheel Star",
+          "unicode": "U+2735",
+          "html": "&#10037;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/eight-pointed-pinwheel-star"
+        },
+        {
+          "symbol": "✶",
+          "name": "Six Pointed Black Star",
+          "unicode": "U+2736",
+          "html": "&#10038;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/six-pointed-black-star"
+        },
+        {
+          "symbol": "✷",
+          "name": "Eight Pointed Rectilinear Black Star",
+          "unicode": "U+2737",
+          "html": "&#10039;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/eight-pointed-rectilinear-black-star"
+        },
+        {
+          "symbol": "✸",
+          "name": "Heavy Eight Pointed Rectilinear Black Star",
+          "unicode": "U+2738",
+          "html": "&#10040;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/heavy-eight-pointed-rectilinear-black-star"
+        },
+        {
+          "symbol": "✹",
+          "name": "Twelve Pointed Black Star",
+          "unicode": "U+2739",
+          "html": "&#10041;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/twelve-pointed-black-star"
+        },
+        {
+          "symbol": "✺",
+          "name": "Sixteen Pointed Asterisk",
+          "unicode": "U+273A",
+          "html": "&#10042;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/sixteen-pointed-asterisk"
+        },
+        {
+          "symbol": "⋆",
+          "name": "Star Operator",
+          "unicode": "U+22C6",
+          "html": "&#8902;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/star-operator"
+        },
+        {
+          "symbol": "⁂",
+          "name": "Asterism",
+          "unicode": "U+2042",
+          "html": "&#8258;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/asterism"
+        },
+        {
+          "symbol": "⭐",
+          "name": "Star",
+          "unicode": "U+2B50",
+          "html": "&#11088;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/star"
+        },
+        {
+          "symbol": "🌟",
+          "name": "Glowing Star",
+          "unicode": "U+1F31F",
+          "html": "&#127775;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/glowing-star"
+        },
+        {
+          "symbol": "✨",
+          "name": "Sparkles",
+          "unicode": "U+2728",
+          "html": "&#10024;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/events-arts/sparkles"
+        },
+        {
+          "symbol": "💫",
+          "name": "Dizzy",
+          "unicode": "U+1F4AB",
+          "html": "&#128171;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emotions/dizzy"
+        },
+        {
+          "symbol": "⚡",
+          "name": "High Voltage",
+          "unicode": "U+26A1",
+          "html": "&#9889;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/high-voltage"
+        },
+        {
+          "symbol": "🌠",
+          "name": "Shooting Star",
+          "unicode": "U+1F320",
+          "html": "&#127776;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/shooting-star"
+        },
+        {
+          "symbol": "💥",
+          "name": "Collision",
+          "unicode": "U+1F4A5",
+          "html": "&#128165;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emotions/collision"
+        },
+        {
+          "symbol": "🔆",
+          "name": "Bright Button",
+          "unicode": "U+1F506",
+          "html": "&#128262;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/av-keycaps/bright-button"
+        },
+        {
+          "symbol": "🌃",
+          "name": "Night With Stars",
+          "unicode": "U+1F303",
+          "html": "&#127747;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/places-buildings/night-with-stars"
+        },
+        {
+          "symbol": "🌌",
+          "name": "Milky Way",
+          "unicode": "U+1F30C",
+          "html": "&#127756;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/milky-way"
+        },
+        {
+          "symbol": "🪐",
+          "name": "Ringed Planet",
+          "unicode": "U+1FA90",
+          "html": "&#129680;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/ringed-planet"
+        },
+        {
+          "symbol": "☀️",
+          "name": "Sun",
+          "unicode": "U+2600 U+FE0F",
+          "html": "&#9728;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun"
+        },
+        {
+          "symbol": "🌞",
+          "name": "Sun With Face",
+          "unicode": "U+1F31E",
+          "html": "&#127774;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/sky-weather-time/sun-with-face"
+        },
+        {
+          "symbol": "⛤",
+          "name": "Pentagram",
+          "unicode": "U+26E4",
+          "html": "&#9956;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/pentagram"
+        },
+        {
+          "symbol": "⛧",
+          "name": "Inverted Pentagram",
+          "unicode": "U+26E7",
+          "html": "&#9959;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/inverted-pentagram"
+        }
+      ]
+    },
+    {
+      "slug": "legal-symbols",
+      "title": "Trademark, Copyright & Registered Symbols",
+      "url": "https://free-symbols.com/collections/legal-symbols",
+      "symbols": [
+        {
+          "symbol": "™",
+          "name": "Trade Mark Sign",
+          "unicode": "U+2122",
+          "html": "&#8482;",
+          "alt_code": "0153",
+          "url": "https://free-symbols.com/symbols/punctuation/trade-mark-sign"
+        },
+        {
+          "symbol": "©",
+          "name": "Copyright Sign",
+          "unicode": "U+00A9",
+          "html": "&#169;",
+          "alt_code": "0169",
+          "url": "https://free-symbols.com/symbols/punctuation/copyright-sign"
+        },
+        {
+          "symbol": "®",
+          "name": "Registered Sign",
+          "unicode": "U+00AE",
+          "html": "&#174;",
+          "alt_code": "0174",
+          "url": "https://free-symbols.com/symbols/punctuation/registered-sign"
+        },
+        {
+          "symbol": "℠",
+          "name": "Service Mark",
+          "unicode": "U+2120",
+          "html": "&#8480;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/service-mark"
+        },
+        {
+          "symbol": "℗",
+          "name": "Sound Recording Copyright",
+          "unicode": "U+2117",
+          "html": "&#8471;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/sound-recording-copyright"
+        },
+        {
+          "symbol": "™️",
+          "name": "Trade Mark",
+          "unicode": "U+2122 U+FE0F",
+          "html": "&#8482;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/trade-mark"
+        },
+        {
+          "symbol": "©️",
+          "name": "Copyright",
+          "unicode": "U+00A9 U+FE0F",
+          "html": "&#169;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/copyright"
+        },
+        {
+          "symbol": "®️",
+          "name": "Registered",
+          "unicode": "U+00AE U+FE0F",
+          "html": "&#174;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/registered"
+        }
+      ]
+    },
+    {
+      "slug": "roman-numerals",
+      "title": "Roman Numerals",
+      "url": "https://free-symbols.com/collections/roman-numerals",
+      "symbols": [
+        {
+          "symbol": "Ⅰ",
+          "name": "Roman Numeral One",
+          "unicode": "U+2160",
+          "html": "&#8544;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-one"
+        },
+        {
+          "symbol": "Ⅱ",
+          "name": "Roman Numeral Two",
+          "unicode": "U+2161",
+          "html": "&#8545;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-two"
+        },
+        {
+          "symbol": "Ⅲ",
+          "name": "Roman Numeral Three",
+          "unicode": "U+2162",
+          "html": "&#8546;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-three"
+        },
+        {
+          "symbol": "Ⅳ",
+          "name": "Roman Numeral Four",
+          "unicode": "U+2163",
+          "html": "&#8547;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-four"
+        },
+        {
+          "symbol": "Ⅴ",
+          "name": "Roman Numeral Five",
+          "unicode": "U+2164",
+          "html": "&#8548;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-five"
+        },
+        {
+          "symbol": "Ⅵ",
+          "name": "Roman Numeral Six",
+          "unicode": "U+2165",
+          "html": "&#8549;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-six"
+        },
+        {
+          "symbol": "Ⅶ",
+          "name": "Roman Numeral Seven",
+          "unicode": "U+2166",
+          "html": "&#8550;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-seven"
+        },
+        {
+          "symbol": "Ⅷ",
+          "name": "Roman Numeral Eight",
+          "unicode": "U+2167",
+          "html": "&#8551;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-eight"
+        },
+        {
+          "symbol": "Ⅸ",
+          "name": "Roman Numeral Nine",
+          "unicode": "U+2168",
+          "html": "&#8552;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-nine"
+        },
+        {
+          "symbol": "Ⅹ",
+          "name": "Roman Numeral Ten",
+          "unicode": "U+2169",
+          "html": "&#8553;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-ten"
+        },
+        {
+          "symbol": "Ⅺ",
+          "name": "Roman Numeral Eleven",
+          "unicode": "U+216A",
+          "html": "&#8554;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-eleven"
+        },
+        {
+          "symbol": "Ⅻ",
+          "name": "Roman Numeral Twelve",
+          "unicode": "U+216B",
+          "html": "&#8555;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-twelve"
+        },
+        {
+          "symbol": "Ⅼ",
+          "name": "Roman Numeral Fifty",
+          "unicode": "U+216C",
+          "html": "&#8556;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-fifty"
+        },
+        {
+          "symbol": "Ⅽ",
+          "name": "Roman Numeral One Hundred",
+          "unicode": "U+216D",
+          "html": "&#8557;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-one-hundred"
+        },
+        {
+          "symbol": "Ⅾ",
+          "name": "Roman Numeral Five Hundred",
+          "unicode": "U+216E",
+          "html": "&#8558;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-five-hundred"
+        },
+        {
+          "symbol": "Ⅿ",
+          "name": "Roman Numeral One Thousand",
+          "unicode": "U+216F",
+          "html": "&#8559;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-one-thousand"
+        },
+        {
+          "symbol": "ⅰ",
+          "name": "Small Roman Numeral One",
+          "unicode": "U+2170",
+          "html": "&#8560;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-one"
+        },
+        {
+          "symbol": "ⅱ",
+          "name": "Small Roman Numeral Two",
+          "unicode": "U+2171",
+          "html": "&#8561;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-two"
+        },
+        {
+          "symbol": "ⅲ",
+          "name": "Small Roman Numeral Three",
+          "unicode": "U+2172",
+          "html": "&#8562;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-three"
+        },
+        {
+          "symbol": "ⅳ",
+          "name": "Small Roman Numeral Four",
+          "unicode": "U+2173",
+          "html": "&#8563;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-four"
+        },
+        {
+          "symbol": "ⅴ",
+          "name": "Small Roman Numeral Five",
+          "unicode": "U+2174",
+          "html": "&#8564;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-five"
+        },
+        {
+          "symbol": "ⅵ",
+          "name": "Small Roman Numeral Six",
+          "unicode": "U+2175",
+          "html": "&#8565;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-six"
+        },
+        {
+          "symbol": "ⅶ",
+          "name": "Small Roman Numeral Seven",
+          "unicode": "U+2176",
+          "html": "&#8566;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-seven"
+        },
+        {
+          "symbol": "ⅷ",
+          "name": "Small Roman Numeral Eight",
+          "unicode": "U+2177",
+          "html": "&#8567;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-eight"
+        },
+        {
+          "symbol": "ⅸ",
+          "name": "Small Roman Numeral Nine",
+          "unicode": "U+2178",
+          "html": "&#8568;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-nine"
+        },
+        {
+          "symbol": "ⅹ",
+          "name": "Small Roman Numeral Ten",
+          "unicode": "U+2179",
+          "html": "&#8569;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-ten"
+        },
+        {
+          "symbol": "ⅺ",
+          "name": "Small Roman Numeral Eleven",
+          "unicode": "U+217A",
+          "html": "&#8570;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-eleven"
+        },
+        {
+          "symbol": "ⅻ",
+          "name": "Small Roman Numeral Twelve",
+          "unicode": "U+217B",
+          "html": "&#8571;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-twelve"
+        },
+        {
+          "symbol": "ⅼ",
+          "name": "Small Roman Numeral Fifty",
+          "unicode": "U+217C",
+          "html": "&#8572;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-fifty"
+        },
+        {
+          "symbol": "ⅽ",
+          "name": "Small Roman Numeral One Hundred",
+          "unicode": "U+217D",
+          "html": "&#8573;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-one-hundred"
+        },
+        {
+          "symbol": "ⅾ",
+          "name": "Small Roman Numeral Five Hundred",
+          "unicode": "U+217E",
+          "html": "&#8574;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-five-hundred"
+        },
+        {
+          "symbol": "ⅿ",
+          "name": "Small Roman Numeral One Thousand",
+          "unicode": "U+217F",
+          "html": "&#8575;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/small-roman-numeral-one-thousand"
+        },
+        {
+          "symbol": "ↀ",
+          "name": "Roman Numeral One Thousand C D",
+          "unicode": "U+2180",
+          "html": "&#8576;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-one-thousand-c-d"
+        },
+        {
+          "symbol": "ↁ",
+          "name": "Roman Numeral Five Thousand",
+          "unicode": "U+2181",
+          "html": "&#8577;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-five-thousand"
+        },
+        {
+          "symbol": "ↂ",
+          "name": "Roman Numeral Ten Thousand",
+          "unicode": "U+2182",
+          "html": "&#8578;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-ten-thousand"
+        },
+        {
+          "symbol": "Ↄ",
+          "name": "Roman Numeral Reversed One Hundred",
+          "unicode": "U+2183",
+          "html": "&#8579;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-reversed-one-hundred"
+        },
+        {
+          "symbol": "ↄ",
+          "name": "Latin Small Letter Reversed C",
+          "unicode": "U+2184",
+          "html": "&#8580;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/latin-small-letter-reversed-c"
+        },
+        {
+          "symbol": "ↅ",
+          "name": "Roman Numeral Six Late Form",
+          "unicode": "U+2185",
+          "html": "&#8581;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-six-late-form"
+        },
+        {
+          "symbol": "ↆ",
+          "name": "Roman Numeral Fifty Early Form",
+          "unicode": "U+2186",
+          "html": "&#8582;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-fifty-early-form"
+        },
+        {
+          "symbol": "ↇ",
+          "name": "Roman Numeral Fifty Thousand",
+          "unicode": "U+2187",
+          "html": "&#8583;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-fifty-thousand"
+        },
+        {
+          "symbol": "ↈ",
+          "name": "Roman Numeral One Hundred Thousand",
+          "unicode": "U+2188",
+          "html": "&#8584;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/roman-numeral-one-hundred-thousand"
+        }
+      ]
+    },
+    {
+      "slug": "gender-symbols",
+      "title": "Gender Symbols",
+      "url": "https://free-symbols.com/collections/gender-symbols",
+      "symbols": [
+        {
+          "symbol": "♂",
+          "name": "Male Sign",
+          "unicode": "U+2642",
+          "html": "&#9794;",
+          "alt_code": "11",
+          "url": "https://free-symbols.com/esoteric/astrology/male-sign"
+        },
+        {
+          "symbol": "♀",
+          "name": "Female Sign",
+          "unicode": "U+2640",
+          "html": "&#9792;",
+          "alt_code": "12",
+          "url": "https://free-symbols.com/esoteric/astrology/female-sign"
+        },
+        {
+          "symbol": "⚥",
+          "name": "Male And Female Sign",
+          "unicode": "U+26A5",
+          "html": "&#9893;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/male-and-female-sign"
+        },
+        {
+          "symbol": "⚧",
+          "name": "Male With Stroke And Male And Female Sign",
+          "unicode": "U+26A7",
+          "html": "&#9895;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/male-with-stroke-and-male-and-female-sign"
+        },
+        {
+          "symbol": "⚢",
+          "name": "Doubled Female Sign",
+          "unicode": "U+26A2",
+          "html": "&#9890;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/doubled-female-sign"
+        },
+        {
+          "symbol": "⚣",
+          "name": "Doubled Male Sign",
+          "unicode": "U+26A3",
+          "html": "&#9891;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/doubled-male-sign"
+        },
+        {
+          "symbol": "⚤",
+          "name": "Interlocked Female And Male Sign",
+          "unicode": "U+26A4",
+          "html": "&#9892;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/interlocked-female-and-male-sign"
+        },
+        {
+          "symbol": "⚦",
+          "name": "Male With Stroke Sign",
+          "unicode": "U+26A6",
+          "html": "&#9894;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/male-with-stroke-sign"
+        },
+        {
+          "symbol": "⚨",
+          "name": "Vertical Male With Stroke Sign",
+          "unicode": "U+26A8",
+          "html": "&#9896;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/vertical-male-with-stroke-sign"
+        },
+        {
+          "symbol": "⚩",
+          "name": "Horizontal Male With Stroke Sign",
+          "unicode": "U+26A9",
+          "html": "&#9897;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/horizontal-male-with-stroke-sign"
+        },
+        {
+          "symbol": "⚧️",
+          "name": "Transgender Symbol",
+          "unicode": "U+26A7 U+FE0F",
+          "html": "&#9895;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/transgender-symbol"
+        },
+        {
+          "symbol": "🚹",
+          "name": "Men’S Room",
+          "unicode": "U+1F6B9",
+          "html": "&#128697;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/men-s-room"
+        },
+        {
+          "symbol": "🚺",
+          "name": "Women’S Room",
+          "unicode": "U+1F6BA",
+          "html": "&#128698;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/women-s-room"
+        },
+        {
+          "symbol": "🚻",
+          "name": "Restroom",
+          "unicode": "U+1F6BB",
+          "html": "&#128699;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emoji-signs/restroom"
+        }
+      ]
+    },
+    {
+      "slug": "bullet-points",
+      "title": "Bullet Point Symbols",
+      "url": "https://free-symbols.com/collections/bullet-points",
+      "symbols": [
+        {
+          "symbol": "•",
+          "name": "Bullet",
+          "unicode": "U+2022",
+          "html": "&#8226;",
+          "alt_code": "0149",
+          "url": "https://free-symbols.com/symbols/punctuation/bullet"
+        },
+        {
+          "symbol": "◦",
+          "name": "White Bullet",
+          "unicode": "U+25E6",
+          "html": "&#9702;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/white-bullet"
+        },
+        {
+          "symbol": "‣",
+          "name": "Triangular Bullet",
+          "unicode": "U+2023",
+          "html": "&#8227;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/triangular-bullet"
+        },
+        {
+          "symbol": "⁃",
+          "name": "Hyphen Bullet",
+          "unicode": "U+2043",
+          "html": "&#8259;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/hyphen-bullet"
+        },
+        {
+          "symbol": "∙",
+          "name": "Bullet Operator",
+          "unicode": "U+2219",
+          "html": "&#8729;",
+          "alt_code": "249",
+          "url": "https://free-symbols.com/symbols/math/bullet-operator"
+        },
+        {
+          "symbol": "⦁",
+          "name": "Z Notation Spot",
+          "unicode": "U+2981",
+          "html": "&#10625;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/z-notation-spot"
+        },
+        {
+          "symbol": "●",
+          "name": "Black Circle",
+          "unicode": "U+25CF",
+          "html": "&#9679;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/black-circle"
+        },
+        {
+          "symbol": "○",
+          "name": "White Circle",
+          "unicode": "U+25CB",
+          "html": "&#9675;",
+          "alt_code": "9",
+          "url": "https://free-symbols.com/symbols/geometric-shapes/white-circle"
+        },
+        {
+          "symbol": "▪",
+          "name": "Black Small Square",
+          "unicode": "U+25AA",
+          "html": "&#9642;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/black-small-square"
+        },
+        {
+          "symbol": "▫",
+          "name": "White Small Square",
+          "unicode": "U+25AB",
+          "html": "&#9643;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/white-small-square"
+        },
+        {
+          "symbol": "■",
+          "name": "Black Square",
+          "unicode": "U+25A0",
+          "html": "&#9632;",
+          "alt_code": "254",
+          "url": "https://free-symbols.com/symbols/geometric-shapes/black-square"
+        },
+        {
+          "symbol": "□",
+          "name": "White Square",
+          "unicode": "U+25A1",
+          "html": "&#9633;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/white-square"
+        },
+        {
+          "symbol": "◆",
+          "name": "Black Diamond",
+          "unicode": "U+25C6",
+          "html": "&#9670;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/black-diamond"
+        },
+        {
+          "symbol": "◇",
+          "name": "White Diamond",
+          "unicode": "U+25C7",
+          "html": "&#9671;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/white-diamond"
+        },
+        {
+          "symbol": "►",
+          "name": "Black Right-pointing Pointer",
+          "unicode": "U+25BA",
+          "html": "&#9658;",
+          "alt_code": "16",
+          "url": "https://free-symbols.com/symbols/map-symbols/black-right-pointing-pointer"
+        },
+        {
+          "symbol": "▸",
+          "name": "Black Right-pointing Small Triangle",
+          "unicode": "U+25B8",
+          "html": "&#9656;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/geometric-shapes/black-right-pointing-small-triangle"
+        },
+        {
+          "symbol": "⁌",
+          "name": "Black Leftwards Bullet",
+          "unicode": "U+204C",
+          "html": "&#8268;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/black-leftwards-bullet"
+        },
+        {
+          "symbol": "⁍",
+          "name": "Black Rightwards Bullet",
+          "unicode": "U+204D",
+          "html": "&#8269;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/black-rightwards-bullet"
+        },
+        {
+          "symbol": "☙",
+          "name": "Reversed Rotated Floral Heart Bullet",
+          "unicode": "U+2619",
+          "html": "&#9753;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/misc-symbols/reversed-rotated-floral-heart-bullet"
+        },
+        {
+          "symbol": "❧",
+          "name": "Rotated Floral Heart Bullet",
+          "unicode": "U+2767",
+          "html": "&#10087;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/dingbats/rotated-floral-heart-bullet"
+        }
+      ]
+    },
+    {
+      "slug": "comparison-symbols",
+      "title": "Less Than, Greater Than & Equal Symbols",
+      "url": "https://free-symbols.com/collections/comparison-symbols",
+      "symbols": [
+        {
+          "symbol": "<",
+          "name": "Less-than Sign",
+          "unicode": "U+003C",
+          "html": "&#60;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/less-than-sign"
+        },
+        {
+          "symbol": ">",
+          "name": "Greater-than Sign",
+          "unicode": "U+003E",
+          "html": "&#62;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/greater-than-sign"
+        },
+        {
+          "symbol": "≤",
+          "name": "Less-than Or Equal To",
+          "unicode": "U+2264",
+          "html": "&#8804;",
+          "alt_code": "243",
+          "url": "https://free-symbols.com/symbols/math/less-than-or-equal-to"
+        },
+        {
+          "symbol": "≥",
+          "name": "Greater-than Or Equal To",
+          "unicode": "U+2265",
+          "html": "&#8805;",
+          "alt_code": "242",
+          "url": "https://free-symbols.com/symbols/math/greater-than-or-equal-to"
+        },
+        {
+          "symbol": "≠",
+          "name": "Not Equal To",
+          "unicode": "U+2260",
+          "html": "&#8800;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/not-equal-to"
+        },
+        {
+          "symbol": "=",
+          "name": "Equals Sign",
+          "unicode": "U+003D",
+          "html": "&#61;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/punctuation/equals-sign"
+        },
+        {
+          "symbol": "≈",
+          "name": "Almost Equal To",
+          "unicode": "U+2248",
+          "html": "&#8776;",
+          "alt_code": "247",
+          "url": "https://free-symbols.com/symbols/math/almost-equal-to"
+        },
+        {
+          "symbol": "≡",
+          "name": "Identical To",
+          "unicode": "U+2261",
+          "html": "&#8801;",
+          "alt_code": "240",
+          "url": "https://free-symbols.com/symbols/math/identical-to"
+        },
+        {
+          "symbol": "≅",
+          "name": "Approximately Equal To",
+          "unicode": "U+2245",
+          "html": "&#8773;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/approximately-equal-to"
+        },
+        {
+          "symbol": "≪",
+          "name": "Much Less-than",
+          "unicode": "U+226A",
+          "html": "&#8810;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/much-less-than"
+        },
+        {
+          "symbol": "≫",
+          "name": "Much Greater-than",
+          "unicode": "U+226B",
+          "html": "&#8811;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/much-greater-than"
+        },
+        {
+          "symbol": "≦",
+          "name": "Less-than Over Equal To",
+          "unicode": "U+2266",
+          "html": "&#8806;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/less-than-over-equal-to"
+        },
+        {
+          "symbol": "≧",
+          "name": "Greater-than Over Equal To",
+          "unicode": "U+2267",
+          "html": "&#8807;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/greater-than-over-equal-to"
+        },
+        {
+          "symbol": "⩽",
+          "name": "Less-than Or Slanted Equal To",
+          "unicode": "U+2A7D",
+          "html": "&#10877;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/less-than-or-slanted-equal-to"
+        },
+        {
+          "symbol": "⩾",
+          "name": "Greater-than Or Slanted Equal To",
+          "unicode": "U+2A7E",
+          "html": "&#10878;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/greater-than-or-slanted-equal-to"
+        },
+        {
+          "symbol": "≮",
+          "name": "Not Less-than",
+          "unicode": "U+226E",
+          "html": "&#8814;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/not-less-than"
+        },
+        {
+          "symbol": "≯",
+          "name": "Not Greater-than",
+          "unicode": "U+226F",
+          "html": "&#8815;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/not-greater-than"
+        },
+        {
+          "symbol": "≰",
+          "name": "Neither Less-than Nor Equal To",
+          "unicode": "U+2270",
+          "html": "&#8816;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/neither-less-than-nor-equal-to"
+        },
+        {
+          "symbol": "≱",
+          "name": "Neither Greater-than Nor Equal To",
+          "unicode": "U+2271",
+          "html": "&#8817;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/neither-greater-than-nor-equal-to"
+        },
+        {
+          "symbol": "∼",
+          "name": "Tilde Operator",
+          "unicode": "U+223C",
+          "html": "&#8764;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/tilde-operator"
+        },
+        {
+          "symbol": "≃",
+          "name": "Asymptotically Equal To",
+          "unicode": "U+2243",
+          "html": "&#8771;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/symbols/math/asymptotically-equal-to"
+        }
+      ]
+    },
+    {
+      "slug": "e-with-accent",
+      "title": "E with Accent (é è ê ë)",
+      "url": "https://free-symbols.com/collections/e-with-accent",
+      "symbols": [
+        {
+          "symbol": "é",
+          "name": "Latin Small Letter E With Acute",
+          "unicode": "U+00E9",
+          "html": "&#233;",
+          "alt_code": "0233",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-acute"
+        },
+        {
+          "symbol": "è",
+          "name": "Latin Small Letter E With Grave",
+          "unicode": "U+00E8",
+          "html": "&#232;",
+          "alt_code": "0232",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-grave"
+        },
+        {
+          "symbol": "ê",
+          "name": "Latin Small Letter E With Circumflex",
+          "unicode": "U+00EA",
+          "html": "&#234;",
+          "alt_code": "0234",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-circumflex"
+        },
+        {
+          "symbol": "ë",
+          "name": "Latin Small Letter E With Diaeresis",
+          "unicode": "U+00EB",
+          "html": "&#235;",
+          "alt_code": "0235",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-diaeresis"
+        },
+        {
+          "symbol": "É",
+          "name": "Latin Capital Letter E With Acute",
+          "unicode": "U+00C9",
+          "html": "&#201;",
+          "alt_code": "0201",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-acute"
+        },
+        {
+          "symbol": "È",
+          "name": "Latin Capital Letter E With Grave",
+          "unicode": "U+00C8",
+          "html": "&#200;",
+          "alt_code": "0200",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-grave"
+        },
+        {
+          "symbol": "Ê",
+          "name": "Latin Capital Letter E With Circumflex",
+          "unicode": "U+00CA",
+          "html": "&#202;",
+          "alt_code": "0202",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-circumflex"
+        },
+        {
+          "symbol": "Ë",
+          "name": "Latin Capital Letter E With Diaeresis",
+          "unicode": "U+00CB",
+          "html": "&#203;",
+          "alt_code": "0203",
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-diaeresis"
+        },
+        {
+          "symbol": "ē",
+          "name": "Latin Small Letter E With Macron",
+          "unicode": "U+0113",
+          "html": "&#275;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-macron"
+        },
+        {
+          "symbol": "Ē",
+          "name": "Latin Capital Letter E With Macron",
+          "unicode": "U+0112",
+          "html": "&#274;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-macron"
+        },
+        {
+          "symbol": "ė",
+          "name": "Latin Small Letter E With Dot Above",
+          "unicode": "U+0117",
+          "html": "&#279;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-dot-above"
+        },
+        {
+          "symbol": "Ė",
+          "name": "Latin Capital Letter E With Dot Above",
+          "unicode": "U+0116",
+          "html": "&#278;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-dot-above"
+        },
+        {
+          "symbol": "ę",
+          "name": "Latin Small Letter E With Ogonek",
+          "unicode": "U+0119",
+          "html": "&#281;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-ogonek"
+        },
+        {
+          "symbol": "Ę",
+          "name": "Latin Capital Letter E With Ogonek",
+          "unicode": "U+0118",
+          "html": "&#280;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-ogonek"
+        },
+        {
+          "symbol": "ě",
+          "name": "Latin Small Letter E With Caron",
+          "unicode": "U+011B",
+          "html": "&#283;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-caron"
+        },
+        {
+          "symbol": "Ě",
+          "name": "Latin Capital Letter E With Caron",
+          "unicode": "U+011A",
+          "html": "&#282;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-caron"
+        },
+        {
+          "symbol": "ẽ",
+          "name": "Latin Small Letter E With Tilde",
+          "unicode": "U+1EBD",
+          "html": "&#7869;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-tilde"
+        },
+        {
+          "symbol": "Ẽ",
+          "name": "Latin Capital Letter E With Tilde",
+          "unicode": "U+1EBC",
+          "html": "&#7868;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-tilde"
+        },
+        {
+          "symbol": "ȩ",
+          "name": "Latin Small Letter E With Cedilla",
+          "unicode": "U+0229",
+          "html": "&#553;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-small-letter-e-with-cedilla"
+        },
+        {
+          "symbol": "Ȩ",
+          "name": "Latin Capital Letter E With Cedilla",
+          "unicode": "U+0228",
+          "html": "&#552;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/latin-extended/latin-capital-letter-e-with-cedilla"
+        }
+      ]
+    },
+    {
+      "slug": "greek-letters",
+      "title": "Greek Letters",
+      "url": "https://free-symbols.com/collections/greek-letters",
+      "symbols": [
+        {
+          "symbol": "Α",
+          "name": "Greek Capital Letter Alpha",
+          "unicode": "U+0391",
+          "html": "&Alpha;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-alpha"
+        },
+        {
+          "symbol": "α",
+          "name": "Greek Small Letter Alpha",
+          "unicode": "U+03B1",
+          "html": "&alpha;",
+          "alt_code": "224",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-alpha"
+        },
+        {
+          "symbol": "Β",
+          "name": "Greek Capital Letter Beta",
+          "unicode": "U+0392",
+          "html": "&Beta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-beta"
+        },
+        {
+          "symbol": "β",
+          "name": "Greek Small Letter Beta",
+          "unicode": "U+03B2",
+          "html": "&beta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-beta"
+        },
+        {
+          "symbol": "Γ",
+          "name": "Greek Capital Letter Gamma",
+          "unicode": "U+0393",
+          "html": "&Gamma;",
+          "alt_code": "226",
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-gamma"
+        },
+        {
+          "symbol": "γ",
+          "name": "Greek Small Letter Gamma",
+          "unicode": "U+03B3",
+          "html": "&gamma;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-gamma"
+        },
+        {
+          "symbol": "Δ",
+          "name": "Greek Capital Letter Delta",
+          "unicode": "U+0394",
+          "html": "&Delta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-delta"
+        },
+        {
+          "symbol": "δ",
+          "name": "Greek Small Letter Delta",
+          "unicode": "U+03B4",
+          "html": "&delta;",
+          "alt_code": "235",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-delta"
+        },
+        {
+          "symbol": "Ε",
+          "name": "Greek Capital Letter Epsilon",
+          "unicode": "U+0395",
+          "html": "&Epsilon;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-epsilon"
+        },
+        {
+          "symbol": "ε",
+          "name": "Greek Small Letter Epsilon",
+          "unicode": "U+03B5",
+          "html": "&epsilon;",
+          "alt_code": "238",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-epsilon"
+        },
+        {
+          "symbol": "Ζ",
+          "name": "Greek Capital Letter Zeta",
+          "unicode": "U+0396",
+          "html": "&Zeta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-zeta"
+        },
+        {
+          "symbol": "ζ",
+          "name": "Greek Small Letter Zeta",
+          "unicode": "U+03B6",
+          "html": "&zeta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-zeta"
+        },
+        {
+          "symbol": "Η",
+          "name": "Greek Capital Letter Eta",
+          "unicode": "U+0397",
+          "html": "&Eta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-eta"
+        },
+        {
+          "symbol": "η",
+          "name": "Greek Small Letter Eta",
+          "unicode": "U+03B7",
+          "html": "&eta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-eta"
+        },
+        {
+          "symbol": "Θ",
+          "name": "Greek Capital Letter Theta",
+          "unicode": "U+0398",
+          "html": "&Theta;",
+          "alt_code": "233",
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-theta"
+        },
+        {
+          "symbol": "θ",
+          "name": "Greek Small Letter Theta",
+          "unicode": "U+03B8",
+          "html": "&theta;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-theta"
+        },
+        {
+          "symbol": "Ι",
+          "name": "Greek Capital Letter Iota",
+          "unicode": "U+0399",
+          "html": "&Iota;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-iota"
+        },
+        {
+          "symbol": "ι",
+          "name": "Greek Small Letter Iota",
+          "unicode": "U+03B9",
+          "html": "&iota;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-iota"
+        },
+        {
+          "symbol": "Κ",
+          "name": "Greek Capital Letter Kappa",
+          "unicode": "U+039A",
+          "html": "&Kappa;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-kappa"
+        },
+        {
+          "symbol": "κ",
+          "name": "Greek Small Letter Kappa",
+          "unicode": "U+03BA",
+          "html": "&kappa;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-kappa"
+        },
+        {
+          "symbol": "Λ",
+          "name": "Greek Capital Letter Lamda",
+          "unicode": "U+039B",
+          "html": "&Lambda;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-lamda"
+        },
+        {
+          "symbol": "λ",
+          "name": "Greek Small Letter Lamda",
+          "unicode": "U+03BB",
+          "html": "&lambda;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-lamda"
+        },
+        {
+          "symbol": "Μ",
+          "name": "Greek Capital Letter Mu",
+          "unicode": "U+039C",
+          "html": "&Mu;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-mu"
+        },
+        {
+          "symbol": "μ",
+          "name": "Greek Small Letter Mu",
+          "unicode": "U+03BC",
+          "html": "&mu;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-mu"
+        },
+        {
+          "symbol": "Ν",
+          "name": "Greek Capital Letter Nu",
+          "unicode": "U+039D",
+          "html": "&Nu;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-nu"
+        },
+        {
+          "symbol": "ν",
+          "name": "Greek Small Letter Nu",
+          "unicode": "U+03BD",
+          "html": "&nu;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-nu"
+        },
+        {
+          "symbol": "Ξ",
+          "name": "Greek Capital Letter Xi",
+          "unicode": "U+039E",
+          "html": "&Xi;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-xi"
+        },
+        {
+          "symbol": "ξ",
+          "name": "Greek Small Letter Xi",
+          "unicode": "U+03BE",
+          "html": "&xi;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-xi"
+        },
+        {
+          "symbol": "Ο",
+          "name": "Greek Capital Letter Omicron",
+          "unicode": "U+039F",
+          "html": "&Omicron;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-omicron"
+        },
+        {
+          "symbol": "ο",
+          "name": "Greek Small Letter Omicron",
+          "unicode": "U+03BF",
+          "html": "&omicron;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-omicron"
+        },
+        {
+          "symbol": "Π",
+          "name": "Greek Capital Letter Pi",
+          "unicode": "U+03A0",
+          "html": "&Pi;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-pi"
+        },
+        {
+          "symbol": "π",
+          "name": "Greek Small Letter Pi",
+          "unicode": "U+03C0",
+          "html": "&pi;",
+          "alt_code": "227",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-pi"
+        },
+        {
+          "symbol": "Ρ",
+          "name": "Greek Capital Letter Rho",
+          "unicode": "U+03A1",
+          "html": "&Rho;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-rho"
+        },
+        {
+          "symbol": "ρ",
+          "name": "Greek Small Letter Rho",
+          "unicode": "U+03C1",
+          "html": "&rho;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-rho"
+        },
+        {
+          "symbol": "Σ",
+          "name": "Greek Capital Letter Sigma",
+          "unicode": "U+03A3",
+          "html": "&Sigma;",
+          "alt_code": "228",
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-sigma"
+        },
+        {
+          "symbol": "σ",
+          "name": "Greek Small Letter Sigma",
+          "unicode": "U+03C3",
+          "html": "&sigma;",
+          "alt_code": "229",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-sigma"
+        },
+        {
+          "symbol": "Τ",
+          "name": "Greek Capital Letter Tau",
+          "unicode": "U+03A4",
+          "html": "&Tau;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-tau"
+        },
+        {
+          "symbol": "τ",
+          "name": "Greek Small Letter Tau",
+          "unicode": "U+03C4",
+          "html": "&tau;",
+          "alt_code": "231",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-tau"
+        },
+        {
+          "symbol": "Υ",
+          "name": "Greek Capital Letter Upsilon",
+          "unicode": "U+03A5",
+          "html": "&Upsilon;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-upsilon"
+        },
+        {
+          "symbol": "υ",
+          "name": "Greek Small Letter Upsilon",
+          "unicode": "U+03C5",
+          "html": "&upsilon;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-upsilon"
+        },
+        {
+          "symbol": "Φ",
+          "name": "Greek Capital Letter Phi",
+          "unicode": "U+03A6",
+          "html": "&Phi;",
+          "alt_code": "232",
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-phi"
+        },
+        {
+          "symbol": "φ",
+          "name": "Greek Small Letter Phi",
+          "unicode": "U+03C6",
+          "html": "&phi;",
+          "alt_code": "237",
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-phi"
+        },
+        {
+          "symbol": "Χ",
+          "name": "Greek Capital Letter Chi",
+          "unicode": "U+03A7",
+          "html": "&Chi;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-chi"
+        },
+        {
+          "symbol": "χ",
+          "name": "Greek Small Letter Chi",
+          "unicode": "U+03C7",
+          "html": "&chi;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-chi"
+        },
+        {
+          "symbol": "Ψ",
+          "name": "Greek Capital Letter Psi",
+          "unicode": "U+03A8",
+          "html": "&Psi;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-psi"
+        },
+        {
+          "symbol": "ψ",
+          "name": "Greek Small Letter Psi",
+          "unicode": "U+03C8",
+          "html": "&psi;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-psi"
+        },
+        {
+          "symbol": "Ω",
+          "name": "Greek Capital Letter Omega",
+          "unicode": "U+03A9",
+          "html": "&Omega;",
+          "alt_code": "234",
+          "url": "https://free-symbols.com/letters/greek/greek-capital-letter-omega"
+        },
+        {
+          "symbol": "ω",
+          "name": "Greek Small Letter Omega",
+          "unicode": "U+03C9",
+          "html": "&omega;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-omega"
+        },
+        {
+          "symbol": "ς",
+          "name": "Greek Small Letter Final Sigma",
+          "unicode": "U+03C2",
+          "html": "&sigmaf;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/letters/greek/greek-small-letter-final-sigma"
+        }
+      ]
+    },
+    {
+      "slug": "crying-emoji",
+      "title": "Crying Emoji",
+      "url": "https://free-symbols.com/collections/crying-emoji",
+      "symbols": [
+        {
+          "symbol": "😢",
+          "name": "Crying Face",
+          "unicode": "U+1F622",
+          "html": "&#128546;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/crying-face"
+        },
+        {
+          "symbol": "😭",
+          "name": "Loudly Crying Face",
+          "unicode": "U+1F62D",
+          "html": "&#128557;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/loudly-crying-face"
+        },
+        {
+          "symbol": "🥲",
+          "name": "Smiling Face With Tear",
+          "unicode": "U+1F972",
+          "html": "&#129394;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/smiling-face-with-tear"
+        },
+        {
+          "symbol": "🥹",
+          "name": "Face Holding Back Tears",
+          "unicode": "U+1F979",
+          "html": "&#129401;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/face-holding-back-tears"
+        },
+        {
+          "symbol": "😿",
+          "name": "Crying Cat",
+          "unicode": "U+1F63F",
+          "html": "&#128575;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/costume-faces/crying-cat"
+        },
+        {
+          "symbol": "😥",
+          "name": "Sad But Relieved Face",
+          "unicode": "U+1F625",
+          "html": "&#128549;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/sad-but-relieved-face"
+        },
+        {
+          "symbol": "😪",
+          "name": "Sleepy Face",
+          "unicode": "U+1F62A",
+          "html": "&#128554;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/neutral-faces/sleepy-face"
+        },
+        {
+          "symbol": "😓",
+          "name": "Downcast Face With Sweat",
+          "unicode": "U+1F613",
+          "html": "&#128531;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/downcast-face-with-sweat"
+        },
+        {
+          "symbol": "🥺",
+          "name": "Pleading Face",
+          "unicode": "U+1F97A",
+          "html": "&#129402;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/pleading-face"
+        },
+        {
+          "symbol": "😩",
+          "name": "Weary Face",
+          "unicode": "U+1F629",
+          "html": "&#128553;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/weary-face"
+        },
+        {
+          "symbol": "😫",
+          "name": "Tired Face",
+          "unicode": "U+1F62B",
+          "html": "&#128555;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/tired-face"
+        }
+      ]
+    },
+    {
+      "slug": "laughing-emoji",
+      "title": "Laughing Emoji",
+      "url": "https://free-symbols.com/collections/laughing-emoji",
+      "symbols": [
+        {
+          "symbol": "😂",
+          "name": "Face With Tears Of Joy",
+          "unicode": "U+1F602",
+          "html": "&#128514;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/face-with-tears-of-joy"
+        },
+        {
+          "symbol": "🤣",
+          "name": "Rolling On The Floor Laughing",
+          "unicode": "U+1F923",
+          "html": "&#129315;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/rolling-on-the-floor-laughing"
+        },
+        {
+          "symbol": "😆",
+          "name": "Grinning Squinting Face",
+          "unicode": "U+1F606",
+          "html": "&#128518;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/grinning-squinting-face"
+        },
+        {
+          "symbol": "😹",
+          "name": "Cat With Tears Of Joy",
+          "unicode": "U+1F639",
+          "html": "&#128569;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/costume-faces/cat-with-tears-of-joy"
+        },
+        {
+          "symbol": "😄",
+          "name": "Grinning Face With Smiling Eyes",
+          "unicode": "U+1F604",
+          "html": "&#128516;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/grinning-face-with-smiling-eyes"
+        },
+        {
+          "symbol": "😁",
+          "name": "Beaming Face With Smiling Eyes",
+          "unicode": "U+1F601",
+          "html": "&#128513;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/beaming-face-with-smiling-eyes"
+        },
+        {
+          "symbol": "😅",
+          "name": "Grinning Face With Sweat",
+          "unicode": "U+1F605",
+          "html": "&#128517;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/grinning-face-with-sweat"
+        },
+        {
+          "symbol": "😃",
+          "name": "Grinning Face With Big Eyes",
+          "unicode": "U+1F603",
+          "html": "&#128515;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/grinning-face-with-big-eyes"
+        },
+        {
+          "symbol": "😸",
+          "name": "Grinning Cat With Smiling Eyes",
+          "unicode": "U+1F638",
+          "html": "&#128568;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/costume-faces/grinning-cat-with-smiling-eyes"
+        },
+        {
+          "symbol": "🤭",
+          "name": "Face With Hand Over Mouth",
+          "unicode": "U+1F92D",
+          "html": "&#129325;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/neutral-faces/face-with-hand-over-mouth"
+        },
+        {
+          "symbol": "😝",
+          "name": "Squinting Face With Tongue",
+          "unicode": "U+1F61D",
+          "html": "&#128541;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/smiling-faces/squinting-face-with-tongue"
+        }
+      ]
+    },
+    {
+      "slug": "sad-emoji",
+      "title": "Sad Emoji",
+      "url": "https://free-symbols.com/collections/sad-emoji",
+      "symbols": [
+        {
+          "symbol": "😞",
+          "name": "Disappointed Face",
+          "unicode": "U+1F61E",
+          "html": "&#128542;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/disappointed-face"
+        },
+        {
+          "symbol": "😔",
+          "name": "Pensive Face",
+          "unicode": "U+1F614",
+          "html": "&#128532;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/neutral-faces/pensive-face"
+        },
+        {
+          "symbol": "😟",
+          "name": "Worried Face",
+          "unicode": "U+1F61F",
+          "html": "&#128543;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/worried-face"
+        },
+        {
+          "symbol": "🙁",
+          "name": "Slightly Frowning Face",
+          "unicode": "U+1F641",
+          "html": "&#128577;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/slightly-frowning-face"
+        },
+        {
+          "symbol": "☹️",
+          "name": "Frowning Face",
+          "unicode": "U+2639 U+FE0F",
+          "html": "&#9785;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/frowning-face"
+        },
+        {
+          "symbol": "😢",
+          "name": "Crying Face",
+          "unicode": "U+1F622",
+          "html": "&#128546;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/crying-face"
+        },
+        {
+          "symbol": "😭",
+          "name": "Loudly Crying Face",
+          "unicode": "U+1F62D",
+          "html": "&#128557;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/loudly-crying-face"
+        },
+        {
+          "symbol": "🥺",
+          "name": "Pleading Face",
+          "unicode": "U+1F97A",
+          "html": "&#129402;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/pleading-face"
+        },
+        {
+          "symbol": "😿",
+          "name": "Crying Cat",
+          "unicode": "U+1F63F",
+          "html": "&#128575;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/costume-faces/crying-cat"
+        },
+        {
+          "symbol": "💔",
+          "name": "Broken Heart",
+          "unicode": "U+1F494",
+          "html": "&#128148;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/hearts/broken-heart"
+        },
+        {
+          "symbol": "😕",
+          "name": "Confused Face",
+          "unicode": "U+1F615",
+          "html": "&#128533;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/confused-face"
+        },
+        {
+          "symbol": "😥",
+          "name": "Sad But Relieved Face",
+          "unicode": "U+1F625",
+          "html": "&#128549;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/sad-but-relieved-face"
+        },
+        {
+          "symbol": "🥀",
+          "name": "Wilted Flower",
+          "unicode": "U+1F940",
+          "html": "&#129344;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/plants-flowers/wilted-flower"
+        }
+      ]
+    },
+    {
+      "slug": "angry-emoji",
+      "title": "Angry Emoji",
+      "url": "https://free-symbols.com/collections/angry-emoji",
+      "symbols": [
+        {
+          "symbol": "😠",
+          "name": "Angry Face",
+          "unicode": "U+1F620",
+          "html": "&#128544;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/angry-face"
+        },
+        {
+          "symbol": "😡",
+          "name": "Enraged Face",
+          "unicode": "U+1F621",
+          "html": "&#128545;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/enraged-face"
+        },
+        {
+          "symbol": "🤬",
+          "name": "Face With Symbols On Mouth",
+          "unicode": "U+1F92C",
+          "html": "&#129324;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/face-with-symbols-on-mouth"
+        },
+        {
+          "symbol": "😤",
+          "name": "Face With Steam From Nose",
+          "unicode": "U+1F624",
+          "html": "&#128548;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/face-with-steam-from-nose"
+        },
+        {
+          "symbol": "👿",
+          "name": "Angry Face With Horns",
+          "unicode": "U+1F47F",
+          "html": "&#128127;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/negative-faces/angry-face-with-horns"
+        },
+        {
+          "symbol": "💢",
+          "name": "Anger Symbol",
+          "unicode": "U+1F4A2",
+          "html": "&#128162;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emotions/anger-symbol"
+        },
+        {
+          "symbol": "😾",
+          "name": "Pouting Cat",
+          "unicode": "U+1F63E",
+          "html": "&#128574;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/costume-faces/pouting-cat"
+        },
+        {
+          "symbol": "🗯️",
+          "name": "Right Anger Bubble",
+          "unicode": "U+1F5EF U+FE0F",
+          "html": "&#128495;",
+          "alt_code": null,
+          "url": "https://free-symbols.com/emoji/emotions/right-anger-bubble"
+        }
+      ]
+    }
+  ]
+}
